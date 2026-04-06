@@ -78,16 +78,9 @@ Running record of all changes made to the experiment pipeline post-initial-run.
 
 ---
 
-## Fix 10 — Switched to validated stimuli with published human norms
-**Files:** `download_validated_stimuli.py` (new), `experiment.ipynb` (Cells 7–8, 12, 14)  
-**Problem:** Human baselines (Snodgrass & Corwin 1988; Koch et al. 1995) were from different images tested with different degradation methods. Comparing VLM performance on our generated stimuli to those norms is not a valid comparison.  
-**Fix:**
-- Created `download_validated_stimuli.py` to fetch FAOT (Colman et al., 2019) from GitHub and Reining & Wallis (2024) Mooney images from Zenodo
-- FAOT: 100 fragmented images, per-image human recognizability norms from 120 observers; saved to `stimuli/faot/` and `stimuli/faot_norms.csv`
-- Added `load_validated_stimuli()` to notebook — loads FAOT + Mooney validated images into the same `{label, condition, path}` format as `load_stimuli()`
-- Updated `run_experiment` cell to call `load_validated_stimuli()` instead of `load_stimuli()`
-- Updated `plot_accuracy` to show per-image scatter (VLM vs. human recognizability) as primary figure, with correlation coefficient
-- Emailed Fatma Imamoglu (fatmaimamoglu@gmail.com) to request MoonBase (Imamoglu et al., 2012) for Mooney norms
+## Fix 10 — FAOT dropped: labels too noisy for valid scoring
+**Decision:** FAOT (Colman et al., 2019) was downloaded and run through both models, but the `names` column (human free responses used as canonical labels) contained raw noisy text — typos, phrases, non-English words — making automated scoring unreliable (e.g. `"p;ow"`, `"two people having sex"`, `"mailboix"`). Accuracy came out 1–4% which reflects label mismatch, not model failure.  
+**Resolution:** FAOT files removed. Reverted to S&V stimuli with Snodgrass & Corwin (1988) literature baselines, with the degradation method mismatch acknowledged as a limitation on the poster.
 
 ---
 
