@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 stimuli/
+.vscode/
+sv_original/
+sv_original.zip
