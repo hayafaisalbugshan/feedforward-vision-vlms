@@ -1,6 +1,6 @@
 # Do VLMs Use Feedforward or Feedback Visual Processing?
 
-**Haya Bugshan, Mohammad Essa — CPSY 1950: Deep Learning in Brains, Minds & Machines — Brown University, Spring 2026**
+**Haya Bugshan CPSY 1950: Deep Learning in Brains, Minds & Machines — Brown University, Spring 2026**
 
 We tested whether vision-language models (VLMs) process images the way humans do — specifically whether they rely on feedforward feature matching or top-down feedback for object recognition. Using Snodgrass & Vanderwart (1980) line drawings across 4,160 trials, we found that VLMs consistently outperform humans on degraded drawings but fail at human levels on Mooney (two-tone) images when sufficiently hard — consistent with a feedforward processing account. A visual priming experiment further showed that models recover Mooney recognition when given a degraded hint in the same prompt, but only because both images co-exist in one forward pass — not true perceptual memory.
 
