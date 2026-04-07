@@ -1,0 +1,139 @@
+model,label,condition,response,correct
+claude-sonnet-4-5,French_horn,mooney_hard_unprimed,paw print,False
+claude-sonnet-4-5,French_horn,mooney_hard_primed,french horn,True
+claude-sonnet-4-5,accordion,mooney_hard_unprimed,buckle,False
+claude-sonnet-4-5,accordion,mooney_hard_primed,buckle,False
+claude-sonnet-4-5,airplane,mooney_hard_unprimed,airplane,True
+claude-sonnet-4-5,airplane,mooney_hard_primed,airplane,True
+claude-sonnet-4-5,alligator,mooney_hard_unprimed,salamander,False
+claude-sonnet-4-5,alligator,mooney_hard_primed,crocodile,False
+claude-sonnet-4-5,anchor,mooney_hard_unprimed,anchor,True
+claude-sonnet-4-5,anchor,mooney_hard_primed,anchor,True
+claude-sonnet-4-5,ant,mooney_hard_unprimed,ant,True
+claude-sonnet-4-5,ant,mooney_hard_primed,ant,True
+claude-sonnet-4-5,apple,mooney_hard_unprimed,apple,True
+claude-sonnet-4-5,apple,mooney_hard_primed,apple,True
+claude-sonnet-4-5,arm,mooney_hard_unprimed,hook,False
+claude-sonnet-4-5,arm,mooney_hard_primed,foot,False
+claude-sonnet-4-5,arrow,mooney_hard_unprimed,arrow,True
+claude-sonnet-4-5,arrow,mooney_hard_primed,arrow,True
+claude-sonnet-4-5,artichoke,mooney_hard_unprimed,turtle shell,False
+claude-sonnet-4-5,artichoke,mooney_hard_primed,artichoke,True
+claude-sonnet-4-5,ashtray,mooney_hard_unprimed,gasket,False
+claude-sonnet-4-5,ashtray,mooney_hard_primed,gasket,False
+claude-sonnet-4-5,asparagus,mooney_hard_unprimed,knife,False
+claude-sonnet-4-5,asparagus,mooney_hard_primed,knife,False
+claude-sonnet-4-5,axe,mooney_hard_unprimed,axe,True
+claude-sonnet-4-5,axe,mooney_hard_primed,axe,True
+claude-sonnet-4-5,baby_carriage,mooney_hard_unprimed,baby stroller,False
+claude-sonnet-4-5,baby_carriage,mooney_hard_primed,baby stroller,False
+claude-sonnet-4-5,ball,mooney_hard_unprimed,ball,True
+claude-sonnet-4-5,ball,mooney_hard_primed,beach ball,True
+claude-sonnet-4-5,balloon,mooney_hard_unprimed,balloon,True
+claude-sonnet-4-5,balloon,mooney_hard_primed,balloon,True
+claude-sonnet-4-5,banana,mooney_hard_unprimed,banana,True
+claude-sonnet-4-5,banana,mooney_hard_primed,banana,True
+claude-sonnet-4-5,barn,mooney_hard_unprimed,treasure chest,False
+claude-sonnet-4-5,barn,mooney_hard_primed,barn,True
+claude-sonnet-4-5,barrel,mooney_hard_unprimed,barrel,True
+claude-sonnet-4-5,barrel,mooney_hard_primed,barrel,True
+claude-sonnet-4-5,baseball_bat,mooney_hard_unprimed,baseball bat,True
+claude-sonnet-4-5,baseball_bat,mooney_hard_primed,baseball bat,True
+claude-sonnet-4-5,basket,mooney_hard_unprimed,lunch box,False
+claude-sonnet-4-5,basket,mooney_hard_primed,basket,True
+claude-sonnet-4-5,bear,mooney_hard_unprimed,bear,True
+claude-sonnet-4-5,bear,mooney_hard_primed,bear,True
+claude-sonnet-4-5,bed,mooney_hard_unprimed,bed,True
+claude-sonnet-4-5,bed,mooney_hard_primed,bed,True
+claude-sonnet-4-5,bee,mooney_hard_unprimed,bee,True
+claude-sonnet-4-5,bee,mooney_hard_primed,bee,True
+claude-sonnet-4-5,beetle,mooney_hard_unprimed,fly,False
+claude-sonnet-4-5,beetle,mooney_hard_primed,beetle,True
+claude-sonnet-4-5,bell,mooney_hard_unprimed,bell,True
+claude-sonnet-4-5,bell,mooney_hard_primed,bell,True
+claude-sonnet-4-5,belt,mooney_hard_unprimed,dog collar,False
+claude-sonnet-4-5,belt,mooney_hard_primed,belt,True
+claude-sonnet-4-5,bicycle,mooney_hard_unprimed,moped,False
+claude-sonnet-4-5,bicycle,mooney_hard_primed,motorcycle,False
+claude-sonnet-4-5,bird,mooney_hard_unprimed,bird,True
+claude-sonnet-4-5,bird,mooney_hard_primed,blue jay,False
+claude-sonnet-4-5,blouse,mooney_hard_unprimed,jacket,False
+claude-sonnet-4-5,blouse,mooney_hard_primed,jacket,False
+claude-sonnet-4-5,book,mooney_hard_unprimed,book,True
+claude-sonnet-4-5,book,mooney_hard_primed,book,True
+claude-sonnet-4-5,boot,mooney_hard_unprimed,boot,True
+claude-sonnet-4-5,boot,mooney_hard_primed,boot,True
+claude-sonnet-4-5,bottle,mooney_hard_unprimed,bottle,True
+claude-sonnet-4-5,bottle,mooney_hard_primed,bottle,True
+claude-sonnet-4-5,bow,mooney_hard_unprimed,inkblot,False
+claude-sonnet-4-5,bow,mooney_hard_primed,bow,True
+claude-sonnet-4-5,bowl,mooney_hard_unprimed,smile,False
+claude-sonnet-4-5,bowl,mooney_hard_primed,bowl,True
+claude-sonnet-4-5,box,mooney_hard_unprimed,box,True
+claude-sonnet-4-5,box,mooney_hard_primed,box,True
+claude-sonnet-4-5,bread,mooney_hard_unprimed,arabic letter,False
+claude-sonnet-4-5,bread,mooney_hard_primed,bread,True
+claude-sonnet-4-5,broom,mooney_hard_unprimed,screwdriver,False
+claude-sonnet-4-5,broom,mooney_hard_primed,spatula,False
+claude-sonnet-4-5,brush,mooney_hard_unprimed,frying pan,False
+claude-sonnet-4-5,brush,mooney_hard_primed,brush,True
+claude-sonnet-4-5,bus,mooney_hard_unprimed,game controller,False
+claude-sonnet-4-5,bus,mooney_hard_primed,bus,True
+claude-sonnet-4-5,butterfly,mooney_hard_unprimed,butterfly,True
+claude-sonnet-4-5,butterfly,mooney_hard_primed,butterfly,True
+claude-sonnet-4-5,button,mooney_hard_unprimed,button,True
+claude-sonnet-4-5,button,mooney_hard_primed,button,True
+claude-sonnet-4-5,cake,mooney_hard_unprimed,pancakes,True
+claude-sonnet-4-5,cake,mooney_hard_primed,layer cake,True
+claude-sonnet-4-5,camel,mooney_hard_unprimed,camel,True
+claude-sonnet-4-5,camel,mooney_hard_primed,camel,True
+claude-sonnet-4-5,candle,mooney_hard_unprimed,candle,True
+claude-sonnet-4-5,candle,mooney_hard_primed,candle,True
+claude-sonnet-4-5,cannon,mooney_hard_unprimed,teapot,False
+claude-sonnet-4-5,cannon,mooney_hard_primed,cannon,True
+claude-sonnet-4-5,cap,mooney_hard_unprimed,oyster,False
+claude-sonnet-4-5,cap,mooney_hard_primed,flat cap,True
+claude-sonnet-4-5,car,mooney_hard_unprimed,car,True
+claude-sonnet-4-5,car,mooney_hard_primed,car,True
+claude-sonnet-4-5,carrot,mooney_hard_unprimed,dandelion,False
+claude-sonnet-4-5,carrot,mooney_hard_primed,carrot,True
+claude-sonnet-4-5,cat,mooney_hard_unprimed,cat,True
+claude-sonnet-4-5,cat,mooney_hard_primed,cat,True
+claude-sonnet-4-5,caterpillar,mooney_hard_unprimed,caterpillar,True
+claude-sonnet-4-5,caterpillar,mooney_hard_primed,caterpillar,True
+claude-sonnet-4-5,celery,mooney_hard_unprimed,wrench,False
+claude-sonnet-4-5,celery,mooney_hard_primed,celery,True
+claude-sonnet-4-5,chain,mooney_hard_unprimed,mustache,False
+claude-sonnet-4-5,chain,mooney_hard_primed,chain,True
+claude-sonnet-4-5,chair,mooney_hard_unprimed,chair,True
+claude-sonnet-4-5,chair,mooney_hard_primed,chair,True
+claude-sonnet-4-5,cherry,mooney_hard_unprimed,ladle,False
+claude-sonnet-4-5,cherry,mooney_hard_primed,cherry,True
+claude-sonnet-4-5,chicken,mooney_hard_unprimed,wine glass,False
+claude-sonnet-4-5,chicken,mooney_hard_primed,chicken,True
+claude-sonnet-4-5,chisel,mooney_hard_unprimed,wrench,False
+claude-sonnet-4-5,chisel,mooney_hard_primed,bottle opener,False
+claude-sonnet-4-5,church,mooney_hard_unprimed,toothbrush,False
+claude-sonnet-4-5,church,mooney_hard_primed,church,True
+claude-sonnet-4-5,cigar,mooney_hard_unprimed,paint brush stroke,False
+claude-sonnet-4-5,cigar,mooney_hard_primed,bat,False
+claude-sonnet-4-5,cigarette,mooney_hard_unprimed,worm,False
+claude-sonnet-4-5,cigarette,mooney_hard_primed,cigarette,True
+claude-sonnet-4-5,clock,mooney_hard_unprimed,alarm clock,True
+claude-sonnet-4-5,clock,mooney_hard_primed,mantel clock,True
+claude-sonnet-4-5,clothespin,mooney_hard_unprimed,pliers,False
+claude-sonnet-4-5,clothespin,mooney_hard_primed,pliers,False
+claude-sonnet-4-5,cloud,mooney_hard_unprimed,turtle shell,False
+claude-sonnet-4-5,cloud,mooney_hard_primed,cloud,True
+claude-sonnet-4-5,clown,mooney_hard_unprimed,viking helmet,False
+claude-sonnet-4-5,clown,mooney_hard_primed,clown,True
+claude-sonnet-4-5,coat,mooney_hard_unprimed,lab coat,True
+claude-sonnet-4-5,coat,mooney_hard_primed,lab coat,True
+claude-sonnet-4-5,comb,mooney_hard_unprimed,rolling pin,False
+claude-sonnet-4-5,comb,mooney_hard_primed,"baton
+ (or cylindrical rod/tube)",False
+claude-sonnet-4-5,corn,mooney_hard_unprimed,island,False
+claude-sonnet-4-5,corn,mooney_hard_primed,sperm whale,False
+claude-sonnet-4-5,couch,mooney_hard_unprimed,ink blots,False
+claude-sonnet-4-5,couch,mooney_hard_primed,sofa,False
+claude-sonnet-4-5,cow,mooney_hard_unprimed,dog,False

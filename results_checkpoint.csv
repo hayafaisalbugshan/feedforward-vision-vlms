@@ -1,0 +1,3121 @@
+model,label,condition,response,correct
+claude-sonnet-4-5,French_horn,mooney,french horn,True
+claude-sonnet-4-5,French_horn,mooney_inv,french horn,True
+claude-sonnet-4-5,French_horn,degraded_25,french horn,True
+claude-sonnet-4-5,French_horn,degraded_50,french horn,True
+claude-sonnet-4-5,French_horn,degraded_75,rose,False
+claude-sonnet-4-5,French_horn,degraded_90,rose,False
+claude-sonnet-4-5,accordion,mooney,belt buckle,False
+claude-sonnet-4-5,accordion,mooney_inv,buckle,False
+claude-sonnet-4-5,accordion,degraded_25,corrugated fastener,False
+claude-sonnet-4-5,accordion,degraded_50,scarf,False
+claude-sonnet-4-5,accordion,degraded_75,gauze bandage,False
+claude-sonnet-4-5,accordion,degraded_90,tissue box,False
+claude-sonnet-4-5,airplane,mooney,airplane,True
+claude-sonnet-4-5,airplane,mooney_inv,airplane,True
+claude-sonnet-4-5,airplane,degraded_25,airplane,True
+claude-sonnet-4-5,airplane,degraded_50,airplane,True
+claude-sonnet-4-5,airplane,degraded_75,airplane,True
+claude-sonnet-4-5,airplane,degraded_90,starfish,False
+claude-sonnet-4-5,alligator,mooney,crocodile,False
+claude-sonnet-4-5,alligator,mooney_inv,alligator,True
+claude-sonnet-4-5,alligator,degraded_25,alligator,True
+claude-sonnet-4-5,alligator,degraded_50,crocodile,False
+claude-sonnet-4-5,alligator,degraded_75,alligator,True
+claude-sonnet-4-5,alligator,degraded_90,fish,False
+claude-sonnet-4-5,anchor,mooney,anchor,True
+claude-sonnet-4-5,anchor,mooney_inv,anchor,True
+claude-sonnet-4-5,anchor,degraded_25,anchor,True
+claude-sonnet-4-5,anchor,degraded_50,anchor,True
+claude-sonnet-4-5,anchor,degraded_75,anchor,True
+claude-sonnet-4-5,anchor,degraded_90,arrow,False
+claude-sonnet-4-5,ant,mooney,ant,True
+claude-sonnet-4-5,ant,mooney_inv,ant,True
+claude-sonnet-4-5,ant,degraded_25,ant,True
+claude-sonnet-4-5,ant,degraded_50,ant,True
+claude-sonnet-4-5,ant,degraded_75,ant,True
+claude-sonnet-4-5,ant,degraded_90,palm tree,False
+claude-sonnet-4-5,apple,mooney,apple,True
+claude-sonnet-4-5,apple,mooney_inv,apple,True
+claude-sonnet-4-5,apple,degraded_25,apple,True
+claude-sonnet-4-5,apple,degraded_50,apple,True
+claude-sonnet-4-5,apple,degraded_75,apple,True
+claude-sonnet-4-5,apple,degraded_90,apple,True
+claude-sonnet-4-5,arm,mooney,foot,False
+claude-sonnet-4-5,arm,mooney_inv,earbuds,False
+claude-sonnet-4-5,arm,degraded_25,arm,True
+claude-sonnet-4-5,arm,degraded_50,leg,False
+claude-sonnet-4-5,arm,degraded_75,earthworm,False
+claude-sonnet-4-5,arm,degraded_90,sperm,False
+claude-sonnet-4-5,arrow,mooney,arrow,True
+claude-sonnet-4-5,arrow,mooney_inv,arrow,True
+claude-sonnet-4-5,arrow,degraded_25,arrow,True
+claude-sonnet-4-5,arrow,degraded_50,arrow,True
+claude-sonnet-4-5,arrow,degraded_75,arrow,True
+claude-sonnet-4-5,arrow,degraded_90,arrow,True
+claude-sonnet-4-5,artichoke,mooney,artichoke,True
+claude-sonnet-4-5,artichoke,mooney_inv,hot air balloon,False
+claude-sonnet-4-5,artichoke,degraded_25,artichoke,True
+claude-sonnet-4-5,artichoke,degraded_50,artichoke,True
+claude-sonnet-4-5,artichoke,degraded_75,artichoke,True
+claude-sonnet-4-5,artichoke,degraded_90,soccer ball,False
+claude-sonnet-4-5,ashtray,mooney,gasket,False
+claude-sonnet-4-5,ashtray,mooney_inv,gasket,False
+claude-sonnet-4-5,ashtray,degraded_25,ashtray,True
+claude-sonnet-4-5,ashtray,degraded_50,ashtray,True
+claude-sonnet-4-5,ashtray,degraded_75,soap dish,False
+claude-sonnet-4-5,ashtray,degraded_90,teacup and saucer,False
+claude-sonnet-4-5,asparagus,mooney,baguette,False
+claude-sonnet-4-5,asparagus,mooney_inv,flute,False
+claude-sonnet-4-5,asparagus,degraded_25,stick or twig,False
+claude-sonnet-4-5,asparagus,degraded_50,baguette,False
+claude-sonnet-4-5,asparagus,degraded_75,stick or twig,False
+claude-sonnet-4-5,asparagus,degraded_90,dotted line,False
+claude-sonnet-4-5,axe,mooney,axe,True
+claude-sonnet-4-5,axe,mooney_inv,axe,True
+claude-sonnet-4-5,axe,degraded_25,axe,True
+claude-sonnet-4-5,axe,degraded_50,axe,True
+claude-sonnet-4-5,axe,degraded_75,axe,True
+claude-sonnet-4-5,axe,degraded_90,axe,True
+claude-sonnet-4-5,baby_carriage,mooney,baby stroller,True
+claude-sonnet-4-5,baby_carriage,mooney_inv,baby stroller,True
+claude-sonnet-4-5,baby_carriage,degraded_25,baby stroller,True
+claude-sonnet-4-5,baby_carriage,degraded_50,baby stroller,True
+claude-sonnet-4-5,baby_carriage,degraded_75,baby stroller,True
+claude-sonnet-4-5,baby_carriage,degraded_90,skull and crossbones,False
+claude-sonnet-4-5,ball,mooney,cricket ball,True
+claude-sonnet-4-5,ball,mooney_inv,ball,True
+claude-sonnet-4-5,ball,degraded_25,ball,True
+claude-sonnet-4-5,ball,degraded_50,baseball,True
+claude-sonnet-4-5,ball,degraded_75,volleyball,True
+claude-sonnet-4-5,ball,degraded_90,volleyball,True
+claude-sonnet-4-5,balloon,mooney,balloon,True
+claude-sonnet-4-5,balloon,mooney_inv,magnifying glass,False
+claude-sonnet-4-5,balloon,degraded_25,balloon,True
+claude-sonnet-4-5,balloon,degraded_50,balloon,True
+claude-sonnet-4-5,balloon,degraded_75,balloon,True
+claude-sonnet-4-5,balloon,degraded_90,balloon,True
+claude-sonnet-4-5,banana,mooney,banana,True
+claude-sonnet-4-5,banana,mooney_inv,banana,True
+claude-sonnet-4-5,banana,degraded_25,banana,True
+claude-sonnet-4-5,banana,degraded_50,banana,True
+claude-sonnet-4-5,banana,degraded_75,banana,True
+claude-sonnet-4-5,banana,degraded_90,banana,True
+claude-sonnet-4-5,barn,mooney,barn,True
+claude-sonnet-4-5,barn,mooney_inv,treasure chest,False
+claude-sonnet-4-5,barn,degraded_25,barn,True
+claude-sonnet-4-5,barn,degraded_50,barn,True
+claude-sonnet-4-5,barn,degraded_75,gingerbread house,False
+claude-sonnet-4-5,barn,degraded_90,brain,False
+claude-sonnet-4-5,barrel,mooney,barrel,True
+claude-sonnet-4-5,barrel,mooney_inv,barrel,True
+claude-sonnet-4-5,barrel,degraded_25,barrel,True
+claude-sonnet-4-5,barrel,degraded_50,barrel,True
+claude-sonnet-4-5,barrel,degraded_75,barrel,True
+claude-sonnet-4-5,barrel,degraded_90,barrel,True
+claude-sonnet-4-5,baseball_bat,mooney,baseball bat,True
+claude-sonnet-4-5,baseball_bat,mooney_inv,baseball bat,True
+claude-sonnet-4-5,baseball_bat,degraded_25,baseball bat,True
+claude-sonnet-4-5,baseball_bat,degraded_50,baseball bat,True
+claude-sonnet-4-5,baseball_bat,degraded_75,stick,False
+claude-sonnet-4-5,baseball_bat,degraded_90,comet,False
+claude-sonnet-4-5,basket,mooney,basket,True
+claude-sonnet-4-5,basket,mooney_inv,basket,True
+claude-sonnet-4-5,basket,degraded_25,basket,True
+claude-sonnet-4-5,basket,degraded_50,basket,True
+claude-sonnet-4-5,basket,degraded_75,basket,True
+claude-sonnet-4-5,basket,degraded_90,tissue box,False
+claude-sonnet-4-5,bear,mooney,bear,True
+claude-sonnet-4-5,bear,mooney_inv,bear,True
+claude-sonnet-4-5,bear,degraded_25,bear,True
+claude-sonnet-4-5,bear,degraded_50,bear,True
+claude-sonnet-4-5,bear,degraded_75,bear,True
+claude-sonnet-4-5,bear,degraded_90,bear,True
+claude-sonnet-4-5,bed,mooney,bed,True
+claude-sonnet-4-5,bed,mooney_inv,bed,True
+claude-sonnet-4-5,bed,degraded_25,bed,True
+claude-sonnet-4-5,bed,degraded_50,bed,True
+claude-sonnet-4-5,bed,degraded_75,bed,True
+claude-sonnet-4-5,bed,degraded_90,bed,True
+claude-sonnet-4-5,bee,mooney,bee,True
+claude-sonnet-4-5,bee,mooney_inv,wasp,False
+claude-sonnet-4-5,bee,degraded_25,bee,True
+claude-sonnet-4-5,bee,degraded_50,bee,True
+claude-sonnet-4-5,bee,degraded_75,ant,False
+claude-sonnet-4-5,bee,degraded_90,horse,False
+claude-sonnet-4-5,beetle,mooney,beetle,True
+claude-sonnet-4-5,beetle,mooney_inv,beetle,True
+claude-sonnet-4-5,beetle,degraded_25,beetle,True
+claude-sonnet-4-5,beetle,degraded_50,fly,False
+claude-sonnet-4-5,beetle,degraded_75,horse,False
+claude-sonnet-4-5,beetle,degraded_90,spider,False
+claude-sonnet-4-5,bell,mooney,bell,True
+claude-sonnet-4-5,bell,mooney_inv,bell,True
+claude-sonnet-4-5,bell,degraded_25,bell,True
+claude-sonnet-4-5,bell,degraded_50,bell,True
+claude-sonnet-4-5,bell,degraded_75,bell,True
+claude-sonnet-4-5,bell,degraded_90,bell,True
+claude-sonnet-4-5,belt,mooney,belt,True
+claude-sonnet-4-5,belt,mooney_inv,dog collar,False
+claude-sonnet-4-5,belt,degraded_25,belt,True
+claude-sonnet-4-5,belt,degraded_50,belt,True
+claude-sonnet-4-5,belt,degraded_75,bracelet,False
+claude-sonnet-4-5,belt,degraded_90,necklace,False
+claude-sonnet-4-5,bicycle,mooney,bicycle,True
+claude-sonnet-4-5,bicycle,mooney_inv,bicycle,True
+claude-sonnet-4-5,bicycle,degraded_25,bicycle,True
+claude-sonnet-4-5,bicycle,degraded_50,bicycle,True
+claude-sonnet-4-5,bicycle,degraded_75,bicycle,True
+claude-sonnet-4-5,bicycle,degraded_90,bicycle,True
+claude-sonnet-4-5,bird,mooney,bird,True
+claude-sonnet-4-5,bird,mooney_inv,bird,True
+claude-sonnet-4-5,bird,degraded_25,bird,True
+claude-sonnet-4-5,bird,degraded_50,bird,True
+claude-sonnet-4-5,bird,degraded_75,bird,True
+claude-sonnet-4-5,bird,degraded_90,bird,True
+claude-sonnet-4-5,blouse,mooney,jacket,False
+claude-sonnet-4-5,blouse,mooney_inv,jacket,False
+claude-sonnet-4-5,blouse,degraded_25,blouse,True
+claude-sonnet-4-5,blouse,degraded_50,jacket,False
+claude-sonnet-4-5,blouse,degraded_75,jacket,False
+claude-sonnet-4-5,blouse,degraded_90,jacket,False
+claude-sonnet-4-5,book,mooney,book,True
+claude-sonnet-4-5,book,mooney_inv,book,True
+claude-sonnet-4-5,book,degraded_25,book,True
+claude-sonnet-4-5,book,degraded_50,book,True
+claude-sonnet-4-5,book,degraded_75,box,False
+claude-sonnet-4-5,book,degraded_90,shopping bag,False
+claude-sonnet-4-5,boot,mooney,boot,True
+claude-sonnet-4-5,boot,mooney_inv,boot,True
+claude-sonnet-4-5,boot,degraded_25,boot,True
+claude-sonnet-4-5,boot,degraded_50,boot,True
+claude-sonnet-4-5,boot,degraded_75,cowboy boot,True
+claude-sonnet-4-5,boot,degraded_90,cowboy boot,True
+claude-sonnet-4-5,bottle,mooney,bottle,True
+claude-sonnet-4-5,bottle,mooney_inv,bottle,True
+claude-sonnet-4-5,bottle,degraded_25,bottle,True
+claude-sonnet-4-5,bottle,degraded_50,bottle,True
+claude-sonnet-4-5,bottle,degraded_75,bottle,True
+claude-sonnet-4-5,bottle,degraded_90,bottle,True
+claude-sonnet-4-5,bow,mooney,bow,True
+claude-sonnet-4-5,bow,mooney_inv,bow,True
+claude-sonnet-4-5,bow,degraded_25,bow,True
+claude-sonnet-4-5,bow,degraded_50,bow,True
+claude-sonnet-4-5,bow,degraded_75,bow,True
+claude-sonnet-4-5,bow,degraded_90,bow,True
+claude-sonnet-4-5,bowl,mooney,bowl,True
+claude-sonnet-4-5,bowl,mooney_inv,bowl,True
+claude-sonnet-4-5,bowl,degraded_25,bowl,True
+claude-sonnet-4-5,bowl,degraded_50,bowl,True
+claude-sonnet-4-5,bowl,degraded_75,bowl,True
+claude-sonnet-4-5,bowl,degraded_90,teacup,False
+claude-sonnet-4-5,box,mooney,box,True
+claude-sonnet-4-5,box,mooney_inv,box,True
+claude-sonnet-4-5,box,degraded_25,box,True
+claude-sonnet-4-5,box,degraded_50,box,True
+claude-sonnet-4-5,box,degraded_75,box,True
+claude-sonnet-4-5,box,degraded_90,box,True
+claude-sonnet-4-5,bread,mooney,bread loaf,True
+claude-sonnet-4-5,bread,mooney_inv,bread loaf,True
+claude-sonnet-4-5,bread,degraded_25,bread loaf,True
+claude-sonnet-4-5,bread,degraded_50,bread loaf,True
+claude-sonnet-4-5,bread,degraded_75,bread loaf,True
+claude-sonnet-4-5,bread,degraded_90,bread loaf,True
+claude-sonnet-4-5,broom,mooney,spatula,False
+claude-sonnet-4-5,broom,mooney_inv,spatula,False
+claude-sonnet-4-5,broom,degraded_25,shovel,False
+claude-sonnet-4-5,broom,degraded_50,spatula,False
+claude-sonnet-4-5,broom,degraded_75,spatula,False
+claude-sonnet-4-5,broom,degraded_90,guitar,False
+claude-sonnet-4-5,brush,mooney,brush,True
+claude-sonnet-4-5,brush,mooney_inv,brush,True
+claude-sonnet-4-5,brush,degraded_25,brush,True
+claude-sonnet-4-5,brush,degraded_50,scrub brush,True
+claude-sonnet-4-5,brush,degraded_75,paintbrush,True
+claude-sonnet-4-5,brush,degraded_90,toothbrush,True
+claude-sonnet-4-5,bus,mooney,bus,True
+claude-sonnet-4-5,bus,mooney_inv,bus,True
+claude-sonnet-4-5,bus,degraded_25,bus,True
+claude-sonnet-4-5,bus,degraded_50,volkswagen bus,True
+claude-sonnet-4-5,bus,degraded_75,bus,True
+claude-sonnet-4-5,bus,degraded_90,bus,True
+claude-sonnet-4-5,butterfly,mooney,butterfly,True
+claude-sonnet-4-5,butterfly,mooney_inv,butterfly,True
+claude-sonnet-4-5,butterfly,degraded_25,butterfly,True
+claude-sonnet-4-5,butterfly,degraded_50,butterfly,True
+claude-sonnet-4-5,butterfly,degraded_75,butterfly,True
+claude-sonnet-4-5,butterfly,degraded_90,butterfly,True
+claude-sonnet-4-5,button,mooney,button,True
+claude-sonnet-4-5,button,mooney_inv,button,True
+claude-sonnet-4-5,button,degraded_25,button,True
+claude-sonnet-4-5,button,degraded_50,button,True
+claude-sonnet-4-5,button,degraded_75,button,True
+claude-sonnet-4-5,button,degraded_90,coin,False
+claude-sonnet-4-5,cake,mooney,layered cake,True
+claude-sonnet-4-5,cake,mooney_inv,layer cake,True
+claude-sonnet-4-5,cake,degraded_25,layer cake,True
+claude-sonnet-4-5,cake,degraded_50,layer cake,True
+claude-sonnet-4-5,cake,degraded_75,layer cake,True
+claude-sonnet-4-5,cake,degraded_90,bucket hat,False
+claude-sonnet-4-5,camel,mooney,camel,True
+claude-sonnet-4-5,camel,mooney_inv,camel,True
+claude-sonnet-4-5,camel,degraded_25,camel,True
+claude-sonnet-4-5,camel,degraded_50,camel,True
+claude-sonnet-4-5,camel,degraded_75,camel,True
+claude-sonnet-4-5,camel,degraded_90,camel,True
+claude-sonnet-4-5,candle,mooney,candle,True
+claude-sonnet-4-5,candle,mooney_inv,candle,True
+claude-sonnet-4-5,candle,degraded_25,candle,True
+claude-sonnet-4-5,candle,degraded_50,candle,True
+claude-sonnet-4-5,candle,degraded_75,candle,True
+claude-sonnet-4-5,candle,degraded_90,candle,True
+claude-sonnet-4-5,cannon,mooney,cannon,True
+claude-sonnet-4-5,cannon,mooney_inv,cannon,True
+claude-sonnet-4-5,cannon,degraded_25,cannon,True
+claude-sonnet-4-5,cannon,degraded_50,cannon,True
+claude-sonnet-4-5,cannon,degraded_75,cannon,True
+claude-sonnet-4-5,cannon,degraded_90,bird,False
+claude-sonnet-4-5,cap,mooney,flat cap,True
+claude-sonnet-4-5,cap,mooney_inv,mussel shell,False
+claude-sonnet-4-5,cap,degraded_25,flat cap,True
+claude-sonnet-4-5,cap,degraded_50,mussel shell,False
+claude-sonnet-4-5,cap,degraded_75,necklace,False
+claude-sonnet-4-5,cap,degraded_90,shell,False
+claude-sonnet-4-5,car,mooney,police car,True
+claude-sonnet-4-5,car,mooney_inv,car,True
+claude-sonnet-4-5,car,degraded_25,car,True
+claude-sonnet-4-5,car,degraded_50,car,True
+claude-sonnet-4-5,car,degraded_75,car,True
+claude-sonnet-4-5,car,degraded_90,race car,True
+claude-sonnet-4-5,carrot,mooney,carrot,True
+claude-sonnet-4-5,carrot,mooney_inv,carrot,True
+claude-sonnet-4-5,carrot,degraded_25,carrot,True
+claude-sonnet-4-5,carrot,degraded_50,carrot,True
+claude-sonnet-4-5,carrot,degraded_75,carrot,True
+claude-sonnet-4-5,carrot,degraded_90,celery,False
+claude-sonnet-4-5,cat,mooney,cat,True
+claude-sonnet-4-5,cat,mooney_inv,cat,True
+claude-sonnet-4-5,cat,degraded_25,cat,True
+claude-sonnet-4-5,cat,degraded_50,cat,True
+claude-sonnet-4-5,cat,degraded_75,cat,True
+claude-sonnet-4-5,cat,degraded_90,rabbit,False
+claude-sonnet-4-5,caterpillar,mooney,caterpillar,True
+claude-sonnet-4-5,caterpillar,mooney_inv,caterpillar,True
+claude-sonnet-4-5,caterpillar,degraded_25,caterpillar,True
+claude-sonnet-4-5,caterpillar,degraded_50,caterpillar,True
+claude-sonnet-4-5,caterpillar,degraded_75,tiara,False
+claude-sonnet-4-5,caterpillar,degraded_90,caterpillar,True
+claude-sonnet-4-5,celery,mooney,celery,True
+claude-sonnet-4-5,celery,mooney_inv,celery,True
+claude-sonnet-4-5,celery,degraded_25,celery,True
+claude-sonnet-4-5,celery,degraded_50,celery,True
+claude-sonnet-4-5,celery,degraded_75,celery,True
+claude-sonnet-4-5,celery,degraded_90,wrench,False
+claude-sonnet-4-5,chain,mooney,chain,True
+claude-sonnet-4-5,chain,mooney_inv,chain link,True
+claude-sonnet-4-5,chain,degraded_25,chain,True
+claude-sonnet-4-5,chain,degraded_50,chain,True
+claude-sonnet-4-5,chain,degraded_75,banana,False
+claude-sonnet-4-5,chain,degraded_90,banana,False
+claude-sonnet-4-5,chair,mooney,chair,True
+claude-sonnet-4-5,chair,mooney_inv,chair,True
+claude-sonnet-4-5,chair,degraded_25,chair,True
+claude-sonnet-4-5,chair,degraded_50,chair,True
+claude-sonnet-4-5,chair,degraded_75,chair,True
+claude-sonnet-4-5,chair,degraded_90,chair,True
+claude-sonnet-4-5,cherry,mooney,cherry,True
+claude-sonnet-4-5,cherry,mooney_inv,cherry,True
+claude-sonnet-4-5,cherry,degraded_25,cherry,True
+claude-sonnet-4-5,cherry,degraded_50,cherry,True
+claude-sonnet-4-5,cherry,degraded_75,cherry,True
+claude-sonnet-4-5,cherry,degraded_90,cherry,True
+claude-sonnet-4-5,chicken,mooney,chicken,True
+claude-sonnet-4-5,chicken,mooney_inv,chicken,True
+claude-sonnet-4-5,chicken,degraded_25,chicken,True
+claude-sonnet-4-5,chicken,degraded_50,chicken,True
+claude-sonnet-4-5,chicken,degraded_75,chicken,True
+claude-sonnet-4-5,chicken,degraded_90,chicken,True
+claude-sonnet-4-5,chisel,mooney,screwdriver,False
+claude-sonnet-4-5,chisel,mooney_inv,screwdriver,False
+claude-sonnet-4-5,chisel,degraded_25,screwdriver,False
+claude-sonnet-4-5,chisel,degraded_50,hammer,False
+claude-sonnet-4-5,chisel,degraded_75,toothbrush,False
+claude-sonnet-4-5,chisel,degraded_90,toothbrush,False
+claude-sonnet-4-5,church,mooney,church,True
+claude-sonnet-4-5,church,mooney_inv,church,True
+claude-sonnet-4-5,church,degraded_25,church,True
+claude-sonnet-4-5,church,degraded_50,church,True
+claude-sonnet-4-5,church,degraded_75,church,True
+claude-sonnet-4-5,church,degraded_90,church,True
+claude-sonnet-4-5,cigar,mooney,crayon,False
+claude-sonnet-4-5,cigar,mooney_inv,cigar,True
+claude-sonnet-4-5,cigar,degraded_25,cigar,True
+claude-sonnet-4-5,cigar,degraded_50,toothbrush,False
+claude-sonnet-4-5,cigar,degraded_75,toothbrush,False
+claude-sonnet-4-5,cigar,degraded_90,toothbrush,False
+claude-sonnet-4-5,cigarette,mooney,cigarette,True
+claude-sonnet-4-5,cigarette,mooney_inv,cigarette,True
+claude-sonnet-4-5,cigarette,degraded_25,cigarette,True
+claude-sonnet-4-5,cigarette,degraded_50,cigarette,True
+claude-sonnet-4-5,cigarette,degraded_75,cigarette,True
+claude-sonnet-4-5,cigarette,degraded_90,hook,False
+claude-sonnet-4-5,clock,mooney,clock,True
+claude-sonnet-4-5,clock,mooney_inv,clock,True
+claude-sonnet-4-5,clock,degraded_25,mantel clock,True
+claude-sonnet-4-5,clock,degraded_50,clock,True
+claude-sonnet-4-5,clock,degraded_75,clock,True
+claude-sonnet-4-5,clock,degraded_90,clock,True
+claude-sonnet-4-5,clothespin,mooney,clothespin,True
+claude-sonnet-4-5,clothespin,mooney_inv,clothespin,True
+claude-sonnet-4-5,clothespin,degraded_25,tongs,False
+claude-sonnet-4-5,clothespin,degraded_50,clothespin,True
+claude-sonnet-4-5,clothespin,degraded_75,chainsaw blade,False
+claude-sonnet-4-5,clothespin,degraded_90,tweezers,False
+claude-sonnet-4-5,cloud,mooney,cloud,True
+claude-sonnet-4-5,cloud,mooney_inv,cloud,True
+claude-sonnet-4-5,cloud,degraded_25,cloud,True
+claude-sonnet-4-5,cloud,degraded_50,cloud,True
+claude-sonnet-4-5,cloud,degraded_75,cloud,True
+claude-sonnet-4-5,cloud,degraded_90,hat,False
+claude-sonnet-4-5,clown,mooney,clown,True
+claude-sonnet-4-5,clown,mooney_inv,clown,True
+claude-sonnet-4-5,clown,degraded_25,clown face,True
+claude-sonnet-4-5,clown,degraded_50,clown,True
+claude-sonnet-4-5,clown,degraded_75,clown,True
+claude-sonnet-4-5,clown,degraded_90,angel,False
+claude-sonnet-4-5,coat,mooney,lab coat,True
+claude-sonnet-4-5,coat,mooney_inv,lab coat,True
+claude-sonnet-4-5,coat,degraded_25,lab coat,True
+claude-sonnet-4-5,coat,degraded_50,lab coat,True
+claude-sonnet-4-5,coat,degraded_75,lab coat,True
+claude-sonnet-4-5,coat,degraded_90,lab coat,True
+claude-sonnet-4-5,comb,mooney,comb,True
+claude-sonnet-4-5,comb,mooney_inv,saw blade,False
+claude-sonnet-4-5,comb,degraded_25,comb,True
+claude-sonnet-4-5,comb,degraded_50,ruler,False
+claude-sonnet-4-5,comb,degraded_75,ruler,False
+claude-sonnet-4-5,comb,degraded_90,ruler,False
+claude-sonnet-4-5,corn,mooney,fishing lure,False
+claude-sonnet-4-5,corn,mooney_inv,feather,False
+claude-sonnet-4-5,corn,degraded_25,corn on the cob,True
+claude-sonnet-4-5,corn,degraded_50,corn,True
+claude-sonnet-4-5,corn,degraded_75,corn,True
+claude-sonnet-4-5,corn,degraded_90,cucumber,False
+claude-sonnet-4-5,couch,mooney,sofa,False
+claude-sonnet-4-5,couch,mooney_inv,sofa,False
+claude-sonnet-4-5,couch,degraded_25,sofa,False
+claude-sonnet-4-5,couch,degraded_50,sofa,False
+claude-sonnet-4-5,couch,degraded_75,sofa,False
+claude-sonnet-4-5,couch,degraded_90,couch,True
+claude-sonnet-4-5,cow,mooney,cow,True
+claude-sonnet-4-5,cow,mooney_inv,cow,True
+claude-sonnet-4-5,cow,degraded_25,cow,True
+claude-sonnet-4-5,cow,degraded_50,cow,True
+claude-sonnet-4-5,cow,degraded_75,cow,True
+claude-sonnet-4-5,cow,degraded_90,cow,True
+claude-sonnet-4-5,crown,mooney,crown,True
+claude-sonnet-4-5,crown,mooney_inv,crown,True
+claude-sonnet-4-5,crown,degraded_25,crown,True
+claude-sonnet-4-5,crown,degraded_50,crown,True
+claude-sonnet-4-5,crown,degraded_75,crown,True
+claude-sonnet-4-5,crown,degraded_90,jack-o'-lantern,False
+claude-sonnet-4-5,cup,mooney,teacup,True
+claude-sonnet-4-5,cup,mooney_inv,coffee cup,True
+claude-sonnet-4-5,cup,degraded_25,teacup,True
+claude-sonnet-4-5,cup,degraded_50,teacup,True
+claude-sonnet-4-5,cup,degraded_75,teacup,True
+claude-sonnet-4-5,cup,degraded_90,coffee cup,True
+claude-sonnet-4-5,deer,mooney,reindeer,True
+claude-sonnet-4-5,deer,mooney_inv,deer,True
+claude-sonnet-4-5,deer,degraded_25,deer,True
+claude-sonnet-4-5,deer,degraded_50,deer,True
+claude-sonnet-4-5,deer,degraded_75,deer,True
+claude-sonnet-4-5,deer,degraded_90,deer,True
+claude-sonnet-4-5,desk,mooney,desk,True
+claude-sonnet-4-5,desk,mooney_inv,desk,True
+claude-sonnet-4-5,desk,degraded_25,desk,True
+claude-sonnet-4-5,desk,degraded_50,desk,True
+claude-sonnet-4-5,desk,degraded_75,desk,True
+claude-sonnet-4-5,desk,degraded_90,desk,True
+claude-sonnet-4-5,dog,mooney,dog,True
+claude-sonnet-4-5,dog,mooney_inv,dog,True
+claude-sonnet-4-5,dog,degraded_25,dog,True
+claude-sonnet-4-5,dog,degraded_50,dog,True
+claude-sonnet-4-5,dog,degraded_75,dog,True
+claude-sonnet-4-5,dog,degraded_90,dog,True
+claude-sonnet-4-5,doll,mooney,doll,True
+claude-sonnet-4-5,doll,mooney_inv,doll,True
+claude-sonnet-4-5,doll,degraded_25,doll,True
+claude-sonnet-4-5,doll,degraded_50,doll,True
+claude-sonnet-4-5,doll,degraded_75,doll,True
+claude-sonnet-4-5,doll,degraded_90,doll,True
+claude-sonnet-4-5,donkey,mooney,donkey,True
+claude-sonnet-4-5,donkey,mooney_inv,horse,False
+claude-sonnet-4-5,donkey,degraded_25,donkey,True
+claude-sonnet-4-5,donkey,degraded_50,horse,False
+claude-sonnet-4-5,donkey,degraded_75,horse,False
+claude-sonnet-4-5,donkey,degraded_90,horse,False
+claude-sonnet-4-5,door,mooney,door,True
+claude-sonnet-4-5,door,mooney_inv,door,True
+claude-sonnet-4-5,door,degraded_25,door,True
+claude-sonnet-4-5,door,degraded_50,window,False
+claude-sonnet-4-5,door,degraded_75,window,False
+claude-sonnet-4-5,door,degraded_90,electrical outlet,False
+claude-sonnet-4-5,doorknob,mooney,doorknob,True
+claude-sonnet-4-5,doorknob,mooney_inv,door knob,False
+claude-sonnet-4-5,doorknob,degraded_25,door knob,False
+claude-sonnet-4-5,doorknob,degraded_50,doorknob,True
+claude-sonnet-4-5,doorknob,degraded_75,headphones,False
+claude-sonnet-4-5,doorknob,degraded_90,baseball,False
+claude-sonnet-4-5,dress,mooney,dress,True
+claude-sonnet-4-5,dress,mooney_inv,dress,True
+claude-sonnet-4-5,dress,degraded_25,dress,True
+claude-sonnet-4-5,dress,degraded_50,dress,True
+claude-sonnet-4-5,dress,degraded_75,dress,True
+claude-sonnet-4-5,dress,degraded_90,girl,False
+claude-sonnet-4-5,dresser,mooney,dresser,True
+claude-sonnet-4-5,dresser,mooney_inv,dresser,True
+claude-sonnet-4-5,dresser,degraded_25,dresser,True
+claude-sonnet-4-5,dresser,degraded_50,dresser,True
+claude-sonnet-4-5,dresser,degraded_75,dresser,True
+claude-sonnet-4-5,dresser,degraded_90,dresser,True
+claude-sonnet-4-5,drum,mooney,drum,True
+claude-sonnet-4-5,drum,mooney_inv,drum,True
+claude-sonnet-4-5,drum,degraded_25,drum,True
+claude-sonnet-4-5,drum,degraded_50,drum,True
+claude-sonnet-4-5,drum,degraded_75,drum,True
+claude-sonnet-4-5,drum,degraded_90,drum,True
+claude-sonnet-4-5,duck,mooney,duck,True
+claude-sonnet-4-5,duck,mooney_inv,duck,True
+claude-sonnet-4-5,duck,degraded_25,duck,True
+claude-sonnet-4-5,duck,degraded_50,duck,True
+claude-sonnet-4-5,duck,degraded_75,duck,True
+claude-sonnet-4-5,duck,degraded_90,duck,True
+claude-sonnet-4-5,eagle,mooney,eagle,True
+claude-sonnet-4-5,eagle,mooney_inv,eagle,True
+claude-sonnet-4-5,eagle,degraded_25,eagle,True
+claude-sonnet-4-5,eagle,degraded_50,eagle,True
+claude-sonnet-4-5,eagle,degraded_75,eagle,True
+claude-sonnet-4-5,eagle,degraded_90,bird,False
+claude-sonnet-4-5,ear,mooney,ear,True
+claude-sonnet-4-5,ear,mooney_inv,ear,True
+claude-sonnet-4-5,ear,degraded_25,ear,True
+claude-sonnet-4-5,ear,degraded_50,ear,True
+claude-sonnet-4-5,ear,degraded_75,ear,True
+claude-sonnet-4-5,ear,degraded_90,ear,True
+claude-sonnet-4-5,elephant,mooney,elephant,True
+claude-sonnet-4-5,elephant,mooney_inv,elephant,True
+claude-sonnet-4-5,elephant,degraded_25,elephant,True
+claude-sonnet-4-5,elephant,degraded_50,elephant,True
+claude-sonnet-4-5,elephant,degraded_75,elephant,True
+claude-sonnet-4-5,elephant,degraded_90,jellyfish,False
+claude-sonnet-4-5,envelope,mooney,envelope,True
+claude-sonnet-4-5,envelope,mooney_inv,envelope,True
+claude-sonnet-4-5,envelope,degraded_25,envelope,True
+claude-sonnet-4-5,envelope,degraded_50,envelope,True
+claude-sonnet-4-5,envelope,degraded_75,envelope,True
+claude-sonnet-4-5,envelope,degraded_90,envelope,True
+claude-sonnet-4-5,eye,mooney,eye,True
+claude-sonnet-4-5,eye,mooney_inv,eye,True
+claude-sonnet-4-5,eye,degraded_25,eye,True
+claude-sonnet-4-5,eye,degraded_50,eye,True
+claude-sonnet-4-5,eye,degraded_75,eye,True
+claude-sonnet-4-5,eye,degraded_90,eye,True
+claude-sonnet-4-5,fence,mooney,radiator,False
+claude-sonnet-4-5,fence,mooney_inv,radiator,False
+claude-sonnet-4-5,fence,degraded_25,picket fence,True
+claude-sonnet-4-5,fence,degraded_50,fence,True
+claude-sonnet-4-5,fence,degraded_75,bed springs,False
+claude-sonnet-4-5,fence,degraded_90,barcode,False
+claude-sonnet-4-5,finger,mooney,frog,False
+claude-sonnet-4-5,finger,mooney_inv,safety pin,False
+claude-sonnet-4-5,finger,degraded_25,finger,True
+claude-sonnet-4-5,finger,degraded_50,finger,True
+claude-sonnet-4-5,finger,degraded_75,banana,False
+claude-sonnet-4-5,finger,degraded_90,wrench,False
+claude-sonnet-4-5,fish,mooney,fish,True
+claude-sonnet-4-5,fish,mooney_inv,fish,True
+claude-sonnet-4-5,fish,degraded_25,fish,True
+claude-sonnet-4-5,fish,degraded_50,fish,True
+claude-sonnet-4-5,fish,degraded_75,fish,True
+claude-sonnet-4-5,fish,degraded_90,fish,True
+claude-sonnet-4-5,flag,mooney,flag,True
+claude-sonnet-4-5,flag,mooney_inv,flag,True
+claude-sonnet-4-5,flag,degraded_25,flag,True
+claude-sonnet-4-5,flag,degraded_50,flag,True
+claude-sonnet-4-5,flag,degraded_75,flag,True
+claude-sonnet-4-5,flag,degraded_90,flag,True
+claude-sonnet-4-5,flower,mooney,flower,True
+claude-sonnet-4-5,flower,mooney_inv,flower,True
+claude-sonnet-4-5,flower,degraded_25,flower,True
+claude-sonnet-4-5,flower,degraded_50,flower,True
+claude-sonnet-4-5,flower,degraded_75,flower,True
+claude-sonnet-4-5,flower,degraded_90,flower,True
+claude-sonnet-4-5,flute,mooney,screwdriver,False
+claude-sonnet-4-5,flute,mooney_inv,flute,True
+claude-sonnet-4-5,flute,degraded_25,flute,True
+claude-sonnet-4-5,flute,degraded_50,flute,True
+claude-sonnet-4-5,flute,degraded_75,stick,False
+claude-sonnet-4-5,flute,degraded_90,scratches,False
+claude-sonnet-4-5,fly,mooney,fly,True
+claude-sonnet-4-5,fly,mooney_inv,fly,True
+claude-sonnet-4-5,fly,degraded_25,fly,True
+claude-sonnet-4-5,fly,degraded_50,fly,True
+claude-sonnet-4-5,fly,degraded_75,pinwheel,False
+claude-sonnet-4-5,fly,degraded_90,galaxy,False
+claude-sonnet-4-5,foot,mooney,foot,True
+claude-sonnet-4-5,foot,mooney_inv,foot,True
+claude-sonnet-4-5,foot,degraded_25,foot,True
+claude-sonnet-4-5,foot,degraded_50,foot,True
+claude-sonnet-4-5,foot,degraded_75,foot,True
+claude-sonnet-4-5,foot,degraded_90,foot,True
+claude-sonnet-4-5,football,mooney,football,True
+claude-sonnet-4-5,football,mooney_inv,football,True
+claude-sonnet-4-5,football,degraded_25,football,True
+claude-sonnet-4-5,football,degraded_50,football,True
+claude-sonnet-4-5,football,degraded_75,football,True
+claude-sonnet-4-5,football,degraded_90,rope,False
+claude-sonnet-4-5,football_helmet,mooney,football helmet,True
+claude-sonnet-4-5,football_helmet,mooney_inv,football helmet,True
+claude-sonnet-4-5,football_helmet,degraded_25,football helmet,True
+claude-sonnet-4-5,football_helmet,degraded_50,football helmet,True
+claude-sonnet-4-5,football_helmet,degraded_75,skull,False
+claude-sonnet-4-5,football_helmet,degraded_90,football helmet,True
+claude-sonnet-4-5,fork,mooney,paintbrush,False
+claude-sonnet-4-5,fork,mooney_inv,spatula,False
+claude-sonnet-4-5,fork,degraded_25,fork,True
+claude-sonnet-4-5,fork,degraded_50,fork,True
+claude-sonnet-4-5,fork,degraded_75,toothbrush,False
+claude-sonnet-4-5,fork,degraded_90,toothbrush,False
+claude-sonnet-4-5,fox,mooney,fox,True
+claude-sonnet-4-5,fox,mooney_inv,fox,True
+claude-sonnet-4-5,fox,degraded_25,fox,True
+claude-sonnet-4-5,fox,degraded_50,fox,True
+claude-sonnet-4-5,fox,degraded_75,fox,True
+claude-sonnet-4-5,fox,degraded_90,triceratops,False
+claude-sonnet-4-5,frog,mooney,frog,True
+claude-sonnet-4-5,frog,mooney_inv,frog,True
+claude-sonnet-4-5,frog,degraded_25,frog,True
+claude-sonnet-4-5,frog,degraded_50,frog,True
+claude-sonnet-4-5,frog,degraded_75,frog,True
+claude-sonnet-4-5,frog,degraded_90,frog,True
+claude-sonnet-4-5,frying_pan,mooney,frying pan,True
+claude-sonnet-4-5,frying_pan,mooney_inv,frying pan,True
+claude-sonnet-4-5,frying_pan,degraded_25,frying pan,True
+claude-sonnet-4-5,frying_pan,degraded_50,frying pan,True
+claude-sonnet-4-5,frying_pan,degraded_75,jump rope,False
+claude-sonnet-4-5,frying_pan,degraded_90,frying pan,True
+claude-sonnet-4-5,garbage_can,mooney,trash can,True
+claude-sonnet-4-5,garbage_can,mooney_inv,trash can,True
+claude-sonnet-4-5,garbage_can,degraded_25,trash can,True
+claude-sonnet-4-5,garbage_can,degraded_50,trash can,True
+claude-sonnet-4-5,garbage_can,degraded_75,trash can,True
+claude-sonnet-4-5,garbage_can,degraded_90,candle,False
+claude-sonnet-4-5,giraffe,mooney,giraffe,True
+claude-sonnet-4-5,giraffe,mooney_inv,giraffe,True
+claude-sonnet-4-5,giraffe,degraded_25,giraffe,True
+claude-sonnet-4-5,giraffe,degraded_50,giraffe,True
+claude-sonnet-4-5,giraffe,degraded_75,giraffe,True
+claude-sonnet-4-5,giraffe,degraded_90,giraffe,True
+claude-sonnet-4-5,glass,mooney,glass,True
+claude-sonnet-4-5,glass,mooney_inv,glass,True
+claude-sonnet-4-5,glass,degraded_25,glass,True
+claude-sonnet-4-5,glass,degraded_50,glass,True
+claude-sonnet-4-5,glass,degraded_75,glass,True
+claude-sonnet-4-5,glass,degraded_90,glass or tumbler,True
+claude-sonnet-4-5,glasses,mooney,eyeglasses,True
+claude-sonnet-4-5,glasses,mooney_inv,sunglasses,True
+claude-sonnet-4-5,glasses,degraded_25,sunglasses,True
+claude-sonnet-4-5,glasses,degraded_50,sunglasses,True
+claude-sonnet-4-5,glasses,degraded_75,shirt or t-shirt,False
+claude-sonnet-4-5,glasses,degraded_90,blanket,False
+claude-sonnet-4-5,glove,mooney,hand,False
+claude-sonnet-4-5,glove,mooney_inv,glove,True
+claude-sonnet-4-5,glove,degraded_25,glove,True
+claude-sonnet-4-5,glove,degraded_50,glove,True
+claude-sonnet-4-5,glove,degraded_75,glove,True
+claude-sonnet-4-5,glove,degraded_90,glove,True
+claude-sonnet-4-5,goat,mooney,dog,False
+claude-sonnet-4-5,goat,mooney_inv,dog,False
+claude-sonnet-4-5,goat,degraded_25,goat,True
+claude-sonnet-4-5,goat,degraded_50,dog,False
+claude-sonnet-4-5,goat,degraded_75,dog,False
+claude-sonnet-4-5,goat,degraded_90,camel,False
+claude-sonnet-4-5,gorilla,mooney,dog,False
+claude-sonnet-4-5,gorilla,mooney_inv,dog,False
+claude-sonnet-4-5,gorilla,degraded_25,gorilla,True
+claude-sonnet-4-5,gorilla,degraded_50,gorilla,True
+claude-sonnet-4-5,gorilla,degraded_75,gorilla,True
+claude-sonnet-4-5,gorilla,degraded_90,gorilla,True
+claude-sonnet-4-5,grapes,mooney,grapes,True
+claude-sonnet-4-5,grapes,mooney_inv,grapes,True
+claude-sonnet-4-5,grapes,degraded_25,grapes,True
+claude-sonnet-4-5,grapes,degraded_50,grapes,True
+claude-sonnet-4-5,grapes,degraded_75,teddy bear,False
+claude-sonnet-4-5,grapes,degraded_90,teddy bear,False
+claude-sonnet-4-5,grasshopper,mooney,grasshopper,True
+claude-sonnet-4-5,grasshopper,mooney_inv,grasshopper,True
+claude-sonnet-4-5,grasshopper,degraded_25,grasshopper,True
+claude-sonnet-4-5,grasshopper,degraded_50,grasshopper,True
+claude-sonnet-4-5,grasshopper,degraded_75,cheetah,False
+claude-sonnet-4-5,grasshopper,degraded_90,running cheetah,False
+claude-sonnet-4-5,guitar,mooney,guitar,True
+claude-sonnet-4-5,guitar,mooney_inv,guitar,True
+claude-sonnet-4-5,guitar,degraded_25,guitar,True
+claude-sonnet-4-5,guitar,degraded_50,guitar,True
+claude-sonnet-4-5,guitar,degraded_75,guitar,True
+claude-sonnet-4-5,guitar,degraded_90,guitar,True
+claude-sonnet-4-5,gun,mooney,revolver,True
+claude-sonnet-4-5,gun,mooney_inv,revolver,True
+claude-sonnet-4-5,gun,degraded_25,revolver,True
+claude-sonnet-4-5,gun,degraded_50,revolver,True
+claude-sonnet-4-5,gun,degraded_75,revolver,True
+claude-sonnet-4-5,gun,degraded_90,revolver,True
+claude-sonnet-4-5,hair,mooney,baseball glove,False
+claude-sonnet-4-5,hair,mooney_inv,baseball glove,False
+claude-sonnet-4-5,hair,degraded_25,seashell,False
+claude-sonnet-4-5,hair,degraded_50,baseball glove,False
+claude-sonnet-4-5,hair,degraded_75,beret,False
+claude-sonnet-4-5,hair,degraded_90,steak,False
+claude-sonnet-4-5,hammer,mooney,hammer,True
+claude-sonnet-4-5,hammer,mooney_inv,hammer,True
+claude-sonnet-4-5,hammer,degraded_25,hammer,True
+claude-sonnet-4-5,hammer,degraded_50,hammer,True
+claude-sonnet-4-5,hammer,degraded_75,hammer,True
+claude-sonnet-4-5,hammer,degraded_90,wrench,False
+claude-sonnet-4-5,hand,mooney,hands,True
+claude-sonnet-4-5,hand,mooney_inv,hands,True
+claude-sonnet-4-5,hand,degraded_25,hand,True
+claude-sonnet-4-5,hand,degraded_50,hand,True
+claude-sonnet-4-5,hand,degraded_75,hand,True
+claude-sonnet-4-5,hand,degraded_90,hand,True
+claude-sonnet-4-5,hanger,mooney,coat hanger,True
+claude-sonnet-4-5,hanger,mooney_inv,coat hanger,True
+claude-sonnet-4-5,hanger,degraded_25,clothes hanger,True
+claude-sonnet-4-5,hanger,degraded_50,coat hanger,True
+claude-sonnet-4-5,hanger,degraded_75,coat hanger,True
+claude-sonnet-4-5,hanger,degraded_90,coat hanger,True
+claude-sonnet-4-5,harp,mooney,harp,True
+claude-sonnet-4-5,harp,mooney_inv,harp,True
+claude-sonnet-4-5,harp,degraded_25,harp,True
+claude-sonnet-4-5,harp,degraded_50,harp,True
+claude-sonnet-4-5,harp,degraded_75,harp,True
+claude-sonnet-4-5,harp,degraded_90,harp,True
+claude-sonnet-4-5,hat,mooney,fedora,False
+claude-sonnet-4-5,hat,mooney_inv,fedora,False
+claude-sonnet-4-5,hat,degraded_25,fedora hat,True
+claude-sonnet-4-5,hat,degraded_50,fedora hat,True
+claude-sonnet-4-5,hat,degraded_75,bucket hat,True
+claude-sonnet-4-5,hat,degraded_90,hat,True
+claude-sonnet-4-5,heart,mooney,heart,True
+claude-sonnet-4-5,heart,mooney_inv,heart,True
+claude-sonnet-4-5,heart,degraded_25,heart,True
+claude-sonnet-4-5,heart,degraded_50,heart,True
+claude-sonnet-4-5,heart,degraded_75,heart,True
+claude-sonnet-4-5,heart,degraded_90,heart,True
+claude-sonnet-4-5,helicopter,mooney,helicopter,True
+claude-sonnet-4-5,helicopter,mooney_inv,helicopter,True
+claude-sonnet-4-5,helicopter,degraded_25,helicopter,True
+claude-sonnet-4-5,helicopter,degraded_50,helicopter,True
+claude-sonnet-4-5,helicopter,degraded_75,hand,False
+claude-sonnet-4-5,helicopter,degraded_90,handshake,False
+claude-sonnet-4-5,horse,mooney,horse,True
+claude-sonnet-4-5,horse,mooney_inv,horse,True
+claude-sonnet-4-5,horse,degraded_25,horse,True
+claude-sonnet-4-5,horse,degraded_50,horse,True
+claude-sonnet-4-5,horse,degraded_75,horse,True
+claude-sonnet-4-5,horse,degraded_90,horse,True
+claude-sonnet-4-5,house,mooney,house,True
+claude-sonnet-4-5,house,mooney_inv,house,True
+claude-sonnet-4-5,house,degraded_25,house,True
+claude-sonnet-4-5,house,degraded_50,house,True
+claude-sonnet-4-5,house,degraded_75,building or house,True
+claude-sonnet-4-5,house,degraded_90,tank,False
+claude-sonnet-4-5,iron,mooney,iron,True
+claude-sonnet-4-5,iron,mooney_inv,iron,True
+claude-sonnet-4-5,iron,degraded_25,iron,True
+claude-sonnet-4-5,iron,degraded_50,bucket hat,False
+claude-sonnet-4-5,iron,degraded_75,hat,False
+claude-sonnet-4-5,iron,degraded_90,hat,False
+claude-sonnet-4-5,ironing_board,mooney,ironing board,True
+claude-sonnet-4-5,ironing_board,mooney_inv,ironing board,True
+claude-sonnet-4-5,ironing_board,degraded_25,ironing board,True
+claude-sonnet-4-5,ironing_board,degraded_50,ironing board,True
+claude-sonnet-4-5,ironing_board,degraded_75,ironing board,True
+claude-sonnet-4-5,ironing_board,degraded_90,ironing board,True
+claude-sonnet-4-5,jacket,mooney,jacket,True
+claude-sonnet-4-5,jacket,mooney_inv,jacket,True
+claude-sonnet-4-5,jacket,degraded_25,jacket,True
+claude-sonnet-4-5,jacket,degraded_50,jacket,True
+claude-sonnet-4-5,jacket,degraded_75,jacket,True
+claude-sonnet-4-5,jacket,degraded_90,jacket,True
+claude-sonnet-4-5,kangaroo,mooney,kangaroo,True
+claude-sonnet-4-5,kangaroo,mooney_inv,kangaroo,True
+claude-sonnet-4-5,kangaroo,degraded_25,kangaroo,True
+claude-sonnet-4-5,kangaroo,degraded_50,kangaroo,True
+claude-sonnet-4-5,kangaroo,degraded_75,kangaroo,True
+claude-sonnet-4-5,kangaroo,degraded_90,bird,False
+claude-sonnet-4-5,kettle,mooney,kettle,True
+claude-sonnet-4-5,kettle,mooney_inv,kettle,True
+claude-sonnet-4-5,kettle,degraded_25,kettle,True
+claude-sonnet-4-5,kettle,degraded_50,kettle,True
+claude-sonnet-4-5,kettle,degraded_75,teapot,True
+claude-sonnet-4-5,kettle,degraded_90,kettle,True
+claude-sonnet-4-5,key,mooney,key,True
+claude-sonnet-4-5,key,mooney_inv,key,True
+claude-sonnet-4-5,key,degraded_25,key,True
+claude-sonnet-4-5,key,degraded_50,key,True
+claude-sonnet-4-5,key,degraded_75,key,True
+claude-sonnet-4-5,key,degraded_90,key,True
+claude-sonnet-4-5,kite,mooney,kite,True
+claude-sonnet-4-5,kite,mooney_inv,kite,True
+claude-sonnet-4-5,kite,degraded_25,kite,True
+claude-sonnet-4-5,kite,degraded_50,kite,True
+claude-sonnet-4-5,kite,degraded_75,kite,True
+claude-sonnet-4-5,kite,degraded_90,shoe,False
+claude-sonnet-4-5,knife,mooney,meteor,False
+claude-sonnet-4-5,knife,mooney_inv,meteor,False
+claude-sonnet-4-5,knife,degraded_25,tweezers,False
+claude-sonnet-4-5,knife,degraded_50,knife,True
+claude-sonnet-4-5,knife,degraded_75,baseball bat,False
+claude-sonnet-4-5,knife,degraded_90,wand,False
+claude-sonnet-4-5,ladder,mooney,ladder,True
+claude-sonnet-4-5,ladder,mooney_inv,ladder,True
+claude-sonnet-4-5,ladder,degraded_25,railroad tracks,False
+claude-sonnet-4-5,ladder,degraded_50,tennis court,False
+claude-sonnet-4-5,ladder,degraded_75,ruler,False
+claude-sonnet-4-5,ladder,degraded_90,band-aid,False
+claude-sonnet-4-5,lamp,mooney,table lamp,True
+claude-sonnet-4-5,lamp,mooney_inv,table lamp,True
+claude-sonnet-4-5,lamp,degraded_25,table lamp,True
+claude-sonnet-4-5,lamp,degraded_50,table lamp,True
+claude-sonnet-4-5,lamp,degraded_75,table lamp,True
+claude-sonnet-4-5,lamp,degraded_90,table lamp,True
+claude-sonnet-4-5,leaf,mooney,maple leaf,True
+claude-sonnet-4-5,leaf,mooney_inv,maple leaf,True
+claude-sonnet-4-5,leaf,degraded_25,maple leaf,True
+claude-sonnet-4-5,leaf,degraded_50,maple leaf,True
+claude-sonnet-4-5,leaf,degraded_75,leaf,True
+claude-sonnet-4-5,leaf,degraded_90,rose,False
+claude-sonnet-4-5,leg,mooney,leg,True
+claude-sonnet-4-5,leg,mooney_inv,leg,True
+claude-sonnet-4-5,leg,degraded_25,leg,True
+claude-sonnet-4-5,leg,degraded_50,leg,True
+claude-sonnet-4-5,leg,degraded_75,boot,False
+claude-sonnet-4-5,leg,degraded_90,boot,False
+claude-sonnet-4-5,lemon,mooney,lemon,True
+claude-sonnet-4-5,lemon,mooney_inv,lemon,True
+claude-sonnet-4-5,lemon,degraded_25,lemon,True
+claude-sonnet-4-5,lemon,degraded_50,lemon,True
+claude-sonnet-4-5,lemon,degraded_75,lemon,True
+claude-sonnet-4-5,lemon,degraded_90,circle,False
+claude-sonnet-4-5,leopard,mooney,leopard,True
+claude-sonnet-4-5,leopard,mooney_inv,leopard,True
+claude-sonnet-4-5,leopard,degraded_25,leopard,True
+claude-sonnet-4-5,leopard,degraded_50,cat,False
+claude-sonnet-4-5,leopard,degraded_75,fox,False
+claude-sonnet-4-5,leopard,degraded_90,fox,False
+claude-sonnet-4-5,lettuce,mooney,crumpled paper,False
+claude-sonnet-4-5,lettuce,mooney_inv,necklace,False
+claude-sonnet-4-5,lettuce,degraded_25,hat,False
+claude-sonnet-4-5,lettuce,degraded_50,hat,False
+claude-sonnet-4-5,lettuce,degraded_75,cowboy hat,False
+claude-sonnet-4-5,lettuce,degraded_90,rose,False
+claude-sonnet-4-5,light_bulb,mooney,light bulb,True
+claude-sonnet-4-5,light_bulb,mooney_inv,light bulb,True
+claude-sonnet-4-5,light_bulb,degraded_25,light bulb,True
+claude-sonnet-4-5,light_bulb,degraded_50,light bulb,True
+claude-sonnet-4-5,light_bulb,degraded_75,light bulb,True
+claude-sonnet-4-5,light_bulb,degraded_90,light bulb,True
+claude-sonnet-4-5,light_switch,mooney,light switch cover plate,True
+claude-sonnet-4-5,light_switch,mooney_inv,light switch cover plate,True
+claude-sonnet-4-5,light_switch,degraded_25,light switch,True
+claude-sonnet-4-5,light_switch,degraded_50,light switch cover plate,True
+claude-sonnet-4-5,light_switch,degraded_75,light switch cover plate,True
+claude-sonnet-4-5,light_switch,degraded_90,light switch cover plate,True
+claude-sonnet-4-5,lion,mooney,lion,True
+claude-sonnet-4-5,lion,mooney_inv,lion,True
+claude-sonnet-4-5,lion,degraded_25,lion,True
+claude-sonnet-4-5,lion,degraded_50,lion,True
+claude-sonnet-4-5,lion,degraded_75,lion,True
+claude-sonnet-4-5,lion,degraded_90,lion,True
+claude-sonnet-4-5,lips,mooney,swimmer,False
+claude-sonnet-4-5,lips,mooney_inv,stick,False
+claude-sonnet-4-5,lips,degraded_25,lips,True
+claude-sonnet-4-5,lips,degraded_50,lips,True
+claude-sonnet-4-5,lips,degraded_75,lips,True
+claude-sonnet-4-5,lips,degraded_90,lips,True
+claude-sonnet-4-5,lobster,mooney,lobster,True
+claude-sonnet-4-5,lobster,mooney_inv,lobster,True
+claude-sonnet-4-5,lobster,degraded_25,lobster,True
+claude-sonnet-4-5,lobster,degraded_50,lobster,True
+claude-sonnet-4-5,lobster,degraded_75,lobster,True
+claude-sonnet-4-5,lobster,degraded_90,lobster,True
+claude-sonnet-4-5,lock,mooney,padlock,True
+claude-sonnet-4-5,lock,mooney_inv,padlock,True
+claude-sonnet-4-5,lock,degraded_25,padlock,True
+claude-sonnet-4-5,lock,degraded_50,padlock,True
+claude-sonnet-4-5,lock,degraded_75,padlock,True
+claude-sonnet-4-5,lock,degraded_90,padlock,True
+claude-sonnet-4-5,mitten,mooney,mitten,True
+claude-sonnet-4-5,mitten,mooney_inv,mitten,True
+claude-sonnet-4-5,mitten,degraded_25,mitten,True
+claude-sonnet-4-5,mitten,degraded_50,mitten,True
+claude-sonnet-4-5,mitten,degraded_75,mitten,True
+claude-sonnet-4-5,mitten,degraded_90,mitten,True
+claude-sonnet-4-5,monkey,mooney,kangaroo,False
+claude-sonnet-4-5,monkey,mooney_inv,dinosaur,False
+claude-sonnet-4-5,monkey,degraded_25,monkey,True
+claude-sonnet-4-5,monkey,degraded_50,monkey,True
+claude-sonnet-4-5,monkey,degraded_75,squirrel,False
+claude-sonnet-4-5,monkey,degraded_90,monkey,True
+claude-sonnet-4-5,moon,mooney,crescent moon,True
+claude-sonnet-4-5,moon,mooney_inv,crescent moon,True
+claude-sonnet-4-5,moon,degraded_25,crescent moon,True
+claude-sonnet-4-5,moon,degraded_50,crescent moon,True
+claude-sonnet-4-5,moon,degraded_75,crescent moon,True
+claude-sonnet-4-5,moon,degraded_90,crescent moon,True
+claude-sonnet-4-5,motorcycle,mooney,motorcycle,True
+claude-sonnet-4-5,motorcycle,mooney_inv,motorcycle,True
+claude-sonnet-4-5,motorcycle,degraded_25,motorcycle,True
+claude-sonnet-4-5,motorcycle,degraded_50,motorcycle,True
+claude-sonnet-4-5,motorcycle,degraded_75,motorcycle,True
+claude-sonnet-4-5,motorcycle,degraded_90,motorcycle,True
+claude-sonnet-4-5,mountain,mooney,firework,False
+claude-sonnet-4-5,mountain,mooney_inv,firework,False
+claude-sonnet-4-5,mountain,degraded_25,mountain,True
+claude-sonnet-4-5,mountain,degraded_50,mountain,True
+claude-sonnet-4-5,mountain,degraded_75,mountain,True
+claude-sonnet-4-5,mountain,degraded_90,mountain,True
+claude-sonnet-4-5,mouse,mooney,rat,False
+claude-sonnet-4-5,mouse,mooney_inv,rat,False
+claude-sonnet-4-5,mouse,degraded_25,mouse,True
+claude-sonnet-4-5,mouse,degraded_50,rat,False
+claude-sonnet-4-5,mouse,degraded_75,rat,False
+claude-sonnet-4-5,mouse,degraded_90,mouse,True
+claude-sonnet-4-5,mushroom,mooney,mushroom,True
+claude-sonnet-4-5,mushroom,mooney_inv,mushroom,True
+claude-sonnet-4-5,mushroom,degraded_25,mushroom,True
+claude-sonnet-4-5,mushroom,degraded_50,mushroom,True
+claude-sonnet-4-5,mushroom,degraded_75,mushroom,True
+claude-sonnet-4-5,mushroom,degraded_90,mushroom,True
+claude-sonnet-4-5,nail,mooney,nail,True
+claude-sonnet-4-5,nail,mooney_inv,tent stake,False
+claude-sonnet-4-5,nail,degraded_25,nail,True
+claude-sonnet-4-5,nail,degraded_50,tent stake,False
+claude-sonnet-4-5,nail,degraded_75,nail,True
+claude-sonnet-4-5,nail,degraded_90,needle,False
+claude-sonnet-4-5,nail_file,mooney,letter opener,False
+claude-sonnet-4-5,nail_file,mooney_inv,letter opener,False
+claude-sonnet-4-5,nail_file,degraded_25,nail file,True
+claude-sonnet-4-5,nail_file,degraded_50,chainsaw,False
+claude-sonnet-4-5,nail_file,degraded_75,mascara wand,False
+claude-sonnet-4-5,nail_file,degraded_90,toothbrush,False
+claude-sonnet-4-5,necklace,mooney,necklace,True
+claude-sonnet-4-5,necklace,mooney_inv,necklace,True
+claude-sonnet-4-5,necklace,degraded_25,necklace,True
+claude-sonnet-4-5,necklace,degraded_50,necklace,True
+claude-sonnet-4-5,necklace,degraded_75,pear,False
+claude-sonnet-4-5,necklace,degraded_90,egg,False
+claude-sonnet-4-5,needle,mooney,paintbrush,False
+claude-sonnet-4-5,needle,mooney_inv,cotton swab,False
+claude-sonnet-4-5,needle,degraded_25,flute,False
+claude-sonnet-4-5,needle,degraded_50,clarinet,False
+claude-sonnet-4-5,needle,degraded_75,line,False
+claude-sonnet-4-5,needle,degraded_90,dotted line,False
+claude-sonnet-4-5,nose,mooney,nose,True
+claude-sonnet-4-5,nose,mooney_inv,nose,True
+claude-sonnet-4-5,nose,degraded_25,nose,True
+claude-sonnet-4-5,nose,degraded_50,snake,False
+claude-sonnet-4-5,nose,degraded_75,snake,False
+claude-sonnet-4-5,nose,degraded_90,hook,False
+claude-sonnet-4-5,nut,mooney,hex nut,True
+claude-sonnet-4-5,nut,mooney_inv,hex nut,True
+claude-sonnet-4-5,nut,degraded_25,hex nut,True
+claude-sonnet-4-5,nut,degraded_50,nut,True
+claude-sonnet-4-5,nut,degraded_75,hex nut,True
+claude-sonnet-4-5,nut,degraded_90,hex nut,True
+claude-sonnet-4-5,onion,mooney,onion,True
+claude-sonnet-4-5,onion,mooney_inv,coffee stain,False
+claude-sonnet-4-5,onion,degraded_25,onion,True
+claude-sonnet-4-5,onion,degraded_50,onion,True
+claude-sonnet-4-5,onion,degraded_75,peach,False
+claude-sonnet-4-5,onion,degraded_90,moon,False
+claude-sonnet-4-5,orange,mooney,bowling ball,False
+claude-sonnet-4-5,orange,mooney_inv,bowling ball,False
+claude-sonnet-4-5,orange,degraded_25,orange,True
+claude-sonnet-4-5,orange,degraded_50,orange,True
+claude-sonnet-4-5,orange,degraded_75,moon,False
+claude-sonnet-4-5,orange,degraded_90,cell,False
+claude-sonnet-4-5,ostrich,mooney,ostrich,True
+claude-sonnet-4-5,ostrich,mooney_inv,ostrich,True
+claude-sonnet-4-5,ostrich,degraded_25,ostrich,True
+claude-sonnet-4-5,ostrich,degraded_50,ostrich,True
+claude-sonnet-4-5,ostrich,degraded_75,ostrich,True
+claude-sonnet-4-5,ostrich,degraded_90,flamingo,False
+claude-sonnet-4-5,owl,mooney,owl,True
+claude-sonnet-4-5,owl,mooney_inv,owl,True
+claude-sonnet-4-5,owl,degraded_25,owl,True
+claude-sonnet-4-5,owl,degraded_50,owl,True
+claude-sonnet-4-5,owl,degraded_75,owl,True
+claude-sonnet-4-5,owl,degraded_90,owl,True
+claude-sonnet-4-5,paintbrush,mooney,tweezers,False
+claude-sonnet-4-5,paintbrush,mooney_inv,pipette,False
+claude-sonnet-4-5,paintbrush,degraded_25,fishing rod,False
+claude-sonnet-4-5,paintbrush,degraded_50,pipette,False
+claude-sonnet-4-5,paintbrush,degraded_75,stick,False
+claude-sonnet-4-5,paintbrush,degraded_90,dotted line,False
+claude-sonnet-4-5,pants,mooney,pants,True
+claude-sonnet-4-5,pants,mooney_inv,pants,True
+claude-sonnet-4-5,pants,degraded_25,pants,True
+claude-sonnet-4-5,pants,degraded_50,pants,True
+claude-sonnet-4-5,pants,degraded_75,pants,True
+claude-sonnet-4-5,pants,degraded_90,pants,True
+claude-sonnet-4-5,peach,mooney,apple,False
+claude-sonnet-4-5,peach,mooney_inv,ball,False
+claude-sonnet-4-5,peach,degraded_25,orange,False
+claude-sonnet-4-5,peach,degraded_50,ouroboros,False
+claude-sonnet-4-5,peach,degraded_75,circle,False
+claude-sonnet-4-5,peach,degraded_90,ring,False
+claude-sonnet-4-5,peacock,mooney,peacock,True
+claude-sonnet-4-5,peacock,mooney_inv,peacock,True
+claude-sonnet-4-5,peacock,degraded_25,peacock,True
+claude-sonnet-4-5,peacock,degraded_50,peacock,True
+claude-sonnet-4-5,peacock,degraded_75,peacock,True
+claude-sonnet-4-5,peacock,degraded_90,brain,False
+claude-sonnet-4-5,peanut,mooney,peanut,True
+claude-sonnet-4-5,peanut,mooney_inv,shoe print,False
+claude-sonnet-4-5,peanut,degraded_25,peanut,True
+claude-sonnet-4-5,peanut,degraded_50,peanut,True
+claude-sonnet-4-5,peanut,degraded_75,rope knot,False
+claude-sonnet-4-5,peanut,degraded_90,mustache,False
+claude-sonnet-4-5,pear,mooney,pear,True
+claude-sonnet-4-5,pear,mooney_inv,pear,True
+claude-sonnet-4-5,pear,degraded_25,pear,True
+claude-sonnet-4-5,pear,degraded_50,pear,True
+claude-sonnet-4-5,pear,degraded_75,pear,True
+claude-sonnet-4-5,pear,degraded_90,pear,True
+claude-sonnet-4-5,pen,mooney,pen,True
+claude-sonnet-4-5,pen,mooney_inv,pen,True
+claude-sonnet-4-5,pen,degraded_25,pen,True
+claude-sonnet-4-5,pen,degraded_50,pen,True
+claude-sonnet-4-5,pen,degraded_75,ruler,False
+claude-sonnet-4-5,pen,degraded_90,ruler,False
+claude-sonnet-4-5,pencil,mooney,pencil,True
+claude-sonnet-4-5,pencil,mooney_inv,pen,False
+claude-sonnet-4-5,pencil,degraded_25,pencil,True
+claude-sonnet-4-5,pencil,degraded_50,pencil,True
+claude-sonnet-4-5,pencil,degraded_75,ruler,False
+claude-sonnet-4-5,pencil,degraded_90,pencil,True
+claude-sonnet-4-5,penguin,mooney,penguin,True
+claude-sonnet-4-5,penguin,mooney_inv,penguin,True
+claude-sonnet-4-5,penguin,degraded_25,penguin,True
+claude-sonnet-4-5,penguin,degraded_50,penguin,True
+claude-sonnet-4-5,penguin,degraded_75,penguin,True
+claude-sonnet-4-5,penguin,degraded_90,penguin,True
+claude-sonnet-4-5,pepper,mooney,bell pepper,True
+claude-sonnet-4-5,pepper,mooney_inv,bell pepper,True
+claude-sonnet-4-5,pepper,degraded_25,bell pepper,True
+claude-sonnet-4-5,pepper,degraded_50,bell pepper,True
+claude-sonnet-4-5,pepper,degraded_75,backpack,False
+claude-sonnet-4-5,pepper,degraded_90,backpack,False
+claude-sonnet-4-5,piano,mooney,grand piano,True
+claude-sonnet-4-5,piano,mooney_inv,grand piano,True
+claude-sonnet-4-5,piano,degraded_25,grand piano,True
+claude-sonnet-4-5,piano,degraded_50,grand piano,True
+claude-sonnet-4-5,piano,degraded_75,grand piano,True
+claude-sonnet-4-5,piano,degraded_90,grand piano,True
+claude-sonnet-4-5,pig,mooney,rabbit,False
+claude-sonnet-4-5,pig,mooney_inv,rhinoceros,False
+claude-sonnet-4-5,pig,degraded_25,pig,True
+claude-sonnet-4-5,pig,degraded_50,pig,True
+claude-sonnet-4-5,pig,degraded_75,pig,True
+claude-sonnet-4-5,pig,degraded_90,hippopotamus,False
+claude-sonnet-4-5,pineapple,mooney,pineapple,True
+claude-sonnet-4-5,pineapple,mooney_inv,pineapple,True
+claude-sonnet-4-5,pineapple,degraded_25,pineapple,True
+claude-sonnet-4-5,pineapple,degraded_50,pineapple,True
+claude-sonnet-4-5,pineapple,degraded_75,pineapple,True
+claude-sonnet-4-5,pineapple,degraded_90,pineapple,True
+claude-sonnet-4-5,pipe,mooney,corn cob pipe,True
+claude-sonnet-4-5,pipe,mooney_inv,smoking pipe,True
+claude-sonnet-4-5,pipe,degraded_25,tobacco pipe,True
+claude-sonnet-4-5,pipe,degraded_50,pipe,True
+claude-sonnet-4-5,pipe,degraded_75,guitar,False
+claude-sonnet-4-5,pipe,degraded_90,guitar,False
+claude-sonnet-4-5,pitcher,mooney,pitcher,True
+claude-sonnet-4-5,pitcher,mooney_inv,pitcher,True
+claude-sonnet-4-5,pitcher,degraded_25,pitcher,True
+claude-sonnet-4-5,pitcher,degraded_50,pitcher,True
+claude-sonnet-4-5,pitcher,degraded_75,pitcher,True
+claude-sonnet-4-5,pitcher,degraded_90,pitcher,True
+claude-sonnet-4-5,pliers,mooney,pliers,True
+claude-sonnet-4-5,pliers,mooney_inv,pliers,True
+claude-sonnet-4-5,pliers,degraded_25,pliers,True
+claude-sonnet-4-5,pliers,degraded_50,pliers,True
+claude-sonnet-4-5,pliers,degraded_75,scissors,False
+claude-sonnet-4-5,pliers,degraded_90,safety pin,False
+claude-sonnet-4-5,plug,mooney,electrical plug,True
+claude-sonnet-4-5,plug,mooney_inv,electrical plug,True
+claude-sonnet-4-5,plug,degraded_25,electrical plug,True
+claude-sonnet-4-5,plug,degraded_50,power plug,True
+claude-sonnet-4-5,plug,degraded_75,hand pointing,False
+claude-sonnet-4-5,plug,degraded_90,stapler,False
+claude-sonnet-4-5,pocketbook,mooney,saddle,False
+claude-sonnet-4-5,pocketbook,mooney_inv,teapot,False
+claude-sonnet-4-5,pocketbook,degraded_25,messenger bag,False
+claude-sonnet-4-5,pocketbook,degraded_50,handbag,True
+claude-sonnet-4-5,pocketbook,degraded_75,messenger bag,False
+claude-sonnet-4-5,pocketbook,degraded_90,diaper,False
+claude-sonnet-4-5,pot,mooney,saucepan,True
+claude-sonnet-4-5,pot,mooney_inv,saucepan,True
+claude-sonnet-4-5,pot,degraded_25,saucepan,True
+claude-sonnet-4-5,pot,degraded_50,saucepan,True
+claude-sonnet-4-5,pot,degraded_75,coffee cup,False
+claude-sonnet-4-5,pot,degraded_90,cup with handle,False
+claude-sonnet-4-5,potato,mooney,potato,True
+claude-sonnet-4-5,potato,mooney_inv,potato,True
+claude-sonnet-4-5,potato,degraded_25,potato,True
+claude-sonnet-4-5,potato,degraded_50,potato,True
+claude-sonnet-4-5,potato,degraded_75,chain necklace,False
+claude-sonnet-4-5,potato,degraded_90,paper clip,False
+claude-sonnet-4-5,pumpkin,mooney,pumpkin,True
+claude-sonnet-4-5,pumpkin,mooney_inv,pumpkin,True
+claude-sonnet-4-5,pumpkin,degraded_25,pumpkin,True
+claude-sonnet-4-5,pumpkin,degraded_50,pumpkin,True
+claude-sonnet-4-5,pumpkin,degraded_75,pumpkin,True
+claude-sonnet-4-5,pumpkin,degraded_90,pumpkin,True
+claude-sonnet-4-5,rabbit,mooney,rabbit,True
+claude-sonnet-4-5,rabbit,mooney_inv,rabbit,True
+claude-sonnet-4-5,rabbit,degraded_25,rabbit,True
+claude-sonnet-4-5,rabbit,degraded_50,rabbit,True
+claude-sonnet-4-5,rabbit,degraded_75,rabbit,True
+claude-sonnet-4-5,rabbit,degraded_90,rabbit,True
+claude-sonnet-4-5,raccoon,mooney,raccoon,True
+claude-sonnet-4-5,raccoon,mooney_inv,raccoon,True
+claude-sonnet-4-5,raccoon,degraded_25,raccoon,True
+claude-sonnet-4-5,raccoon,degraded_50,raccoon,True
+claude-sonnet-4-5,raccoon,degraded_75,triceratops,False
+claude-sonnet-4-5,raccoon,degraded_90,triceratops,False
+claude-sonnet-4-5,record_player,mooney,record player,True
+claude-sonnet-4-5,record_player,mooney_inv,record player,True
+claude-sonnet-4-5,record_player,degraded_25,record player,True
+claude-sonnet-4-5,record_player,degraded_50,record player,True
+claude-sonnet-4-5,record_player,degraded_75,record player,True
+claude-sonnet-4-5,record_player,degraded_90,pizza box,False
+claude-sonnet-4-5,refrigerator,mooney,refrigerator,True
+claude-sonnet-4-5,refrigerator,mooney_inv,smartphone,False
+claude-sonnet-4-5,refrigerator,degraded_25,refrigerator,True
+claude-sonnet-4-5,refrigerator,degraded_50,refrigerator,True
+claude-sonnet-4-5,refrigerator,degraded_75,cutting board,False
+claude-sonnet-4-5,refrigerator,degraded_90,clipboard,False
+claude-sonnet-4-5,rhinoceros,mooney,rhinoceros,True
+claude-sonnet-4-5,rhinoceros,mooney_inv,rhinoceros,True
+claude-sonnet-4-5,rhinoceros,degraded_25,rhinoceros,True
+claude-sonnet-4-5,rhinoceros,degraded_50,rhinoceros,True
+claude-sonnet-4-5,rhinoceros,degraded_75,rhinoceros,True
+claude-sonnet-4-5,rhinoceros,degraded_90,triceratops,False
+claude-sonnet-4-5,ring,mooney,ring,True
+claude-sonnet-4-5,ring,mooney_inv,ring,True
+claude-sonnet-4-5,ring,degraded_25,ring,True
+claude-sonnet-4-5,ring,degraded_50,ring,True
+claude-sonnet-4-5,ring,degraded_75,keychain ring,True
+claude-sonnet-4-5,ring,degraded_90,ornament,False
+claude-sonnet-4-5,rocking_chair,mooney,rocking chair,True
+claude-sonnet-4-5,rocking_chair,mooney_inv,rocking chair,True
+claude-sonnet-4-5,rocking_chair,degraded_25,rocking chair,True
+claude-sonnet-4-5,rocking_chair,degraded_50,rocking chair,True
+claude-sonnet-4-5,rocking_chair,degraded_75,rocking chair,True
+claude-sonnet-4-5,rocking_chair,degraded_90,rocking chair,True
+claude-sonnet-4-5,roller_skate,mooney,tricycle,False
+claude-sonnet-4-5,roller_skate,mooney_inv,motorcycle,False
+claude-sonnet-4-5,roller_skate,degraded_25,roller skates,True
+claude-sonnet-4-5,roller_skate,degraded_50,dump truck,False
+claude-sonnet-4-5,roller_skate,degraded_75,motorcycle,False
+claude-sonnet-4-5,roller_skate,degraded_90,motorcycle,False
+claude-sonnet-4-5,rolling_pin,mooney,corkscrew,False
+claude-sonnet-4-5,rolling_pin,mooney_inv,screwdriver,False
+claude-sonnet-4-5,rolling_pin,degraded_25,rolling pin,True
+claude-sonnet-4-5,rolling_pin,degraded_50,glue stick,False
+claude-sonnet-4-5,rolling_pin,degraded_75,pen,False
+claude-sonnet-4-5,rolling_pin,degraded_90,sword,False
+claude-sonnet-4-5,rooster,mooney,rooster,True
+claude-sonnet-4-5,rooster,mooney_inv,rooster,True
+claude-sonnet-4-5,rooster,degraded_25,rooster,True
+claude-sonnet-4-5,rooster,degraded_50,rooster,True
+claude-sonnet-4-5,rooster,degraded_75,rooster,True
+claude-sonnet-4-5,rooster,degraded_90,chicken,False
+claude-sonnet-4-5,ruler,mooney,ruler,True
+claude-sonnet-4-5,ruler,mooney_inv,ruler,True
+claude-sonnet-4-5,ruler,degraded_25,ruler,True
+claude-sonnet-4-5,ruler,degraded_50,ruler,True
+claude-sonnet-4-5,ruler,degraded_75,ruler,True
+claude-sonnet-4-5,ruler,degraded_90,ruler,True
+claude-sonnet-4-5,sailboat,mooney,sailboat,True
+claude-sonnet-4-5,sailboat,mooney_inv,sailboat,True
+claude-sonnet-4-5,sailboat,degraded_25,sailboat,True
+claude-sonnet-4-5,sailboat,degraded_50,sailboat,True
+claude-sonnet-4-5,sailboat,degraded_75,sailboat,True
+claude-sonnet-4-5,sailboat,degraded_90,sailboat,True
+claude-sonnet-4-5,salt_shaker,mooney,salt shaker,True
+claude-sonnet-4-5,salt_shaker,mooney_inv,salt shaker,True
+claude-sonnet-4-5,salt_shaker,degraded_25,salt shaker,True
+claude-sonnet-4-5,salt_shaker,degraded_50,salt shaker,True
+claude-sonnet-4-5,salt_shaker,degraded_75,salt shaker,True
+claude-sonnet-4-5,salt_shaker,degraded_90,salt shaker,True
+claude-sonnet-4-5,sandwich,mooney,sandwich,True
+claude-sonnet-4-5,sandwich,mooney_inv,s'more,False
+claude-sonnet-4-5,sandwich,degraded_25,blanket,False
+claude-sonnet-4-5,sandwich,degraded_50,folded blanket,False
+claude-sonnet-4-5,sandwich,degraded_75,blanket,False
+claude-sonnet-4-5,sandwich,degraded_90,blanket,False
+claude-sonnet-4-5,saw,mooney,hand saw,True
+claude-sonnet-4-5,saw,mooney_inv,hand saw,True
+claude-sonnet-4-5,saw,degraded_25,handsaw,True
+claude-sonnet-4-5,saw,degraded_50,hand saw,True
+claude-sonnet-4-5,saw,degraded_75,nail clippers,False
+claude-sonnet-4-5,saw,degraded_90,toothbrush,False
+claude-sonnet-4-5,scissors,mooney,scissors,True
+claude-sonnet-4-5,scissors,mooney_inv,scissors,True
+claude-sonnet-4-5,scissors,degraded_25,scissors,True
+claude-sonnet-4-5,scissors,degraded_50,scissors,True
+claude-sonnet-4-5,scissors,degraded_75,scissors,True
+claude-sonnet-4-5,scissors,degraded_90,scissors,True
+claude-sonnet-4-5,screw,mooney,screw,True
+claude-sonnet-4-5,screw,mooney_inv,syringe,False
+claude-sonnet-4-5,screw,degraded_25,wood screw,True
+claude-sonnet-4-5,screw,degraded_50,wood screw,True
+claude-sonnet-4-5,screw,degraded_75,screw,True
+claude-sonnet-4-5,screw,degraded_90,wrench,False
+claude-sonnet-4-5,screwdriver,mooney,screwdriver,True
+claude-sonnet-4-5,screwdriver,mooney_inv,screwdriver,True
+claude-sonnet-4-5,screwdriver,degraded_25,screwdriver,True
+claude-sonnet-4-5,screwdriver,degraded_50,chainsaw,False
+claude-sonnet-4-5,screwdriver,degraded_75,ruler,False
+claude-sonnet-4-5,screwdriver,degraded_90,toothbrush,False
+claude-sonnet-4-5,sea_horse,mooney,seahorse,True
+claude-sonnet-4-5,sea_horse,mooney_inv,seahorse,True
+claude-sonnet-4-5,sea_horse,degraded_25,seahorse,True
+claude-sonnet-4-5,sea_horse,degraded_50,seahorse,True
+claude-sonnet-4-5,sea_horse,degraded_75,seahorse,True
+claude-sonnet-4-5,sea_horse,degraded_90,seahorse,True
+claude-sonnet-4-5,seal,mooney,frog,False
+claude-sonnet-4-5,seal,mooney_inv,frog,False
+claude-sonnet-4-5,seal,degraded_25,seal,True
+claude-sonnet-4-5,seal,degraded_50,bird,False
+claude-sonnet-4-5,seal,degraded_75,bird,False
+claude-sonnet-4-5,seal,degraded_90,bird,False
+claude-sonnet-4-5,sheep,mooney,sheep,True
+claude-sonnet-4-5,sheep,mooney_inv,cow,False
+claude-sonnet-4-5,sheep,degraded_25,sheep,True
+claude-sonnet-4-5,sheep,degraded_50,cow,False
+claude-sonnet-4-5,sheep,degraded_75,cow,False
+claude-sonnet-4-5,sheep,degraded_90,sheep,True
+claude-sonnet-4-5,shirt,mooney,shirt,True
+claude-sonnet-4-5,shirt,mooney_inv,shirt,True
+claude-sonnet-4-5,shirt,degraded_25,shirt,True
+claude-sonnet-4-5,shirt,degraded_50,shirt,True
+claude-sonnet-4-5,shirt,degraded_75,shirt,True
+claude-sonnet-4-5,shirt,degraded_90,dress shirt,True
+claude-sonnet-4-5,shoe,mooney,shoe,True
+claude-sonnet-4-5,shoe,mooney_inv,dress shoe,True
+claude-sonnet-4-5,shoe,degraded_25,dress shoe,True
+claude-sonnet-4-5,shoe,degraded_50,dress shoe,True
+claude-sonnet-4-5,shoe,degraded_75,shoe,True
+claude-sonnet-4-5,shoe,degraded_90,sneaker,False
+claude-sonnet-4-5,skirt,mooney,skirt,True
+claude-sonnet-4-5,skirt,mooney_inv,skirt,True
+claude-sonnet-4-5,skirt,degraded_25,skirt,True
+claude-sonnet-4-5,skirt,degraded_50,skirt,True
+claude-sonnet-4-5,skirt,degraded_75,skirt,True
+claude-sonnet-4-5,skirt,degraded_90,dress,False
+claude-sonnet-4-5,skunk,mooney,skunk,True
+claude-sonnet-4-5,skunk,mooney_inv,sled dog,False
+claude-sonnet-4-5,skunk,degraded_25,skunk,True
+claude-sonnet-4-5,skunk,degraded_50,deer,False
+claude-sonnet-4-5,skunk,degraded_75,lobster,False
+claude-sonnet-4-5,skunk,degraded_90,bird,False
+claude-sonnet-4-5,sled,mooney,sled,True
+claude-sonnet-4-5,sled,mooney_inv,sled,True
+claude-sonnet-4-5,sled,degraded_25,sled,True
+claude-sonnet-4-5,sled,degraded_50,ice cube tray,False
+claude-sonnet-4-5,sled,degraded_75,ice cube tray,False
+claude-sonnet-4-5,sled,degraded_90,keyboard,False
+claude-sonnet-4-5,snail,mooney,snail,True
+claude-sonnet-4-5,snail,mooney_inv,snail,True
+claude-sonnet-4-5,snail,degraded_25,snail,True
+claude-sonnet-4-5,snail,degraded_50,snail,True
+claude-sonnet-4-5,snail,degraded_75,snail,True
+claude-sonnet-4-5,snail,degraded_90,snail,True
+claude-sonnet-4-5,snake,mooney,snake,True
+claude-sonnet-4-5,snake,mooney_inv,snake,True
+claude-sonnet-4-5,snake,degraded_25,snake,True
+claude-sonnet-4-5,snake,degraded_50,snake,True
+claude-sonnet-4-5,snake,degraded_75,snake,True
+claude-sonnet-4-5,snake,degraded_90,headphones,False
+claude-sonnet-4-5,snowman,mooney,snowman,True
+claude-sonnet-4-5,snowman,mooney_inv,snowman,True
+claude-sonnet-4-5,snowman,degraded_25,snowman,True
+claude-sonnet-4-5,snowman,degraded_50,snowman,True
+claude-sonnet-4-5,snowman,degraded_75,hamster,False
+claude-sonnet-4-5,snowman,degraded_90,snowman,True
+claude-sonnet-4-5,sock,mooney,sock,True
+claude-sonnet-4-5,sock,mooney_inv,sock,True
+claude-sonnet-4-5,sock,degraded_25,sock,True
+claude-sonnet-4-5,sock,degraded_50,sock,True
+claude-sonnet-4-5,sock,degraded_75,sock,True
+claude-sonnet-4-5,sock,degraded_90,sock,True
+claude-sonnet-4-5,spider,mooney,ant,False
+claude-sonnet-4-5,spider,mooney_inv,ant,False
+claude-sonnet-4-5,spider,degraded_25,spider,True
+claude-sonnet-4-5,spider,degraded_50,spider,True
+claude-sonnet-4-5,spider,degraded_75,spider,True
+claude-sonnet-4-5,spider,degraded_90,spider,True
+claude-sonnet-4-5,spinning_wheel,mooney,spinning wheel,True
+claude-sonnet-4-5,spinning_wheel,mooney_inv,spinning wheel,True
+claude-sonnet-4-5,spinning_wheel,degraded_25,spinning wheel,True
+claude-sonnet-4-5,spinning_wheel,degraded_50,spinning wheel,True
+claude-sonnet-4-5,spinning_wheel,degraded_75,cement mixer,False
+claude-sonnet-4-5,spinning_wheel,degraded_90,snail,False
+claude-sonnet-4-5,spool_of_thread,mooney,spool of thread,True
+claude-sonnet-4-5,spool_of_thread,mooney_inv,tin can,False
+claude-sonnet-4-5,spool_of_thread,degraded_25,spool of thread,True
+claude-sonnet-4-5,spool_of_thread,degraded_50,thread spool,True
+claude-sonnet-4-5,spool_of_thread,degraded_75,top hat,False
+claude-sonnet-4-5,spool_of_thread,degraded_90,candle holder,False
+claude-sonnet-4-5,spoon,mooney,spoon,True
+claude-sonnet-4-5,spoon,mooney_inv,spoon,True
+claude-sonnet-4-5,spoon,degraded_25,spoon,True
+claude-sonnet-4-5,spoon,degraded_50,spoon,True
+claude-sonnet-4-5,spoon,degraded_75,wrench,False
+claude-sonnet-4-5,spoon,degraded_90,spoon,True
+claude-sonnet-4-5,squirrel,mooney,squirrel,True
+claude-sonnet-4-5,squirrel,mooney_inv,squirrel,True
+claude-sonnet-4-5,squirrel,degraded_25,squirrel,True
+claude-sonnet-4-5,squirrel,degraded_50,squirrel,True
+claude-sonnet-4-5,squirrel,degraded_75,squirrel,True
+claude-sonnet-4-5,squirrel,degraded_90,squirrel,True
+claude-sonnet-4-5,star,mooney,star,True
+claude-sonnet-4-5,star,mooney_inv,star,True
+claude-sonnet-4-5,star,degraded_25,star,True
+claude-sonnet-4-5,star,degraded_50,star,True
+claude-sonnet-4-5,star,degraded_75,star,True
+claude-sonnet-4-5,star,degraded_90,star,True
+claude-sonnet-4-5,stool,mooney,stool,True
+claude-sonnet-4-5,stool,mooney_inv,stool,True
+claude-sonnet-4-5,stool,degraded_25,stool,True
+claude-sonnet-4-5,stool,degraded_50,stool,True
+claude-sonnet-4-5,stool,degraded_75,stool,True
+claude-sonnet-4-5,stool,degraded_90,stool,True
+claude-sonnet-4-5,stove,mooney,stove,True
+claude-sonnet-4-5,stove,mooney_inv,stove,True
+claude-sonnet-4-5,stove,degraded_25,stove,True
+claude-sonnet-4-5,stove,degraded_50,stove,True
+claude-sonnet-4-5,stove,degraded_75,stove,True
+claude-sonnet-4-5,stove,degraded_90,twitter logo,False
+claude-sonnet-4-5,strawberry,mooney,strawberry,True
+claude-sonnet-4-5,strawberry,mooney_inv,strawberry,True
+claude-sonnet-4-5,strawberry,degraded_25,strawberry,True
+claude-sonnet-4-5,strawberry,degraded_50,strawberry,True
+claude-sonnet-4-5,strawberry,degraded_75,strawberry,True
+claude-sonnet-4-5,strawberry,degraded_90,strawberry,True
+claude-sonnet-4-5,suitcase,mooney,suitcase,True
+claude-sonnet-4-5,suitcase,mooney_inv,suitcase,True
+claude-sonnet-4-5,suitcase,degraded_25,suitcase,True
+claude-sonnet-4-5,suitcase,degraded_50,suitcase,True
+claude-sonnet-4-5,suitcase,degraded_75,briefcase,False
+claude-sonnet-4-5,suitcase,degraded_90,suitcase,True
+claude-sonnet-4-5,sun,mooney,sun,True
+claude-sonnet-4-5,sun,mooney_inv,sun,True
+claude-sonnet-4-5,sun,degraded_25,sun,True
+claude-sonnet-4-5,sun,degraded_50,sun,True
+claude-sonnet-4-5,sun,degraded_75,sun,True
+claude-sonnet-4-5,sun,degraded_90,sun,True
+claude-sonnet-4-5,swan,mooney,swan,True
+claude-sonnet-4-5,swan,mooney_inv,swan,True
+claude-sonnet-4-5,swan,degraded_25,swan,True
+claude-sonnet-4-5,swan,degraded_50,swan,True
+claude-sonnet-4-5,swan,degraded_75,swan,True
+claude-sonnet-4-5,swan,degraded_90,swan,True
+claude-sonnet-4-5,sweater,mooney,sweatshirt,False
+claude-sonnet-4-5,sweater,mooney_inv,sweatshirt,False
+claude-sonnet-4-5,sweater,degraded_25,sweatshirt,False
+claude-sonnet-4-5,sweater,degraded_50,sweatshirt,False
+claude-sonnet-4-5,sweater,degraded_75,sweater,True
+claude-sonnet-4-5,sweater,degraded_90,sweater,True
+claude-sonnet-4-5,swing,mooney,pull-up bar rack,False
+claude-sonnet-4-5,swing,mooney_inv,clothing rack,False
+claude-sonnet-4-5,swing,degraded_25,clothing rack,False
+claude-sonnet-4-5,swing,degraded_50,clothing rack,False
+claude-sonnet-4-5,swing,degraded_75,clothing rack,False
+claude-sonnet-4-5,swing,degraded_90,column,False
+claude-sonnet-4-5,table,mooney,table,True
+claude-sonnet-4-5,table,mooney_inv,table,True
+claude-sonnet-4-5,table,degraded_25,table,True
+claude-sonnet-4-5,table,degraded_50,table,True
+claude-sonnet-4-5,table,degraded_75,table,True
+claude-sonnet-4-5,table,degraded_90,table,True
+claude-sonnet-4-5,telephone,mooney,rotary telephone,True
+claude-sonnet-4-5,telephone,mooney_inv,rotary telephone,True
+claude-sonnet-4-5,telephone,degraded_25,rotary telephone,True
+claude-sonnet-4-5,telephone,degraded_50,rotary telephone,True
+claude-sonnet-4-5,telephone,degraded_75,rotary telephone,True
+claude-sonnet-4-5,telephone,degraded_90,rotary telephone,True
+claude-sonnet-4-5,television,mooney,television,True
+claude-sonnet-4-5,television,mooney_inv,television,True
+claude-sonnet-4-5,television,degraded_25,television,True
+claude-sonnet-4-5,television,degraded_50,television set,True
+claude-sonnet-4-5,television,degraded_75,microwave oven,False
+claude-sonnet-4-5,television,degraded_90,mug,False
+claude-sonnet-4-5,tennis_racket,mooney,spoon,False
+claude-sonnet-4-5,tennis_racket,mooney_inv,spoon,False
+claude-sonnet-4-5,tennis_racket,degraded_25,tennis racket,True
+claude-sonnet-4-5,tennis_racket,degraded_50,tennis racket,True
+claude-sonnet-4-5,tennis_racket,degraded_75,tennis racket,True
+claude-sonnet-4-5,tennis_racket,degraded_90,tennis racket,True
+claude-sonnet-4-5,thimble,mooney,thimble,True
+claude-sonnet-4-5,thimble,mooney_inv,thimble,True
+claude-sonnet-4-5,thimble,degraded_25,thimble,True
+claude-sonnet-4-5,thimble,degraded_50,beanie,False
+claude-sonnet-4-5,thimble,degraded_75,ring,False
+claude-sonnet-4-5,thimble,degraded_90,spool of thread,False
+claude-sonnet-4-5,thumb,mooney,finger,False
+claude-sonnet-4-5,thumb,mooney_inv,woman's silhouette,False
+claude-sonnet-4-5,thumb,degraded_25,ferret,False
+claude-sonnet-4-5,thumb,degraded_50,ferret,False
+claude-sonnet-4-5,thumb,degraded_75,hand,False
+claude-sonnet-4-5,thumb,degraded_90,dog,False
+claude-sonnet-4-5,tie,mooney,necktie,True
+claude-sonnet-4-5,tie,mooney_inv,necktie,True
+claude-sonnet-4-5,tie,degraded_25,necktie,True
+claude-sonnet-4-5,tie,degraded_50,necktie,True
+claude-sonnet-4-5,tie,degraded_75,necktie,True
+claude-sonnet-4-5,tie,degraded_90,necktie,True
+claude-sonnet-4-5,tiger,mooney,wolf,False
+claude-sonnet-4-5,tiger,mooney_inv,wolf,False
+claude-sonnet-4-5,tiger,degraded_25,tiger,True
+claude-sonnet-4-5,tiger,degraded_50,tiger,True
+claude-sonnet-4-5,tiger,degraded_75,tiger,True
+claude-sonnet-4-5,tiger,degraded_90,bear,False
+claude-sonnet-4-5,toaster,mooney,toaster,True
+claude-sonnet-4-5,toaster,mooney_inv,toaster,True
+claude-sonnet-4-5,toaster,degraded_25,toaster,True
+claude-sonnet-4-5,toaster,degraded_50,toaster,True
+claude-sonnet-4-5,toaster,degraded_75,butter,False
+claude-sonnet-4-5,toaster,degraded_90,butter,False
+claude-sonnet-4-5,toe,mooney,kite,False
+claude-sonnet-4-5,toe,mooney_inv,fitness tracker,False
+claude-sonnet-4-5,toe,degraded_25,hand,False
+claude-sonnet-4-5,toe,degraded_50,necklace,False
+claude-sonnet-4-5,toe,degraded_75,corkscrew,False
+claude-sonnet-4-5,toe,degraded_90,wrench,False
+claude-sonnet-4-5,tomato,mooney,tomato,True
+claude-sonnet-4-5,tomato,mooney_inv,tomato,True
+claude-sonnet-4-5,tomato,degraded_25,tomato,True
+claude-sonnet-4-5,tomato,degraded_50,tomato,True
+claude-sonnet-4-5,tomato,degraded_75,tomato,True
+claude-sonnet-4-5,tomato,degraded_90,tomato,True
+claude-sonnet-4-5,toothbrush,mooney,toothbrush,True
+claude-sonnet-4-5,toothbrush,mooney_inv,toothbrush,True
+claude-sonnet-4-5,toothbrush,degraded_25,toothbrush,True
+claude-sonnet-4-5,toothbrush,degraded_50,chainsaw,False
+claude-sonnet-4-5,toothbrush,degraded_75,toothbrush,True
+claude-sonnet-4-5,toothbrush,degraded_90,stick or twig,False
+claude-sonnet-4-5,top,mooney,spinning top,True
+claude-sonnet-4-5,top,mooney_inv,spinning top,True
+claude-sonnet-4-5,top,degraded_25,spinning top,True
+claude-sonnet-4-5,top,degraded_50,spinning top,True
+claude-sonnet-4-5,top,degraded_75,unicorn,False
+claude-sonnet-4-5,top,degraded_90,fish,False
+claude-sonnet-4-5,traffic_light,mooney,traffic light,True
+claude-sonnet-4-5,traffic_light,mooney_inv,traffic light,True
+claude-sonnet-4-5,traffic_light,degraded_25,traffic light,True
+claude-sonnet-4-5,traffic_light,degraded_50,traffic light,True
+claude-sonnet-4-5,traffic_light,degraded_75,traffic light,True
+claude-sonnet-4-5,traffic_light,degraded_90,traffic light,True
+claude-sonnet-4-5,train,mooney,tank,False
+claude-sonnet-4-5,train,mooney_inv,train,True
+claude-sonnet-4-5,train,degraded_25,steam locomotive,False
+claude-sonnet-4-5,train,degraded_50,steam locomotive,False
+claude-sonnet-4-5,train,degraded_75,car,False
+claude-sonnet-4-5,train,degraded_90,sneaker,False
+claude-sonnet-4-5,tree,mooney,tree,True
+claude-sonnet-4-5,tree,mooney_inv,tree,True
+claude-sonnet-4-5,tree,degraded_25,tree,True
+claude-sonnet-4-5,tree,degraded_50,tree,True
+claude-sonnet-4-5,tree,degraded_75,tree,True
+claude-sonnet-4-5,tree,degraded_90,tree,True
+claude-sonnet-4-5,truck,mooney,delivery truck,True
+claude-sonnet-4-5,truck,mooney_inv,delivery truck,True
+claude-sonnet-4-5,truck,degraded_25,delivery truck,True
+claude-sonnet-4-5,truck,degraded_50,delivery truck,True
+claude-sonnet-4-5,truck,degraded_75,delivery truck,True
+claude-sonnet-4-5,truck,degraded_90,van,False
+claude-sonnet-4-5,trumpet,mooney,trumpet,True
+claude-sonnet-4-5,trumpet,mooney_inv,trumpet,True
+claude-sonnet-4-5,trumpet,degraded_25,trumpet,True
+claude-sonnet-4-5,trumpet,degraded_50,trumpet,True
+claude-sonnet-4-5,trumpet,degraded_75,trumpet,True
+claude-sonnet-4-5,trumpet,degraded_90,wrench,False
+claude-sonnet-4-5,turtle,mooney,turtle,True
+claude-sonnet-4-5,turtle,mooney_inv,turtle,True
+claude-sonnet-4-5,turtle,degraded_25,turtle,True
+claude-sonnet-4-5,turtle,degraded_50,turtle,True
+claude-sonnet-4-5,turtle,degraded_75,turtle,True
+claude-sonnet-4-5,turtle,degraded_90,turtle,True
+claude-sonnet-4-5,umbrella,mooney,umbrella,True
+claude-sonnet-4-5,umbrella,mooney_inv,umbrella,True
+claude-sonnet-4-5,umbrella,degraded_25,umbrella,True
+claude-sonnet-4-5,umbrella,degraded_50,umbrella,True
+claude-sonnet-4-5,umbrella,degraded_75,umbrella,True
+claude-sonnet-4-5,umbrella,degraded_90,umbrella,True
+claude-sonnet-4-5,vase,mooney,vase,True
+claude-sonnet-4-5,vase,mooney_inv,vase,True
+claude-sonnet-4-5,vase,degraded_25,vase,True
+claude-sonnet-4-5,vase,degraded_50,vase,True
+claude-sonnet-4-5,vase,degraded_75,vase,True
+claude-sonnet-4-5,vase,degraded_90,vase,True
+claude-sonnet-4-5,vest,mooney,vest,True
+claude-sonnet-4-5,vest,mooney_inv,vest,True
+claude-sonnet-4-5,vest,degraded_25,vest,True
+claude-sonnet-4-5,vest,degraded_50,vest,True
+claude-sonnet-4-5,vest,degraded_75,vest,True
+claude-sonnet-4-5,vest,degraded_90,vest,True
+claude-sonnet-4-5,violin,mooney,violin,True
+claude-sonnet-4-5,violin,mooney_inv,violin,True
+claude-sonnet-4-5,violin,degraded_25,violin,True
+claude-sonnet-4-5,violin,degraded_50,violin,True
+claude-sonnet-4-5,violin,degraded_75,violin,True
+claude-sonnet-4-5,violin,degraded_90,violin,True
+claude-sonnet-4-5,wagon,mooney,wagon,True
+claude-sonnet-4-5,wagon,mooney_inv,wagon,True
+claude-sonnet-4-5,wagon,degraded_25,wagon,True
+claude-sonnet-4-5,wagon,degraded_50,wagon,True
+claude-sonnet-4-5,wagon,degraded_75,tank,False
+claude-sonnet-4-5,wagon,degraded_90,atv,False
+claude-sonnet-4-5,watch,mooney,wristwatch,True
+claude-sonnet-4-5,watch,mooney_inv,wristwatch,True
+claude-sonnet-4-5,watch,degraded_25,wristwatch,True
+claude-sonnet-4-5,watch,degraded_50,bracelet,False
+claude-sonnet-4-5,watch,degraded_75,baseball cap,False
+claude-sonnet-4-5,watch,degraded_90,soap bar,False
+claude-sonnet-4-5,watering_can,mooney,watering can,True
+claude-sonnet-4-5,watering_can,mooney_inv,watering can,True
+claude-sonnet-4-5,watering_can,degraded_25,watering can,True
+claude-sonnet-4-5,watering_can,degraded_50,oven mitt,False
+claude-sonnet-4-5,watering_can,degraded_75,watering can,True
+claude-sonnet-4-5,watering_can,degraded_90,teapot,False
+claude-sonnet-4-5,watermelon,mooney,watermelon slice,True
+claude-sonnet-4-5,watermelon,mooney_inv,smile,False
+claude-sonnet-4-5,watermelon,degraded_25,necklace,False
+claude-sonnet-4-5,watermelon,degraded_50,smile,False
+claude-sonnet-4-5,watermelon,degraded_75,smile,False
+claude-sonnet-4-5,watermelon,degraded_90,smile,False
+claude-sonnet-4-5,well,mooney,camping stove,False
+claude-sonnet-4-5,well,mooney_inv,wishing well,True
+claude-sonnet-4-5,well,degraded_25,wishing well,True
+claude-sonnet-4-5,well,degraded_50,wishing well,True
+claude-sonnet-4-5,well,degraded_75,wishing well,True
+claude-sonnet-4-5,well,degraded_90,lantern,False
+claude-sonnet-4-5,wheel,mooney,wagon wheel,True
+claude-sonnet-4-5,wheel,mooney_inv,wagon wheel,True
+claude-sonnet-4-5,wheel,degraded_25,wagon wheel,True
+claude-sonnet-4-5,wheel,degraded_50,wheel,True
+claude-sonnet-4-5,wheel,degraded_75,wagon wheel,True
+claude-sonnet-4-5,wheel,degraded_90,orange slice,False
+claude-sonnet-4-5,whistle,mooney,whistle,True
+claude-sonnet-4-5,whistle,mooney_inv,whistle,True
+claude-sonnet-4-5,whistle,degraded_25,whistle,True
+claude-sonnet-4-5,whistle,degraded_50,whistle,True
+claude-sonnet-4-5,whistle,degraded_75,whistle,True
+claude-sonnet-4-5,whistle,degraded_90,soap bar,False
+claude-sonnet-4-5,windmill,mooney,windmill,True
+claude-sonnet-4-5,windmill,mooney_inv,windmill,True
+claude-sonnet-4-5,windmill,degraded_25,windmill,True
+claude-sonnet-4-5,windmill,degraded_50,windmill,True
+claude-sonnet-4-5,windmill,degraded_75,windmill,True
+claude-sonnet-4-5,windmill,degraded_90,windmill,True
+claude-sonnet-4-5,window,mooney,window,True
+claude-sonnet-4-5,window,mooney_inv,oven,False
+claude-sonnet-4-5,window,degraded_25,window,True
+claude-sonnet-4-5,window,degraded_50,door,False
+claude-sonnet-4-5,window,degraded_75,window pane or window frame,True
+claude-sonnet-4-5,window,degraded_90,nightstand,False
+claude-sonnet-4-5,wineglass,mooney,wine glass,True
+claude-sonnet-4-5,wineglass,mooney_inv,wine glass,True
+claude-sonnet-4-5,wineglass,degraded_25,wine glass,True
+claude-sonnet-4-5,wineglass,degraded_50,wine glass,True
+claude-sonnet-4-5,wineglass,degraded_75,wine glass,True
+claude-sonnet-4-5,wineglass,degraded_90,wine glass,True
+claude-sonnet-4-5,wrench,mooney,wrench,True
+claude-sonnet-4-5,wrench,mooney_inv,wrench,True
+claude-sonnet-4-5,wrench,degraded_25,wrench,True
+claude-sonnet-4-5,wrench,degraded_50,wrench,True
+claude-sonnet-4-5,wrench,degraded_75,wrench,True
+claude-sonnet-4-5,wrench,degraded_90,wrench,True
+claude-sonnet-4-5,zebra,mooney,tapir,False
+claude-sonnet-4-5,zebra,mooney_inv,horse,False
+claude-sonnet-4-5,zebra,degraded_25,zebra,True
+claude-sonnet-4-5,zebra,degraded_50,zebra,True
+claude-sonnet-4-5,zebra,degraded_75,zebra,True
+claude-sonnet-4-5,zebra,degraded_90,horse,False
+gpt-5.4,French_horn,mooney,french horn,True
+gpt-5.4,French_horn,mooney_inv,french horn,True
+gpt-5.4,French_horn,degraded_25,french horn,True
+gpt-5.4,French_horn,degraded_50,french horn,True
+gpt-5.4,French_horn,degraded_75,french horn,True
+gpt-5.4,French_horn,degraded_90,french horn,True
+gpt-5.4,accordion,mooney,accordion,True
+gpt-5.4,accordion,mooney_inv,seat belt buckle,False
+gpt-5.4,accordion,degraded_25,accordion,True
+gpt-5.4,accordion,degraded_50,accordion,True
+gpt-5.4,accordion,degraded_75,accordion,True
+gpt-5.4,accordion,degraded_90,radiator,False
+gpt-5.4,airplane,mooney,airplane,True
+gpt-5.4,airplane,mooney_inv,airplane,True
+gpt-5.4,airplane,degraded_25,airplane,True
+gpt-5.4,airplane,degraded_50,airplane,True
+gpt-5.4,airplane,degraded_75,airplane,True
+gpt-5.4,airplane,degraded_90,airplane,True
+gpt-5.4,alligator,mooney,alligator,True
+gpt-5.4,alligator,mooney_inv,crocodile,False
+gpt-5.4,alligator,degraded_25,crocodile,False
+gpt-5.4,alligator,degraded_50,alligator,True
+gpt-5.4,alligator,degraded_75,crocodile,False
+gpt-5.4,alligator,degraded_90,alligator,True
+gpt-5.4,anchor,mooney,anchor,True
+gpt-5.4,anchor,mooney_inv,anchor,True
+gpt-5.4,anchor,degraded_25,anchor,True
+gpt-5.4,anchor,degraded_50,anchor,True
+gpt-5.4,anchor,degraded_75,anchor,True
+gpt-5.4,anchor,degraded_90,anchor,True
+gpt-5.4,ant,mooney,ant,True
+gpt-5.4,ant,mooney_inv,ant,True
+gpt-5.4,ant,degraded_25,ant,True
+gpt-5.4,ant,degraded_50,ant,True
+gpt-5.4,ant,degraded_75,ant,True
+gpt-5.4,ant,degraded_90,spider,False
+gpt-5.4,apple,mooney,apple,True
+gpt-5.4,apple,mooney_inv,apple,True
+gpt-5.4,apple,degraded_25,apple,True
+gpt-5.4,apple,degraded_50,apple,True
+gpt-5.4,apple,degraded_75,apple,True
+gpt-5.4,apple,degraded_90,apple,True
+gpt-5.4,arm,mooney,sock,False
+gpt-5.4,arm,mooney_inv,necklace,False
+gpt-5.4,arm,degraded_25,arm,True
+gpt-5.4,arm,degraded_50,arm,True
+gpt-5.4,arm,degraded_75,arm,True
+gpt-5.4,arm,degraded_90,leg,False
+gpt-5.4,arrow,mooney,left arrow,True
+gpt-5.4,arrow,mooney_inv,left arrow,True
+gpt-5.4,arrow,degraded_25,left arrow,True
+gpt-5.4,arrow,degraded_50,left arrow,True
+gpt-5.4,arrow,degraded_75,left arrow,True
+gpt-5.4,arrow,degraded_90,left arrow,True
+gpt-5.4,artichoke,mooney,pinecone,False
+gpt-5.4,artichoke,mooney_inv,hot air balloon,False
+gpt-5.4,artichoke,degraded_25,artichoke,True
+gpt-5.4,artichoke,degraded_50,artichoke,True
+gpt-5.4,artichoke,degraded_75,artichoke,True
+gpt-5.4,artichoke,degraded_90,brain,False
+gpt-5.4,ashtray,mooney,carbide insert,False
+gpt-5.4,ashtray,mooney_inv,fan grill,False
+gpt-5.4,ashtray,degraded_25,ashtray,True
+gpt-5.4,ashtray,degraded_50,ashtray,True
+gpt-5.4,ashtray,degraded_75,ashtray,True
+gpt-5.4,ashtray,degraded_90,toilet seat,False
+gpt-5.4,asparagus,mooney,knife,False
+gpt-5.4,asparagus,mooney_inv,knife,False
+gpt-5.4,asparagus,degraded_25,drill bit,False
+gpt-5.4,asparagus,degraded_50,pen,False
+gpt-5.4,asparagus,degraded_75,pencil,False
+gpt-5.4,asparagus,degraded_90,pencil,False
+gpt-5.4,axe,mooney,axe,True
+gpt-5.4,axe,mooney_inv,axe,True
+gpt-5.4,axe,degraded_25,axe,True
+gpt-5.4,axe,degraded_50,axe,True
+gpt-5.4,axe,degraded_75,axe,True
+gpt-5.4,axe,degraded_90,axe,True
+gpt-5.4,baby_carriage,mooney,baby stroller,True
+gpt-5.4,baby_carriage,mooney_inv,baby stroller,True
+gpt-5.4,baby_carriage,degraded_25,baby stroller,True
+gpt-5.4,baby_carriage,degraded_50,baby carriage,True
+gpt-5.4,baby_carriage,degraded_75,baby stroller,True
+gpt-5.4,baby_carriage,degraded_90,baby stroller,True
+gpt-5.4,ball,mooney,planet,False
+gpt-5.4,ball,mooney_inv,ball,True
+gpt-5.4,ball,degraded_25,ball,True
+gpt-5.4,ball,degraded_50,ball,True
+gpt-5.4,ball,degraded_75,basketball,True
+gpt-5.4,ball,degraded_90,basketball,True
+gpt-5.4,balloon,mooney,balloon,True
+gpt-5.4,balloon,mooney_inv,balloon,True
+gpt-5.4,balloon,degraded_25,balloon,True
+gpt-5.4,balloon,degraded_50,balloon,True
+gpt-5.4,balloon,degraded_75,balloon,True
+gpt-5.4,balloon,degraded_90,balloon,True
+gpt-5.4,banana,mooney,banana,True
+gpt-5.4,banana,mooney_inv,banana,True
+gpt-5.4,banana,degraded_25,banana,True
+gpt-5.4,banana,degraded_50,banana,True
+gpt-5.4,banana,degraded_75,banana,True
+gpt-5.4,banana,degraded_90,banana,True
+gpt-5.4,barn,mooney,barn,True
+gpt-5.4,barn,mooney_inv,barn,True
+gpt-5.4,barn,degraded_25,barn,True
+gpt-5.4,barn,degraded_50,barn,True
+gpt-5.4,barn,degraded_75,barn,True
+gpt-5.4,barn,degraded_90,mailbox,False
+gpt-5.4,barrel,mooney,barrel,True
+gpt-5.4,barrel,mooney_inv,barrel,True
+gpt-5.4,barrel,degraded_25,barrel,True
+gpt-5.4,barrel,degraded_50,barrel,True
+gpt-5.4,barrel,degraded_75,barrel,True
+gpt-5.4,barrel,degraded_90,barrel,True
+gpt-5.4,baseball_bat,mooney,baseball bat,True
+gpt-5.4,baseball_bat,mooney_inv,baseball bat,True
+gpt-5.4,baseball_bat,degraded_25,baseball bat,True
+gpt-5.4,baseball_bat,degraded_50,baseball bat,True
+gpt-5.4,baseball_bat,degraded_75,baseball bat,True
+gpt-5.4,baseball_bat,degraded_90,baseball bat,True
+gpt-5.4,basket,mooney,basket,True
+gpt-5.4,basket,mooney_inv,basket,True
+gpt-5.4,basket,degraded_25,basket,True
+gpt-5.4,basket,degraded_50,basket,True
+gpt-5.4,basket,degraded_75,basket,True
+gpt-5.4,basket,degraded_90,basket,True
+gpt-5.4,bear,mooney,bear,True
+gpt-5.4,bear,mooney_inv,bear,True
+gpt-5.4,bear,degraded_25,bear,True
+gpt-5.4,bear,degraded_50,hippopotamus,False
+gpt-5.4,bear,degraded_75,bear,True
+gpt-5.4,bear,degraded_90,bear,True
+gpt-5.4,bed,mooney,bed,True
+gpt-5.4,bed,mooney_inv,bed,True
+gpt-5.4,bed,degraded_25,bed,True
+gpt-5.4,bed,degraded_50,bed,True
+gpt-5.4,bed,degraded_75,bed,True
+gpt-5.4,bed,degraded_90,bed,True
+gpt-5.4,bee,mooney,bee,True
+gpt-5.4,bee,mooney_inv,bee,True
+gpt-5.4,bee,degraded_25,bee,True
+gpt-5.4,bee,degraded_50,flea,False
+gpt-5.4,bee,degraded_75,bee,True
+gpt-5.4,bee,degraded_90,bee,True
+gpt-5.4,beetle,mooney,fly,False
+gpt-5.4,beetle,mooney_inv,fly,False
+gpt-5.4,beetle,degraded_25,beetle,True
+gpt-5.4,beetle,degraded_50,beetle,True
+gpt-5.4,beetle,degraded_75,cockroach,False
+gpt-5.4,beetle,degraded_90,beetle,True
+gpt-5.4,bell,mooney,bell,True
+gpt-5.4,bell,mooney_inv,bell,True
+gpt-5.4,bell,degraded_25,bell,True
+gpt-5.4,bell,degraded_50,bell,True
+gpt-5.4,bell,degraded_75,bell,True
+gpt-5.4,bell,degraded_90,bell,True
+gpt-5.4,belt,mooney,belt,True
+gpt-5.4,belt,mooney_inv,belt,True
+gpt-5.4,belt,degraded_25,belt,True
+gpt-5.4,belt,degraded_50,belt,True
+gpt-5.4,belt,degraded_75,belt,True
+gpt-5.4,belt,degraded_90,belt,True
+gpt-5.4,bicycle,mooney,bicycle,True
+gpt-5.4,bicycle,mooney_inv,bicycle,True
+gpt-5.4,bicycle,degraded_25,bicycle,True
+gpt-5.4,bicycle,degraded_50,bicycle,True
+gpt-5.4,bicycle,degraded_75,bicycle,True
+gpt-5.4,bicycle,degraded_90,bicycle,True
+gpt-5.4,bird,mooney,bird,True
+gpt-5.4,bird,mooney_inv,bird,True
+gpt-5.4,bird,degraded_25,bird,True
+gpt-5.4,bird,degraded_50,bird,True
+gpt-5.4,bird,degraded_75,bird,True
+gpt-5.4,bird,degraded_90,bird,True
+gpt-5.4,blouse,mooney,shirt,False
+gpt-5.4,blouse,mooney_inv,jacket,False
+gpt-5.4,blouse,degraded_25,shirt,False
+gpt-5.4,blouse,degraded_50,shirt,False
+gpt-5.4,blouse,degraded_75,jacket,False
+gpt-5.4,blouse,degraded_90,jacket,False
+gpt-5.4,book,mooney,book,True
+gpt-5.4,book,mooney_inv,book,True
+gpt-5.4,book,degraded_25,book,True
+gpt-5.4,book,degraded_50,book,True
+gpt-5.4,book,degraded_75,book,True
+gpt-5.4,book,degraded_90,book,True
+gpt-5.4,boot,mooney,boot,True
+gpt-5.4,boot,mooney_inv,boot,True
+gpt-5.4,boot,degraded_25,boot,True
+gpt-5.4,boot,degraded_50,boot,True
+gpt-5.4,boot,degraded_75,boot,True
+gpt-5.4,boot,degraded_90,boot,True
+gpt-5.4,bottle,mooney,bottle,True
+gpt-5.4,bottle,mooney_inv,bottle,True
+gpt-5.4,bottle,degraded_25,bottle,True
+gpt-5.4,bottle,degraded_50,bottle,True
+gpt-5.4,bottle,degraded_75,bottle,True
+gpt-5.4,bottle,degraded_90,bottle,True
+gpt-5.4,bow,mooney,bow,True
+gpt-5.4,bow,mooney_inv,bow,True
+gpt-5.4,bow,degraded_25,bow,True
+gpt-5.4,bow,degraded_50,bow,True
+gpt-5.4,bow,degraded_75,bow,True
+gpt-5.4,bow,degraded_90,bow,True
+gpt-5.4,bowl,mooney,bowl,True
+gpt-5.4,bowl,mooney_inv,bowl,True
+gpt-5.4,bowl,degraded_25,bowl,True
+gpt-5.4,bowl,degraded_50,bowl,True
+gpt-5.4,bowl,degraded_75,bowl,True
+gpt-5.4,bowl,degraded_90,bowl,True
+gpt-5.4,box,mooney,box,True
+gpt-5.4,box,mooney_inv,box,True
+gpt-5.4,box,degraded_25,box,True
+gpt-5.4,box,degraded_50,box,True
+gpt-5.4,box,degraded_75,box,True
+gpt-5.4,box,degraded_90,box,True
+gpt-5.4,bread,mooney,loaf of bread,True
+gpt-5.4,bread,mooney_inv,bread loaf,True
+gpt-5.4,bread,degraded_25,loaf of bread,True
+gpt-5.4,bread,degraded_50,bread loaf,True
+gpt-5.4,bread,degraded_75,loaf of bread,True
+gpt-5.4,bread,degraded_90,mailbox,False
+gpt-5.4,broom,mooney,spatula,False
+gpt-5.4,broom,mooney_inv,spatula,False
+gpt-5.4,broom,degraded_25,shovel,False
+gpt-5.4,broom,degraded_50,spatula,False
+gpt-5.4,broom,degraded_75,guitar,False
+gpt-5.4,broom,degraded_90,broom,True
+gpt-5.4,brush,mooney,hairbrush,True
+gpt-5.4,brush,mooney_inv,toothbrush,True
+gpt-5.4,brush,degraded_25,brush,True
+gpt-5.4,brush,degraded_50,brush,True
+gpt-5.4,brush,degraded_75,toothbrush,True
+gpt-5.4,brush,degraded_90,hairbrush,True
+gpt-5.4,bus,mooney,bus,True
+gpt-5.4,bus,mooney_inv,bus,True
+gpt-5.4,bus,degraded_25,bus,True
+gpt-5.4,bus,degraded_50,bus,True
+gpt-5.4,bus,degraded_75,bus,True
+gpt-5.4,bus,degraded_90,bus,True
+gpt-5.4,butterfly,mooney,butterfly,True
+gpt-5.4,butterfly,mooney_inv,butterfly,True
+gpt-5.4,butterfly,degraded_25,butterfly,True
+gpt-5.4,butterfly,degraded_50,butterfly,True
+gpt-5.4,butterfly,degraded_75,butterfly,True
+gpt-5.4,butterfly,degraded_90,butterfly,True
+gpt-5.4,button,mooney,button,True
+gpt-5.4,button,mooney_inv,button,True
+gpt-5.4,button,degraded_25,button,True
+gpt-5.4,button,degraded_50,button,True
+gpt-5.4,button,degraded_75,button,True
+gpt-5.4,button,degraded_90,button,True
+gpt-5.4,cake,mooney,cake,True
+gpt-5.4,cake,mooney_inv,cake,True
+gpt-5.4,cake,degraded_25,cake,True
+gpt-5.4,cake,degraded_50,cake,True
+gpt-5.4,cake,degraded_75,cake,True
+gpt-5.4,cake,degraded_90,cake,True
+gpt-5.4,camel,mooney,camel,True
+gpt-5.4,camel,mooney_inv,camel,True
+gpt-5.4,camel,degraded_25,camel,True
+gpt-5.4,camel,degraded_50,camel,True
+gpt-5.4,camel,degraded_75,camel,True
+gpt-5.4,camel,degraded_90,camel,True
+gpt-5.4,candle,mooney,candle,True
+gpt-5.4,candle,mooney_inv,candle,True
+gpt-5.4,candle,degraded_25,candle,True
+gpt-5.4,candle,degraded_50,candle,True
+gpt-5.4,candle,degraded_75,candle,True
+gpt-5.4,candle,degraded_90,candle,True
+gpt-5.4,cannon,mooney,wheelbarrow,False
+gpt-5.4,cannon,mooney_inv,lemon squeezer,False
+gpt-5.4,cannon,degraded_25,cannon,True
+gpt-5.4,cannon,degraded_50,cannon,True
+gpt-5.4,cannon,degraded_75,scooter,False
+gpt-5.4,cannon,degraded_90,bicycle wheel,False
+gpt-5.4,cap,mooney,cap,True
+gpt-5.4,cap,mooney_inv,baseball cap,True
+gpt-5.4,cap,degraded_25,cap,True
+gpt-5.4,cap,degraded_50,cap,True
+gpt-5.4,cap,degraded_75,shoe,False
+gpt-5.4,cap,degraded_90,shoe,False
+gpt-5.4,car,mooney,car,True
+gpt-5.4,car,mooney_inv,car,True
+gpt-5.4,car,degraded_25,car,True
+gpt-5.4,car,degraded_50,car,True
+gpt-5.4,car,degraded_75,car,True
+gpt-5.4,car,degraded_90,car,True
+gpt-5.4,carrot,mooney,carrot,True
+gpt-5.4,carrot,mooney_inv,carrot,True
+gpt-5.4,carrot,degraded_25,carrot,True
+gpt-5.4,carrot,degraded_50,carrot,True
+gpt-5.4,carrot,degraded_75,carrot,True
+gpt-5.4,carrot,degraded_90,carrot,True
+gpt-5.4,cat,mooney,cat,True
+gpt-5.4,cat,mooney_inv,cat,True
+gpt-5.4,cat,degraded_25,cat,True
+gpt-5.4,cat,degraded_50,cat,True
+gpt-5.4,cat,degraded_75,cat,True
+gpt-5.4,cat,degraded_90,cat,True
+gpt-5.4,caterpillar,mooney,alligators,False
+gpt-5.4,caterpillar,mooney_inv,comb,False
+gpt-5.4,caterpillar,degraded_25,caterpillar,True
+gpt-5.4,caterpillar,degraded_50,caterpillar,True
+gpt-5.4,caterpillar,degraded_75,octopus,False
+gpt-5.4,caterpillar,degraded_90,glasses,False
+gpt-5.4,celery,mooney,celery,True
+gpt-5.4,celery,mooney_inv,celery,True
+gpt-5.4,celery,degraded_25,celery,True
+gpt-5.4,celery,degraded_50,celery,True
+gpt-5.4,celery,degraded_75,celery,True
+gpt-5.4,celery,degraded_90,feather duster,False
+gpt-5.4,chain,mooney,necklace,False
+gpt-5.4,chain,mooney_inv,banana,False
+gpt-5.4,chain,degraded_25,chain,True
+gpt-5.4,chain,degraded_50,chain,True
+gpt-5.4,chain,degraded_75,chain necklace,True
+gpt-5.4,chain,degraded_90,chain,True
+gpt-5.4,chair,mooney,chair,True
+gpt-5.4,chair,mooney_inv,chair,True
+gpt-5.4,chair,degraded_25,chair,True
+gpt-5.4,chair,degraded_50,chair,True
+gpt-5.4,chair,degraded_75,chair,True
+gpt-5.4,chair,degraded_90,chair,True
+gpt-5.4,cherry,mooney,cherry,True
+gpt-5.4,cherry,mooney_inv,balloon,False
+gpt-5.4,cherry,degraded_25,cherry,True
+gpt-5.4,cherry,degraded_50,cherry,True
+gpt-5.4,cherry,degraded_75,cherry,True
+gpt-5.4,cherry,degraded_90,lollipop,False
+gpt-5.4,chicken,mooney,chicken,True
+gpt-5.4,chicken,mooney_inv,chicken,True
+gpt-5.4,chicken,degraded_25,chicken,True
+gpt-5.4,chicken,degraded_50,chicken,True
+gpt-5.4,chicken,degraded_75,chicken,True
+gpt-5.4,chicken,degraded_90,chicken,True
+gpt-5.4,chisel,mooney,screwdriver,False
+gpt-5.4,chisel,mooney_inv,screwdriver,False
+gpt-5.4,chisel,degraded_25,chisel,True
+gpt-5.4,chisel,degraded_50,screwdriver,False
+gpt-5.4,chisel,degraded_75,screwdriver,False
+gpt-5.4,chisel,degraded_90,screwdriver,False
+gpt-5.4,church,mooney,church,True
+gpt-5.4,church,mooney_inv,church,True
+gpt-5.4,church,degraded_25,church,True
+gpt-5.4,church,degraded_50,church,True
+gpt-5.4,church,degraded_75,church,True
+gpt-5.4,church,degraded_90,church,True
+gpt-5.4,cigar,mooney,baseball bat,False
+gpt-5.4,cigar,mooney_inv,baseball bat,False
+gpt-5.4,cigar,degraded_25,cigar,True
+gpt-5.4,cigar,degraded_50,cigar,True
+gpt-5.4,cigar,degraded_75,cigar,True
+gpt-5.4,cigar,degraded_90,cigar,True
+gpt-5.4,cigarette,mooney,cigarette,True
+gpt-5.4,cigarette,mooney_inv,incense stick,False
+gpt-5.4,cigarette,degraded_25,cigarette,True
+gpt-5.4,cigarette,degraded_50,cigarette,True
+gpt-5.4,cigarette,degraded_75,cigarette,True
+gpt-5.4,cigarette,degraded_90,spoon,False
+gpt-5.4,clock,mooney,clock,True
+gpt-5.4,clock,mooney_inv,clock,True
+gpt-5.4,clock,degraded_25,clock,True
+gpt-5.4,clock,degraded_50,clock,True
+gpt-5.4,clock,degraded_75,clock,True
+gpt-5.4,clock,degraded_90,clock,True
+gpt-5.4,clothespin,mooney,clothespin,True
+gpt-5.4,clothespin,mooney_inv,clothespin,True
+gpt-5.4,clothespin,degraded_25,clothespin,True
+gpt-5.4,clothespin,degraded_50,clothespin,True
+gpt-5.4,clothespin,degraded_75,clothespin,True
+gpt-5.4,clothespin,degraded_90,tongs,False
+gpt-5.4,cloud,mooney,cloud,True
+gpt-5.4,cloud,mooney_inv,cloud,True
+gpt-5.4,cloud,degraded_25,cloud,True
+gpt-5.4,cloud,degraded_50,cloud,True
+gpt-5.4,cloud,degraded_75,loaf of bread,False
+gpt-5.4,cloud,degraded_90,cloud,True
+gpt-5.4,clown,mooney,clown face,True
+gpt-5.4,clown,mooney_inv,clown face,True
+gpt-5.4,clown,degraded_25,clown,True
+gpt-5.4,clown,degraded_50,clown face,True
+gpt-5.4,clown,degraded_75,clown,True
+gpt-5.4,clown,degraded_90,crown,False
+gpt-5.4,coat,mooney,lab coat,True
+gpt-5.4,coat,mooney_inv,coat,True
+gpt-5.4,coat,degraded_25,lab coat,True
+gpt-5.4,coat,degraded_50,lab coat,True
+gpt-5.4,coat,degraded_75,lab coat,True
+gpt-5.4,coat,degraded_90,lab coat,True
+gpt-5.4,comb,mooney,screw,False
+gpt-5.4,comb,mooney_inv,screw,False
+gpt-5.4,comb,degraded_25,comb,True
+gpt-5.4,comb,degraded_50,comb,True
+gpt-5.4,comb,degraded_75,comb,True
+gpt-5.4,comb,degraded_90,ruler,False
+gpt-5.4,corn,mooney,feather,False
+gpt-5.4,corn,mooney_inv,feather,False
+gpt-5.4,corn,degraded_25,corn,True
+gpt-5.4,corn,degraded_50,ear of corn,True
+gpt-5.4,corn,degraded_75,ear of corn,True
+gpt-5.4,corn,degraded_90,feather,False
+gpt-5.4,couch,mooney,armchair,False
+gpt-5.4,couch,mooney_inv,armchair,False
+gpt-5.4,couch,degraded_25,sofa,False
+gpt-5.4,couch,degraded_50,sofa,False
+gpt-5.4,couch,degraded_75,sofa,False
+gpt-5.4,couch,degraded_90,sofa,False
+gpt-5.4,cow,mooney,cow,True
+gpt-5.4,cow,mooney_inv,cow,True
+gpt-5.4,cow,degraded_25,cow,True
+gpt-5.4,cow,degraded_50,cow,True
+gpt-5.4,cow,degraded_75,cow,True
+gpt-5.4,cow,degraded_90,cow,True
+gpt-5.4,crown,mooney,crown,True
+gpt-5.4,crown,mooney_inv,crown,True
+gpt-5.4,crown,degraded_25,crown,True
+gpt-5.4,crown,degraded_50,crown,True
+gpt-5.4,crown,degraded_75,crown,True
+gpt-5.4,crown,degraded_90,crown,True
+gpt-5.4,cup,mooney,cup,True
+gpt-5.4,cup,mooney_inv,cup,True
+gpt-5.4,cup,degraded_25,cup,True
+gpt-5.4,cup,degraded_50,cup,True
+gpt-5.4,cup,degraded_75,cup,True
+gpt-5.4,cup,degraded_90,cup,True
+gpt-5.4,deer,mooney,reindeer,True
+gpt-5.4,deer,mooney_inv,reindeer,True
+gpt-5.4,deer,degraded_25,deer,True
+gpt-5.4,deer,degraded_50,deer,True
+gpt-5.4,deer,degraded_75,deer,True
+gpt-5.4,deer,degraded_90,deer,True
+gpt-5.4,desk,mooney,desk,True
+gpt-5.4,desk,mooney_inv,desk,True
+gpt-5.4,desk,degraded_25,desk,True
+gpt-5.4,desk,degraded_50,desk,True
+gpt-5.4,desk,degraded_75,desk,True
+gpt-5.4,desk,degraded_90,desk,True
+gpt-5.4,dog,mooney,dog,True
+gpt-5.4,dog,mooney_inv,dog,True
+gpt-5.4,dog,degraded_25,dog,True
+gpt-5.4,dog,degraded_50,dog,True
+gpt-5.4,dog,degraded_75,dog,True
+gpt-5.4,dog,degraded_90,dog,True
+gpt-5.4,doll,mooney,doll,True
+gpt-5.4,doll,mooney_inv,girl drawing,False
+gpt-5.4,doll,degraded_25,doll,True
+gpt-5.4,doll,degraded_50,doll,True
+gpt-5.4,doll,degraded_75,doll,True
+gpt-5.4,doll,degraded_90,doll,True
+gpt-5.4,donkey,mooney,horse,False
+gpt-5.4,donkey,mooney_inv,horse,False
+gpt-5.4,donkey,degraded_25,donkey,True
+gpt-5.4,donkey,degraded_50,donkey,True
+gpt-5.4,donkey,degraded_75,donkey,True
+gpt-5.4,donkey,degraded_90,donkey,True
+gpt-5.4,door,mooney,door,True
+gpt-5.4,door,mooney_inv,door,True
+gpt-5.4,door,degraded_25,door,True
+gpt-5.4,door,degraded_50,door,True
+gpt-5.4,door,degraded_75,door,True
+gpt-5.4,door,degraded_90,door,True
+gpt-5.4,doorknob,mooney,doorknob,True
+gpt-5.4,doorknob,mooney_inv,doorknob,True
+gpt-5.4,doorknob,degraded_25,doorknob,True
+gpt-5.4,doorknob,degraded_50,doorknob,True
+gpt-5.4,doorknob,degraded_75,doorknob,True
+gpt-5.4,doorknob,degraded_90,doorknob,True
+gpt-5.4,dress,mooney,dress,True
+gpt-5.4,dress,mooney_inv,dress,True
+gpt-5.4,dress,degraded_25,dress,True
+gpt-5.4,dress,degraded_50,dress,True
+gpt-5.4,dress,degraded_75,dress,True
+gpt-5.4,dress,degraded_90,dress,True
+gpt-5.4,dresser,mooney,dresser,True
+gpt-5.4,dresser,mooney_inv,dresser,True
+gpt-5.4,dresser,degraded_25,dresser,True
+gpt-5.4,dresser,degraded_50,dresser,True
+gpt-5.4,dresser,degraded_75,dresser,True
+gpt-5.4,dresser,degraded_90,dresser,True
+gpt-5.4,drum,mooney,drum,True
+gpt-5.4,drum,mooney_inv,drum,True
+gpt-5.4,drum,degraded_25,drum,True
+gpt-5.4,drum,degraded_50,drum,True
+gpt-5.4,drum,degraded_75,drum,True
+gpt-5.4,drum,degraded_90,drum,True
+gpt-5.4,duck,mooney,duck,True
+gpt-5.4,duck,mooney_inv,duck,True
+gpt-5.4,duck,degraded_25,duck,True
+gpt-5.4,duck,degraded_50,duck,True
+gpt-5.4,duck,degraded_75,duck,True
+gpt-5.4,duck,degraded_90,duck,True
+gpt-5.4,eagle,mooney,bird,False
+gpt-5.4,eagle,mooney_inv,bird,False
+gpt-5.4,eagle,degraded_25,bird,False
+gpt-5.4,eagle,degraded_50,bird,False
+gpt-5.4,eagle,degraded_75,parrot,False
+gpt-5.4,eagle,degraded_90,bird,False
+gpt-5.4,ear,mooney,ear,True
+gpt-5.4,ear,mooney_inv,ear,True
+gpt-5.4,ear,degraded_25,ear,True
+gpt-5.4,ear,degraded_50,ear,True
+gpt-5.4,ear,degraded_75,ear,True
+gpt-5.4,ear,degraded_90,ear,True
+gpt-5.4,elephant,mooney,elephant,True
+gpt-5.4,elephant,mooney_inv,elephant,True
+gpt-5.4,elephant,degraded_25,elephant,True
+gpt-5.4,elephant,degraded_50,elephant,True
+gpt-5.4,elephant,degraded_75,elephant,True
+gpt-5.4,elephant,degraded_90,elephant,True
+gpt-5.4,envelope,mooney,envelope,True
+gpt-5.4,envelope,mooney_inv,envelope,True
+gpt-5.4,envelope,degraded_25,envelope,True
+gpt-5.4,envelope,degraded_50,envelope,True
+gpt-5.4,envelope,degraded_75,envelope,True
+gpt-5.4,envelope,degraded_90,envelope,True
+gpt-5.4,eye,mooney,eye,True
+gpt-5.4,eye,mooney_inv,eye,True
+gpt-5.4,eye,degraded_25,eye,True
+gpt-5.4,eye,degraded_50,eye,True
+gpt-5.4,eye,degraded_75,eye,True
+gpt-5.4,eye,degraded_90,eye,True
+gpt-5.4,fence,mooney,fence,True
+gpt-5.4,fence,mooney_inv,radiator,False
+gpt-5.4,fence,degraded_25,picket fence,True
+gpt-5.4,fence,degraded_50,picket fence,True
+gpt-5.4,fence,degraded_75,picket fence,True
+gpt-5.4,fence,degraded_90,picket fence,True
+gpt-5.4,finger,mooney,hand,False
+gpt-5.4,finger,mooney_inv,finger,True
+gpt-5.4,finger,degraded_25,finger,True
+gpt-5.4,finger,degraded_50,finger,True
+gpt-5.4,finger,degraded_75,finger,True
+gpt-5.4,finger,degraded_90,hand,False
+gpt-5.4,fish,mooney,fish,True
+gpt-5.4,fish,mooney_inv,fish,True
+gpt-5.4,fish,degraded_25,fish,True
+gpt-5.4,fish,degraded_50,fish,True
+gpt-5.4,fish,degraded_75,fish,True
+gpt-5.4,fish,degraded_90,fish,True
+gpt-5.4,flag,mooney,flag,True
+gpt-5.4,flag,mooney_inv,flag,True
+gpt-5.4,flag,degraded_25,flag,True
+gpt-5.4,flag,degraded_50,flag,True
+gpt-5.4,flag,degraded_75,flag,True
+gpt-5.4,flag,degraded_90,flag,True
+gpt-5.4,flower,mooney,flower,True
+gpt-5.4,flower,mooney_inv,flower,True
+gpt-5.4,flower,degraded_25,flower,True
+gpt-5.4,flower,degraded_50,flower,True
+gpt-5.4,flower,degraded_75,flower,True
+gpt-5.4,flower,degraded_90,flower,True
+gpt-5.4,flute,mooney,clarinet,False
+gpt-5.4,flute,mooney_inv,flute,True
+gpt-5.4,flute,degraded_25,flute,True
+gpt-5.4,flute,degraded_50,flute,True
+gpt-5.4,flute,degraded_75,pencil,False
+gpt-5.4,flute,degraded_90,baseball bat,False
+gpt-5.4,fly,mooney,fly,True
+gpt-5.4,fly,mooney_inv,fly,True
+gpt-5.4,fly,degraded_25,fly,True
+gpt-5.4,fly,degraded_50,fly,True
+gpt-5.4,fly,degraded_75,fly,True
+gpt-5.4,fly,degraded_90,fly,True
+gpt-5.4,foot,mooney,foot,True
+gpt-5.4,foot,mooney_inv,foot,True
+gpt-5.4,foot,degraded_25,foot,True
+gpt-5.4,foot,degraded_50,foot,True
+gpt-5.4,foot,degraded_75,foot,True
+gpt-5.4,foot,degraded_90,foot,True
+gpt-5.4,football,mooney,football,True
+gpt-5.4,football,mooney_inv,football,True
+gpt-5.4,football,degraded_25,football,True
+gpt-5.4,football,degraded_50,football,True
+gpt-5.4,football,degraded_75,football,True
+gpt-5.4,football,degraded_90,football,True
+gpt-5.4,football_helmet,mooney,football helmet,True
+gpt-5.4,football_helmet,mooney_inv,football helmet,True
+gpt-5.4,football_helmet,degraded_25,football helmet,True
+gpt-5.4,football_helmet,degraded_50,football helmet,True
+gpt-5.4,football_helmet,degraded_75,football helmet,True
+gpt-5.4,football_helmet,degraded_90,football helmet,True
+gpt-5.4,fork,mooney,slingshot,False
+gpt-5.4,fork,mooney_inv,toothbrush,False
+gpt-5.4,fork,degraded_25,fork,True
+gpt-5.4,fork,degraded_50,fork,True
+gpt-5.4,fork,degraded_75,fork,True
+gpt-5.4,fork,degraded_90,fork,True
+gpt-5.4,fox,mooney,fox,True
+gpt-5.4,fox,mooney_inv,fox,True
+gpt-5.4,fox,degraded_25,fox,True
+gpt-5.4,fox,degraded_50,fox,True
+gpt-5.4,fox,degraded_75,fox,True
+gpt-5.4,fox,degraded_90,fox,True
+gpt-5.4,frog,mooney,frog,True
+gpt-5.4,frog,mooney_inv,frog,True
+gpt-5.4,frog,degraded_25,frog,True
+gpt-5.4,frog,degraded_50,frog,True
+gpt-5.4,frog,degraded_75,frog,True
+gpt-5.4,frog,degraded_90,frog,True
+gpt-5.4,frying_pan,mooney,frying pan,True
+gpt-5.4,frying_pan,mooney_inv,frying pan,True
+gpt-5.4,frying_pan,degraded_25,frying pan,True
+gpt-5.4,frying_pan,degraded_50,frying pan,True
+gpt-5.4,frying_pan,degraded_75,frying pan,True
+gpt-5.4,frying_pan,degraded_90,frying pan,True
+gpt-5.4,garbage_can,mooney,trash can,True
+gpt-5.4,garbage_can,mooney_inv,trash can,True
+gpt-5.4,garbage_can,degraded_25,trash can,True
+gpt-5.4,garbage_can,degraded_50,trash can,True
+gpt-5.4,garbage_can,degraded_75,trash can,True
+gpt-5.4,garbage_can,degraded_90,trash can,True
+gpt-5.4,giraffe,mooney,giraffe,True
+gpt-5.4,giraffe,mooney_inv,giraffe,True
+gpt-5.4,giraffe,degraded_25,giraffe,True
+gpt-5.4,giraffe,degraded_50,giraffe,True
+gpt-5.4,giraffe,degraded_75,giraffe,True
+gpt-5.4,giraffe,degraded_90,giraffe,True
+gpt-5.4,glass,mooney,drinking glass,True
+gpt-5.4,glass,mooney_inv,glass,True
+gpt-5.4,glass,degraded_25,drinking glass,True
+gpt-5.4,glass,degraded_50,glass,True
+gpt-5.4,glass,degraded_75,drinking glass,True
+gpt-5.4,glass,degraded_90,glass,True
+gpt-5.4,glasses,mooney,glasses,True
+gpt-5.4,glasses,mooney_inv,eyeglasses,True
+gpt-5.4,glasses,degraded_25,eyeglasses,True
+gpt-5.4,glasses,degraded_50,glasses,True
+gpt-5.4,glasses,degraded_75,sunglasses,True
+gpt-5.4,glasses,degraded_90,sunglasses,True
+gpt-5.4,glove,mooney,hand,False
+gpt-5.4,glove,mooney_inv,hand,False
+gpt-5.4,glove,degraded_25,glove,True
+gpt-5.4,glove,degraded_50,glove,True
+gpt-5.4,glove,degraded_75,glove,True
+gpt-5.4,glove,degraded_90,glove,True
+gpt-5.4,goat,mooney,dog,False
+gpt-5.4,goat,mooney_inv,goat,True
+gpt-5.4,goat,degraded_25,goat,True
+gpt-5.4,goat,degraded_50,goat,True
+gpt-5.4,goat,degraded_75,goat,True
+gpt-5.4,goat,degraded_90,goat,True
+gpt-5.4,gorilla,mooney,dog,False
+gpt-5.4,gorilla,mooney_inv,penguin,False
+gpt-5.4,gorilla,degraded_25,gorilla,True
+gpt-5.4,gorilla,degraded_50,gorilla,True
+gpt-5.4,gorilla,degraded_75,gorilla,True
+gpt-5.4,gorilla,degraded_90,dog,False
+gpt-5.4,grapes,mooney,grapes,True
+gpt-5.4,grapes,mooney_inv,giraffe,False
+gpt-5.4,grapes,degraded_25,grapes,True
+gpt-5.4,grapes,degraded_50,grapes,True
+gpt-5.4,grapes,degraded_75,grapes,True
+gpt-5.4,grapes,degraded_90,grapes,True
+gpt-5.4,grasshopper,mooney,grasshopper,True
+gpt-5.4,grasshopper,mooney_inv,grasshopper,True
+gpt-5.4,grasshopper,degraded_25,grasshopper,True
+gpt-5.4,grasshopper,degraded_50,grasshopper,True
+gpt-5.4,grasshopper,degraded_75,grasshopper,True
+gpt-5.4,grasshopper,degraded_90,grasshopper,True
+gpt-5.4,guitar,mooney,guitar,True
+gpt-5.4,guitar,mooney_inv,guitar,True
+gpt-5.4,guitar,degraded_25,acoustic guitar,True
+gpt-5.4,guitar,degraded_50,guitar,True
+gpt-5.4,guitar,degraded_75,guitar,True
+gpt-5.4,guitar,degraded_90,guitar,True
+gpt-5.4,gun,mooney,revolver,True
+gpt-5.4,gun,mooney_inv,revolver,True
+gpt-5.4,gun,degraded_25,revolver,True
+gpt-5.4,gun,degraded_50,revolver,True
+gpt-5.4,gun,degraded_75,revolver,True
+gpt-5.4,gun,degraded_90,revolver,True
+gpt-5.4,hair,mooney,seashell,False
+gpt-5.4,hair,mooney_inv,seashell,False
+gpt-5.4,hair,degraded_25,hair,True
+gpt-5.4,hair,degraded_50,seashell,False
+gpt-5.4,hair,degraded_75,seashell,False
+gpt-5.4,hair,degraded_90,seashell,False
+gpt-5.4,hammer,mooney,hammer,True
+gpt-5.4,hammer,mooney_inv,hammer,True
+gpt-5.4,hammer,degraded_25,hammer,True
+gpt-5.4,hammer,degraded_50,hammer,True
+gpt-5.4,hammer,degraded_75,hammer,True
+gpt-5.4,hammer,degraded_90,hammer,True
+gpt-5.4,hand,mooney,hand,True
+gpt-5.4,hand,mooney_inv,hand,True
+gpt-5.4,hand,degraded_25,hand,True
+gpt-5.4,hand,degraded_50,hand,True
+gpt-5.4,hand,degraded_75,hand,True
+gpt-5.4,hand,degraded_90,hand,True
+gpt-5.4,hanger,mooney,hanger,True
+gpt-5.4,hanger,mooney_inv,hanger,True
+gpt-5.4,hanger,degraded_25,hanger,True
+gpt-5.4,hanger,degraded_50,clothes hanger,True
+gpt-5.4,hanger,degraded_75,clothes hanger,True
+gpt-5.4,hanger,degraded_90,hanger,True
+gpt-5.4,harp,mooney,harp,True
+gpt-5.4,harp,mooney_inv,safety pin,False
+gpt-5.4,harp,degraded_25,harp,True
+gpt-5.4,harp,degraded_50,harp,True
+gpt-5.4,harp,degraded_75,harp,True
+gpt-5.4,harp,degraded_90,harp,True
+gpt-5.4,hat,mooney,hat,True
+gpt-5.4,hat,mooney_inv,hat,True
+gpt-5.4,hat,degraded_25,hat,True
+gpt-5.4,hat,degraded_50,hat,True
+gpt-5.4,hat,degraded_75,hat,True
+gpt-5.4,hat,degraded_90,hat,True
+gpt-5.4,heart,mooney,heart,True
+gpt-5.4,heart,mooney_inv,heart,True
+gpt-5.4,heart,degraded_25,heart,True
+gpt-5.4,heart,degraded_50,heart,True
+gpt-5.4,heart,degraded_75,heart,True
+gpt-5.4,heart,degraded_90,heart,True
+gpt-5.4,helicopter,mooney,helicopter,True
+gpt-5.4,helicopter,mooney_inv,helicopter,True
+gpt-5.4,helicopter,degraded_25,helicopter,True
+gpt-5.4,helicopter,degraded_50,helicopter,True
+gpt-5.4,helicopter,degraded_75,helicopter,True
+gpt-5.4,helicopter,degraded_90,helicopter,True
+gpt-5.4,horse,mooney,horse,True
+gpt-5.4,horse,mooney_inv,horse,True
+gpt-5.4,horse,degraded_25,horse,True
+gpt-5.4,horse,degraded_50,horse,True
+gpt-5.4,horse,degraded_75,horse,True
+gpt-5.4,horse,degraded_90,horse,True
+gpt-5.4,house,mooney,house,True
+gpt-5.4,house,mooney_inv,house,True
+gpt-5.4,house,degraded_25,house,True
+gpt-5.4,house,degraded_50,house,True
+gpt-5.4,house,degraded_75,house,True
+gpt-5.4,house,degraded_90,house,True
+gpt-5.4,iron,mooney,boot,False
+gpt-5.4,iron,mooney_inv,shoe,False
+gpt-5.4,iron,degraded_25,iron,True
+gpt-5.4,iron,degraded_50,iron,True
+gpt-5.4,iron,degraded_75,iron,True
+gpt-5.4,iron,degraded_90,iron,True
+gpt-5.4,ironing_board,mooney,ironing board,True
+gpt-5.4,ironing_board,mooney_inv,folding chair,False
+gpt-5.4,ironing_board,degraded_25,ironing board,True
+gpt-5.4,ironing_board,degraded_50,ironing board,True
+gpt-5.4,ironing_board,degraded_75,ironing board,True
+gpt-5.4,ironing_board,degraded_90,ironing board,True
+gpt-5.4,jacket,mooney,jacket,True
+gpt-5.4,jacket,mooney_inv,jacket,True
+gpt-5.4,jacket,degraded_25,jacket,True
+gpt-5.4,jacket,degraded_50,jacket,True
+gpt-5.4,jacket,degraded_75,jacket,True
+gpt-5.4,jacket,degraded_90,jacket,True
+gpt-5.4,kangaroo,mooney,kangaroo,True
+gpt-5.4,kangaroo,mooney_inv,kangaroo,True
+gpt-5.4,kangaroo,degraded_25,kangaroo,True
+gpt-5.4,kangaroo,degraded_50,kangaroo,True
+gpt-5.4,kangaroo,degraded_75,kangaroo,True
+gpt-5.4,kangaroo,degraded_90,kangaroo,True
+gpt-5.4,kettle,mooney,kettle,True
+gpt-5.4,kettle,mooney_inv,teapot,True
+gpt-5.4,kettle,degraded_25,teapot,True
+gpt-5.4,kettle,degraded_50,teapot,True
+gpt-5.4,kettle,degraded_75,teapot,True
+gpt-5.4,kettle,degraded_90,teapot,True
+gpt-5.4,key,mooney,key,True
+gpt-5.4,key,mooney_inv,key,True
+gpt-5.4,key,degraded_25,key,True
+gpt-5.4,key,degraded_50,key,True
+gpt-5.4,key,degraded_75,key,True
+gpt-5.4,key,degraded_90,key,True
+gpt-5.4,kite,mooney,kite,True
+gpt-5.4,kite,mooney_inv,kite,True
+gpt-5.4,kite,degraded_25,kite,True
+gpt-5.4,kite,degraded_50,kite,True
+gpt-5.4,kite,degraded_75,kite,True
+gpt-5.4,kite,degraded_90,kite,True
+gpt-5.4,knife,mooney,banana,False
+gpt-5.4,knife,mooney_inv,safety pin,False
+gpt-5.4,knife,degraded_25,knife,True
+gpt-5.4,knife,degraded_50,knife,True
+gpt-5.4,knife,degraded_75,knife,True
+gpt-5.4,knife,degraded_90,knife,True
+gpt-5.4,ladder,mooney,film strip,False
+gpt-5.4,ladder,mooney_inv,ladder,True
+gpt-5.4,ladder,degraded_25,ladder,True
+gpt-5.4,ladder,degraded_50,ladder,True
+gpt-5.4,ladder,degraded_75,ladder,True
+gpt-5.4,ladder,degraded_90,ladder,True
+gpt-5.4,lamp,mooney,table lamp,True
+gpt-5.4,lamp,mooney_inv,lamp,True
+gpt-5.4,lamp,degraded_25,table lamp,True
+gpt-5.4,lamp,degraded_50,table lamp,True
+gpt-5.4,lamp,degraded_75,lamp,True
+gpt-5.4,lamp,degraded_90,table lamp,True
+gpt-5.4,leaf,mooney,leaf,True
+gpt-5.4,leaf,mooney_inv,leaf,True
+gpt-5.4,leaf,degraded_25,leaf,True
+gpt-5.4,leaf,degraded_50,maple leaf,True
+gpt-5.4,leaf,degraded_75,maple leaf,True
+gpt-5.4,leaf,degraded_90,maple leaf,True
+gpt-5.4,leg,mooney,leg,True
+gpt-5.4,leg,mooney_inv,leg,True
+gpt-5.4,leg,degraded_25,leg,True
+gpt-5.4,leg,degraded_50,leg,True
+gpt-5.4,leg,degraded_75,leg,True
+gpt-5.4,leg,degraded_90,leg,True
+gpt-5.4,lemon,mooney,lemon,True
+gpt-5.4,lemon,mooney_inv,lemon,True
+gpt-5.4,lemon,degraded_25,lemon,True
+gpt-5.4,lemon,degraded_50,lemon,True
+gpt-5.4,lemon,degraded_75,lemon,True
+gpt-5.4,lemon,degraded_90,lemon,True
+gpt-5.4,leopard,mooney,cheetah,False
+gpt-5.4,leopard,mooney_inv,leopard,True
+gpt-5.4,leopard,degraded_25,leopard,True
+gpt-5.4,leopard,degraded_50,leopard,True
+gpt-5.4,leopard,degraded_75,leopard,True
+gpt-5.4,leopard,degraded_90,leopard,True
+gpt-5.4,lettuce,mooney,cabbage,False
+gpt-5.4,lettuce,mooney_inv,wreath,False
+gpt-5.4,lettuce,degraded_25,lettuce,True
+gpt-5.4,lettuce,degraded_50,cabbage,False
+gpt-5.4,lettuce,degraded_75,lettuce,True
+gpt-5.4,lettuce,degraded_90,wreath,False
+gpt-5.4,light_bulb,mooney,light bulb,True
+gpt-5.4,light_bulb,mooney_inv,light bulb,True
+gpt-5.4,light_bulb,degraded_25,light bulb,True
+gpt-5.4,light_bulb,degraded_50,light bulb,True
+gpt-5.4,light_bulb,degraded_75,light bulb,True
+gpt-5.4,light_bulb,degraded_90,light bulb,True
+gpt-5.4,light_switch,mooney,light switch,True
+gpt-5.4,light_switch,mooney_inv,light switch,True
+gpt-5.4,light_switch,degraded_25,light switch,True
+gpt-5.4,light_switch,degraded_50,light switch,True
+gpt-5.4,light_switch,degraded_75,light switch,True
+gpt-5.4,light_switch,degraded_90,light switch,True
+gpt-5.4,lion,mooney,lion,True
+gpt-5.4,lion,mooney_inv,lion,True
+gpt-5.4,lion,degraded_25,lion,True
+gpt-5.4,lion,degraded_50,lion,True
+gpt-5.4,lion,degraded_75,lion,True
+gpt-5.4,lion,degraded_90,lion,True
+gpt-5.4,lips,mooney,snake,False
+gpt-5.4,lips,mooney_inv,canoe,False
+gpt-5.4,lips,degraded_25,lips,True
+gpt-5.4,lips,degraded_50,lips,True
+gpt-5.4,lips,degraded_75,lips,True
+gpt-5.4,lips,degraded_90,lips,True
+gpt-5.4,lobster,mooney,lobster,True
+gpt-5.4,lobster,mooney_inv,lobster,True
+gpt-5.4,lobster,degraded_25,lobster,True
+gpt-5.4,lobster,degraded_50,lobster,True
+gpt-5.4,lobster,degraded_75,lobster,True
+gpt-5.4,lobster,degraded_90,lobster,True
+gpt-5.4,lock,mooney,padlock,True
+gpt-5.4,lock,mooney_inv,padlock,True
+gpt-5.4,lock,degraded_25,padlock,True
+gpt-5.4,lock,degraded_50,padlock,True
+gpt-5.4,lock,degraded_75,padlock,True
+gpt-5.4,lock,degraded_90,padlock,True
+gpt-5.4,mitten,mooney,mitten,True
+gpt-5.4,mitten,mooney_inv,mitten,True
+gpt-5.4,mitten,degraded_25,mitten,True
+gpt-5.4,mitten,degraded_50,oven mitt,False
+gpt-5.4,mitten,degraded_75,oven mitt,False
+gpt-5.4,mitten,degraded_90,mitten,True
+gpt-5.4,monkey,mooney,monkey,True
+gpt-5.4,monkey,mooney_inv,rat,False
+gpt-5.4,monkey,degraded_25,monkey,True
+gpt-5.4,monkey,degraded_50,monkey,True
+gpt-5.4,monkey,degraded_75,monkey,True
+gpt-5.4,monkey,degraded_90,monkey,True
+gpt-5.4,moon,mooney,crescent moon,True
+gpt-5.4,moon,mooney_inv,crescent moon,True
+gpt-5.4,moon,degraded_25,crescent moon,True
+gpt-5.4,moon,degraded_50,crescent moon,True
+gpt-5.4,moon,degraded_75,crescent moon,True
+gpt-5.4,moon,degraded_90,crescent moon,True
+gpt-5.4,motorcycle,mooney,motorcycle,True
+gpt-5.4,motorcycle,mooney_inv,motorcycle,True
+gpt-5.4,motorcycle,degraded_25,motorcycle,True
+gpt-5.4,motorcycle,degraded_50,motorcycle,True
+gpt-5.4,motorcycle,degraded_75,motorcycle,True
+gpt-5.4,motorcycle,degraded_90,motorcycle,True
+gpt-5.4,mountain,mooney,mountain bike,True
+gpt-5.4,mountain,mooney_inv,tent,False
+gpt-5.4,mountain,degraded_25,mountain,True
+gpt-5.4,mountain,degraded_50,mountain,True
+gpt-5.4,mountain,degraded_75,mountain,True
+gpt-5.4,mountain,degraded_90,mountain,True
+gpt-5.4,mouse,mooney,mouse,True
+gpt-5.4,mouse,mooney_inv,rat,False
+gpt-5.4,mouse,degraded_25,rat,False
+gpt-5.4,mouse,degraded_50,mouse,True
+gpt-5.4,mouse,degraded_75,cat,False
+gpt-5.4,mouse,degraded_90,rat,False
+gpt-5.4,mushroom,mooney,mushroom,True
+gpt-5.4,mushroom,mooney_inv,mushroom,True
+gpt-5.4,mushroom,degraded_25,mushroom,True
+gpt-5.4,mushroom,degraded_50,mushroom,True
+gpt-5.4,mushroom,degraded_75,mushroom,True
+gpt-5.4,mushroom,degraded_90,mushroom,True
+gpt-5.4,nail,mooney,golf club,False
+gpt-5.4,nail,mooney_inv,nail,True
+gpt-5.4,nail,degraded_25,nail,True
+gpt-5.4,nail,degraded_50,nail,True
+gpt-5.4,nail,degraded_75,nail,True
+gpt-5.4,nail,degraded_90,screwdriver,False
+gpt-5.4,nail_file,mooney,knife,False
+gpt-5.4,nail_file,mooney_inv,knife,False
+gpt-5.4,nail_file,degraded_25,knife,False
+gpt-5.4,nail_file,degraded_50,knife,False
+gpt-5.4,nail_file,degraded_75,knife,False
+gpt-5.4,nail_file,degraded_90,knife,False
+gpt-5.4,necklace,mooney,pear,False
+gpt-5.4,necklace,mooney_inv,necklace,True
+gpt-5.4,necklace,degraded_25,necklace,True
+gpt-5.4,necklace,degraded_50,necklace,True
+gpt-5.4,necklace,degraded_75,necklace,True
+gpt-5.4,necklace,degraded_90,pear,False
+gpt-5.4,needle,mooney,needle,True
+gpt-5.4,needle,mooney_inv,needle,True
+gpt-5.4,needle,degraded_25,needle,True
+gpt-5.4,needle,degraded_50,needle,True
+gpt-5.4,needle,degraded_75,cigarette,False
+gpt-5.4,needle,degraded_90,paintbrush,False
+gpt-5.4,nose,mooney,nose,True
+gpt-5.4,nose,mooney_inv,nose,True
+gpt-5.4,nose,degraded_25,nose,True
+gpt-5.4,nose,degraded_50,nose,True
+gpt-5.4,nose,degraded_75,nose,True
+gpt-5.4,nose,degraded_90,nose,True
+gpt-5.4,nut,mooney,hex nut,True
+gpt-5.4,nut,mooney_inv,box,False
+gpt-5.4,nut,degraded_25,hex nut,True
+gpt-5.4,nut,degraded_50,hex nut,True
+gpt-5.4,nut,degraded_75,hex nut,True
+gpt-5.4,nut,degraded_90,hex nut,True
+gpt-5.4,onion,mooney,onion,True
+gpt-5.4,onion,mooney_inv,lemon,False
+gpt-5.4,onion,degraded_25,onion,True
+gpt-5.4,onion,degraded_50,onion,True
+gpt-5.4,onion,degraded_75,onion,True
+gpt-5.4,onion,degraded_90,onion,True
+gpt-5.4,orange,mooney,orange,True
+gpt-5.4,orange,mooney_inv,balloon,False
+gpt-5.4,orange,degraded_25,orange,True
+gpt-5.4,orange,degraded_50,orange,True
+gpt-5.4,orange,degraded_75,orange,True
+gpt-5.4,orange,degraded_90,orange,True
+gpt-5.4,ostrich,mooney,ostrich,True
+gpt-5.4,ostrich,mooney_inv,ostrich,True
+gpt-5.4,ostrich,degraded_25,ostrich,True
+gpt-5.4,ostrich,degraded_50,ostrich,True
+gpt-5.4,ostrich,degraded_75,ostrich,True
+gpt-5.4,ostrich,degraded_90,ostrich,True
+gpt-5.4,owl,mooney,owl,True
+gpt-5.4,owl,mooney_inv,owl,True
+gpt-5.4,owl,degraded_25,owl,True
+gpt-5.4,owl,degraded_50,owl,True
+gpt-5.4,owl,degraded_75,owl,True
+gpt-5.4,owl,degraded_90,owl,True
+gpt-5.4,paintbrush,mooney,paintbrush,True
+gpt-5.4,paintbrush,mooney_inv,tweezers,False
+gpt-5.4,paintbrush,degraded_25,paintbrush,True
+gpt-5.4,paintbrush,degraded_50,spear,False
+gpt-5.4,paintbrush,degraded_75,needle,False
+gpt-5.4,paintbrush,degraded_90,needle,False
+gpt-5.4,pants,mooney,pants,True
+gpt-5.4,pants,mooney_inv,pants,True
+gpt-5.4,pants,degraded_25,pants,True
+gpt-5.4,pants,degraded_50,pants,True
+gpt-5.4,pants,degraded_75,pants,True
+gpt-5.4,pants,degraded_90,pants,True
+gpt-5.4,peach,mooney,ball,False
+gpt-5.4,peach,mooney_inv,balloon,False
+gpt-5.4,peach,degraded_25,peach,True
+gpt-5.4,peach,degraded_50,orange,False
+gpt-5.4,peach,degraded_75,orange,False
+gpt-5.4,peach,degraded_90,orange,False
+gpt-5.4,peacock,mooney,turkey,False
+gpt-5.4,peacock,mooney_inv,turkey,False
+gpt-5.4,peacock,degraded_25,peacock,True
+gpt-5.4,peacock,degraded_50,peacock,True
+gpt-5.4,peacock,degraded_75,peacock,True
+gpt-5.4,peacock,degraded_90,peacock,True
+gpt-5.4,peanut,mooney,peanut,True
+gpt-5.4,peanut,mooney_inv,peanut,True
+gpt-5.4,peanut,degraded_25,peanut,True
+gpt-5.4,peanut,degraded_50,peanut,True
+gpt-5.4,peanut,degraded_75,peanut,True
+gpt-5.4,peanut,degraded_90,peanut,True
+gpt-5.4,pear,mooney,pear,True
+gpt-5.4,pear,mooney_inv,pear,True
+gpt-5.4,pear,degraded_25,pear,True
+gpt-5.4,pear,degraded_50,pear,True
+gpt-5.4,pear,degraded_75,pear,True
+gpt-5.4,pear,degraded_90,pear,True
+gpt-5.4,pen,mooney,pen,True
+gpt-5.4,pen,mooney_inv,needle,False
+gpt-5.4,pen,degraded_25,pen,True
+gpt-5.4,pen,degraded_50,ballpoint pen,True
+gpt-5.4,pen,degraded_75,tweezers,False
+gpt-5.4,pen,degraded_90,pen,True
+gpt-5.4,pencil,mooney,pencil,True
+gpt-5.4,pencil,mooney_inv,knife,False
+gpt-5.4,pencil,degraded_25,pencil,True
+gpt-5.4,pencil,degraded_50,pencil,True
+gpt-5.4,pencil,degraded_75,pencil,True
+gpt-5.4,pencil,degraded_90,pencil,True
+gpt-5.4,penguin,mooney,penguin,True
+gpt-5.4,penguin,mooney_inv,penguin,True
+gpt-5.4,penguin,degraded_25,penguin,True
+gpt-5.4,penguin,degraded_50,penguin,True
+gpt-5.4,penguin,degraded_75,penguin,True
+gpt-5.4,penguin,degraded_90,penguin,True
+gpt-5.4,pepper,mooney,bell pepper,True
+gpt-5.4,pepper,mooney_inv,bell pepper,True
+gpt-5.4,pepper,degraded_25,bell pepper,True
+gpt-5.4,pepper,degraded_50,bell pepper,True
+gpt-5.4,pepper,degraded_75,bell pepper,True
+gpt-5.4,pepper,degraded_90,bell pepper,True
+gpt-5.4,piano,mooney,grand piano,True
+gpt-5.4,piano,mooney_inv,grand piano,True
+gpt-5.4,piano,degraded_25,grand piano,True
+gpt-5.4,piano,degraded_50,grand piano,True
+gpt-5.4,piano,degraded_75,grand piano,True
+gpt-5.4,piano,degraded_90,grand piano,True
+gpt-5.4,pig,mooney,pig,True
+gpt-5.4,pig,mooney_inv,pig,True
+gpt-5.4,pig,degraded_25,rhinoceros,False
+gpt-5.4,pig,degraded_50,rhinoceros,False
+gpt-5.4,pig,degraded_75,rhinoceros,False
+gpt-5.4,pig,degraded_90,rhinoceros,False
+gpt-5.4,pineapple,mooney,pineapple,True
+gpt-5.4,pineapple,mooney_inv,pineapple,True
+gpt-5.4,pineapple,degraded_25,pineapple,True
+gpt-5.4,pineapple,degraded_50,pineapple,True
+gpt-5.4,pineapple,degraded_75,pineapple,True
+gpt-5.4,pineapple,degraded_90,pineapple,True
+gpt-5.4,pipe,mooney,pipe,True
+gpt-5.4,pipe,mooney_inv,smoking pipe,True
+gpt-5.4,pipe,degraded_25,smoking pipe,True
+gpt-5.4,pipe,degraded_50,smoking pipe,True
+gpt-5.4,pipe,degraded_75,pipe,True
+gpt-5.4,pipe,degraded_90,pipe,True
+gpt-5.4,pitcher,mooney,pitcher,True
+gpt-5.4,pitcher,mooney_inv,pitcher,True
+gpt-5.4,pitcher,degraded_25,pitcher,True
+gpt-5.4,pitcher,degraded_50,pitcher,True
+gpt-5.4,pitcher,degraded_75,pitcher,True
+gpt-5.4,pitcher,degraded_90,pitcher,True
+gpt-5.4,pliers,mooney,pliers,True
+gpt-5.4,pliers,mooney_inv,pliers,True
+gpt-5.4,pliers,degraded_25,pliers,True
+gpt-5.4,pliers,degraded_50,pliers,True
+gpt-5.4,pliers,degraded_75,pliers,True
+gpt-5.4,pliers,degraded_90,pliers,True
+gpt-5.4,plug,mooney,electrical plug,True
+gpt-5.4,plug,mooney_inv,electrical plug,True
+gpt-5.4,plug,degraded_25,electrical plug,True
+gpt-5.4,plug,degraded_50,electrical plug,True
+gpt-5.4,plug,degraded_75,electrical plug,True
+gpt-5.4,plug,degraded_90,leaf blower,False
+gpt-5.4,pocketbook,mooney,teapot,False
+gpt-5.4,pocketbook,mooney_inv,pitcher,False
+gpt-5.4,pocketbook,degraded_25,handbag,True
+gpt-5.4,pocketbook,degraded_50,messenger bag,False
+gpt-5.4,pocketbook,degraded_75,messenger bag,False
+gpt-5.4,pocketbook,degraded_90,messenger bag,False
+gpt-5.4,pot,mooney,saucepan,True
+gpt-5.4,pot,mooney_inv,saucepan,True
+gpt-5.4,pot,degraded_25,saucepan,True
+gpt-5.4,pot,degraded_50,bucket,False
+gpt-5.4,pot,degraded_75,saucepan,True
+gpt-5.4,pot,degraded_90,saucepan,True
+gpt-5.4,potato,mooney,potato,True
+gpt-5.4,potato,mooney_inv,potato,True
+gpt-5.4,potato,degraded_25,potato,True
+gpt-5.4,potato,degraded_50,potato,True
+gpt-5.4,potato,degraded_75,potato,True
+gpt-5.4,potato,degraded_90,potato,True
+gpt-5.4,pumpkin,mooney,pumpkin,True
+gpt-5.4,pumpkin,mooney_inv,pumpkin,True
+gpt-5.4,pumpkin,degraded_25,pumpkin,True
+gpt-5.4,pumpkin,degraded_50,pumpkin,True
+gpt-5.4,pumpkin,degraded_75,pumpkin,True
+gpt-5.4,pumpkin,degraded_90,pumpkin,True
+gpt-5.4,rabbit,mooney,rabbit,True
+gpt-5.4,rabbit,mooney_inv,rabbit,True
+gpt-5.4,rabbit,degraded_25,rabbit,True
+gpt-5.4,rabbit,degraded_50,rabbit,True
+gpt-5.4,rabbit,degraded_75,rabbit,True
+gpt-5.4,rabbit,degraded_90,rabbit,True
+gpt-5.4,raccoon,mooney,cat,False
+gpt-5.4,raccoon,mooney_inv,cat,False
+gpt-5.4,raccoon,degraded_25,raccoon,True
+gpt-5.4,raccoon,degraded_50,cat,False
+gpt-5.4,raccoon,degraded_75,cat,False
+gpt-5.4,raccoon,degraded_90,bear,False
+gpt-5.4,record_player,mooney,record player,True
+gpt-5.4,record_player,mooney_inv,record player,True
+gpt-5.4,record_player,degraded_25,record player,True
+gpt-5.4,record_player,degraded_50,record player,True
+gpt-5.4,record_player,degraded_75,record player,True
+gpt-5.4,record_player,degraded_90,record player,True
+gpt-5.4,refrigerator,mooney,refrigerator,True
+gpt-5.4,refrigerator,mooney_inv,refrigerator,True
+gpt-5.4,refrigerator,degraded_25,refrigerator,True
+gpt-5.4,refrigerator,degraded_50,refrigerator,True
+gpt-5.4,refrigerator,degraded_75,refrigerator,True
+gpt-5.4,refrigerator,degraded_90,refrigerator,True
+gpt-5.4,rhinoceros,mooney,rhinoceros,True
+gpt-5.4,rhinoceros,mooney_inv,rhinoceros,True
+gpt-5.4,rhinoceros,degraded_25,rhinoceros,True
+gpt-5.4,rhinoceros,degraded_50,rhinoceros,True
+gpt-5.4,rhinoceros,degraded_75,rhinoceros,True
+gpt-5.4,rhinoceros,degraded_90,rhinoceros,True
+gpt-5.4,ring,mooney,ring,True
+gpt-5.4,ring,mooney_inv,ring,True
+gpt-5.4,ring,degraded_25,magnifying glass,False
+gpt-5.4,ring,degraded_50,ring,True
+gpt-5.4,ring,degraded_75,ring,True
+gpt-5.4,ring,degraded_90,ring,True
+gpt-5.4,rocking_chair,mooney,rocking chair,True
+gpt-5.4,rocking_chair,mooney_inv,rocking chair,True
+gpt-5.4,rocking_chair,degraded_25,rocking chair,True
+gpt-5.4,rocking_chair,degraded_50,rocking chair,True
+gpt-5.4,rocking_chair,degraded_75,rocking chair,True
+gpt-5.4,rocking_chair,degraded_90,rocking chair,True
+gpt-5.4,roller_skate,mooney,stroller,False
+gpt-5.4,roller_skate,mooney_inv,toy car,False
+gpt-5.4,roller_skate,degraded_25,wheelbarrow,False
+gpt-5.4,roller_skate,degraded_50,wagon,False
+gpt-5.4,roller_skate,degraded_75,atv,False
+gpt-5.4,roller_skate,degraded_90,atv,False
+gpt-5.4,rolling_pin,mooney,rolling pin,True
+gpt-5.4,rolling_pin,mooney_inv,rolling pin,True
+gpt-5.4,rolling_pin,degraded_25,rolling pin,True
+gpt-5.4,rolling_pin,degraded_50,rolling pin,True
+gpt-5.4,rolling_pin,degraded_75,rolling pin,True
+gpt-5.4,rolling_pin,degraded_90,rolling pin,True
+gpt-5.4,rooster,mooney,rooster,True
+gpt-5.4,rooster,mooney_inv,rooster,True
+gpt-5.4,rooster,degraded_25,rooster,True
+gpt-5.4,rooster,degraded_50,rooster,True
+gpt-5.4,rooster,degraded_75,rooster,True
+gpt-5.4,rooster,degraded_90,rooster,True
+gpt-5.4,ruler,mooney,ruler,True
+gpt-5.4,ruler,mooney_inv,ruler,True
+gpt-5.4,ruler,degraded_25,ruler,True
+gpt-5.4,ruler,degraded_50,ruler,True
+gpt-5.4,ruler,degraded_75,ruler,True
+gpt-5.4,ruler,degraded_90,ruler,True
+gpt-5.4,sailboat,mooney,sailboat,True
+gpt-5.4,sailboat,mooney_inv,sailboat,True
+gpt-5.4,sailboat,degraded_25,sailboat,True
+gpt-5.4,sailboat,degraded_50,sailboat,True
+gpt-5.4,sailboat,degraded_75,sailboat,True
+gpt-5.4,sailboat,degraded_90,sailboat,True
+gpt-5.4,salt_shaker,mooney,bottle,False
+gpt-5.4,salt_shaker,mooney_inv,thermos,False
+gpt-5.4,salt_shaker,degraded_25,salt shaker,True
+gpt-5.4,salt_shaker,degraded_50,salt shaker,True
+gpt-5.4,salt_shaker,degraded_75,salt shaker,True
+gpt-5.4,salt_shaker,degraded_90,salt shaker,True
+gpt-5.4,sandwich,mooney,sandwich,True
+gpt-5.4,sandwich,mooney_inv,sandwich,True
+gpt-5.4,sandwich,degraded_25,sandwich,True
+gpt-5.4,sandwich,degraded_50,sandwich,True
+gpt-5.4,sandwich,degraded_75,sandwich,True
+gpt-5.4,sandwich,degraded_90,sandwich,True
+gpt-5.4,saw,mooney,handsaw,True
+gpt-5.4,saw,mooney_inv,cone,False
+gpt-5.4,saw,degraded_25,hand saw,True
+gpt-5.4,saw,degraded_50,hand saw,True
+gpt-5.4,saw,degraded_75,hand saw,True
+gpt-5.4,saw,degraded_90,handsaw,True
+gpt-5.4,scissors,mooney,scissors,True
+gpt-5.4,scissors,mooney_inv,scissors,True
+gpt-5.4,scissors,degraded_25,scissors,True
+gpt-5.4,scissors,degraded_50,scissors,True
+gpt-5.4,scissors,degraded_75,scissors,True
+gpt-5.4,scissors,degraded_90,scissors,True
+gpt-5.4,screw,mooney,screw,True
+gpt-5.4,screw,mooney_inv,screw,True
+gpt-5.4,screw,degraded_25,screw,True
+gpt-5.4,screw,degraded_50,screw,True
+gpt-5.4,screw,degraded_75,screw,True
+gpt-5.4,screw,degraded_90,screw,True
+gpt-5.4,screwdriver,mooney,screwdriver,True
+gpt-5.4,screwdriver,mooney_inv,screwdriver,True
+gpt-5.4,screwdriver,degraded_25,screwdriver,True
+gpt-5.4,screwdriver,degraded_50,screwdriver,True
+gpt-5.4,screwdriver,degraded_75,screwdriver,True
+gpt-5.4,screwdriver,degraded_90,screwdriver,True
+gpt-5.4,sea_horse,mooney,seahorse,True
+gpt-5.4,sea_horse,mooney_inv,seahorse,True
+gpt-5.4,sea_horse,degraded_25,seahorse,True
+gpt-5.4,sea_horse,degraded_50,seahorse,True
+gpt-5.4,sea_horse,degraded_75,seahorse,True
+gpt-5.4,sea_horse,degraded_90,seahorse,True
+gpt-5.4,seal,mooney,frog,False
+gpt-5.4,seal,mooney_inv,frog,False
+gpt-5.4,seal,degraded_25,seal,True
+gpt-5.4,seal,degraded_50,seal,True
+gpt-5.4,seal,degraded_75,frog,False
+gpt-5.4,seal,degraded_90,seal,True
+gpt-5.4,sheep,mooney,sheep,True
+gpt-5.4,sheep,mooney_inv,cow,False
+gpt-5.4,sheep,degraded_25,sheep,True
+gpt-5.4,sheep,degraded_50,sheep,True
+gpt-5.4,sheep,degraded_75,sheep,True
+gpt-5.4,sheep,degraded_90,sheep,True
+gpt-5.4,shirt,mooney,shirt,True
+gpt-5.4,shirt,mooney_inv,shirt,True
+gpt-5.4,shirt,degraded_25,shirt,True
+gpt-5.4,shirt,degraded_50,shirt,True
+gpt-5.4,shirt,degraded_75,shirt,True
+gpt-5.4,shirt,degraded_90,shirt,True
+gpt-5.4,shoe,mooney,shoe,True
+gpt-5.4,shoe,mooney_inv,shoe,True
+gpt-5.4,shoe,degraded_25,shoe,True
+gpt-5.4,shoe,degraded_50,shoe,True
+gpt-5.4,shoe,degraded_75,shoe,True
+gpt-5.4,shoe,degraded_90,shoe,True
+gpt-5.4,skirt,mooney,skirt,True
+gpt-5.4,skirt,mooney_inv,skirt,True
+gpt-5.4,skirt,degraded_25,skirt,True
+gpt-5.4,skirt,degraded_50,skirt,True
+gpt-5.4,skirt,degraded_75,skirt,True
+gpt-5.4,skirt,degraded_90,skirt,True
+gpt-5.4,skunk,mooney,squirrel,False
+gpt-5.4,skunk,mooney_inv,dog,False
+gpt-5.4,skunk,degraded_25,skunk,True
+gpt-5.4,skunk,degraded_50,dinosaur,False
+gpt-5.4,skunk,degraded_75,scorpion,False
+gpt-5.4,skunk,degraded_90,stroller,False
+gpt-5.4,sled,mooney,stapler,False
+gpt-5.4,sled,mooney_inv,stapler,False
+gpt-5.4,sled,degraded_25,picnic table,False
+gpt-5.4,sled,degraded_50,stapler,False
+gpt-5.4,sled,degraded_75,stapler,False
+gpt-5.4,sled,degraded_90,stapler,False
+gpt-5.4,snail,mooney,snail,True
+gpt-5.4,snail,mooney_inv,snail,True
+gpt-5.4,snail,degraded_25,snail,True
+gpt-5.4,snail,degraded_50,snail,True
+gpt-5.4,snail,degraded_75,snail,True
+gpt-5.4,snail,degraded_90,snail,True
+gpt-5.4,snake,mooney,seahorse,False
+gpt-5.4,snake,mooney_inv,seahorse,False
+gpt-5.4,snake,degraded_25,snake,True
+gpt-5.4,snake,degraded_50,snake,True
+gpt-5.4,snake,degraded_75,snake,True
+gpt-5.4,snake,degraded_90,snake,True
+gpt-5.4,snowman,mooney,snowman,True
+gpt-5.4,snowman,mooney_inv,snowman,True
+gpt-5.4,snowman,degraded_25,snowman,True
+gpt-5.4,snowman,degraded_50,snowman,True
+gpt-5.4,snowman,degraded_75,snowman,True
+gpt-5.4,snowman,degraded_90,snowman,True
+gpt-5.4,sock,mooney,sock,True
+gpt-5.4,sock,mooney_inv,sock,True
+gpt-5.4,sock,degraded_25,sock,True
+gpt-5.4,sock,degraded_50,sock,True
+gpt-5.4,sock,degraded_75,sock,True
+gpt-5.4,sock,degraded_90,sock,True
+gpt-5.4,spider,mooney,spider,True
+gpt-5.4,spider,mooney_inv,spider,True
+gpt-5.4,spider,degraded_25,spider,True
+gpt-5.4,spider,degraded_50,spider,True
+gpt-5.4,spider,degraded_75,spider,True
+gpt-5.4,spider,degraded_90,spider,True
+gpt-5.4,spinning_wheel,mooney,spinning wheel,True
+gpt-5.4,spinning_wheel,mooney_inv,spinning wheel,True
+gpt-5.4,spinning_wheel,degraded_25,spinning wheel,True
+gpt-5.4,spinning_wheel,degraded_50,spinning wheel,True
+gpt-5.4,spinning_wheel,degraded_75,cement mixer,False
+gpt-5.4,spinning_wheel,degraded_90,spinning wheel,True
+gpt-5.4,spool_of_thread,mooney,thread spool,True
+gpt-5.4,spool_of_thread,mooney_inv,measuring cup,False
+gpt-5.4,spool_of_thread,degraded_25,thread spool,True
+gpt-5.4,spool_of_thread,degraded_50,thread spool,True
+gpt-5.4,spool_of_thread,degraded_75,thread spool,True
+gpt-5.4,spool_of_thread,degraded_90,spool of thread,True
+gpt-5.4,spoon,mooney,spoon,True
+gpt-5.4,spoon,mooney_inv,spoon,True
+gpt-5.4,spoon,degraded_25,spoon,True
+gpt-5.4,spoon,degraded_50,spoon,True
+gpt-5.4,spoon,degraded_75,spoon,True
+gpt-5.4,spoon,degraded_90,spoon,True
+gpt-5.4,squirrel,mooney,squirrel,True
+gpt-5.4,squirrel,mooney_inv,squirrel,True
+gpt-5.4,squirrel,degraded_25,squirrel,True
+gpt-5.4,squirrel,degraded_50,squirrel,True
+gpt-5.4,squirrel,degraded_75,squirrel,True
+gpt-5.4,squirrel,degraded_90,squirrel,True
+gpt-5.4,star,mooney,star,True
+gpt-5.4,star,mooney_inv,star,True
+gpt-5.4,star,degraded_25,star,True
+gpt-5.4,star,degraded_50,star,True
+gpt-5.4,star,degraded_75,star,True
+gpt-5.4,star,degraded_90,star,True
+gpt-5.4,stool,mooney,stool,True
+gpt-5.4,stool,mooney_inv,stool,True
+gpt-5.4,stool,degraded_25,stool,True
+gpt-5.4,stool,degraded_50,stool,True
+gpt-5.4,stool,degraded_75,stool,True
+gpt-5.4,stool,degraded_90,stool,True
+gpt-5.4,stove,mooney,oven,False
+gpt-5.4,stove,mooney_inv,oven,False
+gpt-5.4,stove,degraded_25,stove,True
+gpt-5.4,stove,degraded_50,stove,True
+gpt-5.4,stove,degraded_75,stove,True
+gpt-5.4,stove,degraded_90,oven,False
+gpt-5.4,strawberry,mooney,strawberry,True
+gpt-5.4,strawberry,mooney_inv,strawberry,True
+gpt-5.4,strawberry,degraded_25,strawberry,True
+gpt-5.4,strawberry,degraded_50,strawberry,True
+gpt-5.4,strawberry,degraded_75,strawberry,True
+gpt-5.4,strawberry,degraded_90,strawberry,True
+gpt-5.4,suitcase,mooney,suitcase,True
+gpt-5.4,suitcase,mooney_inv,ice cube,False
+gpt-5.4,suitcase,degraded_25,suitcase,True
+gpt-5.4,suitcase,degraded_50,suitcase,True
+gpt-5.4,suitcase,degraded_75,suitcase,True
+gpt-5.4,suitcase,degraded_90,suitcase,True
+gpt-5.4,sun,mooney,sun,True
+gpt-5.4,sun,mooney_inv,sun,True
+gpt-5.4,sun,degraded_25,sun,True
+gpt-5.4,sun,degraded_50,sun,True
+gpt-5.4,sun,degraded_75,sun,True
+gpt-5.4,sun,degraded_90,sun,True
+gpt-5.4,swan,mooney,swan,True
+gpt-5.4,swan,mooney_inv,swan,True
+gpt-5.4,swan,degraded_25,swan,True
+gpt-5.4,swan,degraded_50,swan,True
+gpt-5.4,swan,degraded_75,swan,True
+gpt-5.4,swan,degraded_90,swan,True
+gpt-5.4,sweater,mooney,sweater,True
+gpt-5.4,sweater,mooney_inv,sweater,True
+gpt-5.4,sweater,degraded_25,sweater,True
+gpt-5.4,sweater,degraded_50,sweater,True
+gpt-5.4,sweater,degraded_75,sweatshirt,False
+gpt-5.4,sweater,degraded_90,sweater,True
+gpt-5.4,swing,mooney,stool,False
+gpt-5.4,swing,mooney_inv,walker,False
+gpt-5.4,swing,degraded_25,coat rack,False
+gpt-5.4,swing,degraded_50,podium,False
+gpt-5.4,swing,degraded_75,pedestal,False
+gpt-5.4,swing,degraded_90,paper towel holder,False
+gpt-5.4,table,mooney,table,True
+gpt-5.4,table,mooney_inv,table,True
+gpt-5.4,table,degraded_25,table,True
+gpt-5.4,table,degraded_50,table,True
+gpt-5.4,table,degraded_75,table,True
+gpt-5.4,table,degraded_90,table,True
+gpt-5.4,telephone,mooney,telephone,True
+gpt-5.4,telephone,mooney_inv,telephone,True
+gpt-5.4,telephone,degraded_25,rotary telephone,True
+gpt-5.4,telephone,degraded_50,rotary telephone,True
+gpt-5.4,telephone,degraded_75,rotary telephone,True
+gpt-5.4,telephone,degraded_90,rotary telephone,True
+gpt-5.4,television,mooney,microwave,False
+gpt-5.4,television,mooney_inv,microwave,False
+gpt-5.4,television,degraded_25,television,True
+gpt-5.4,television,degraded_50,television,True
+gpt-5.4,television,degraded_75,television,True
+gpt-5.4,television,degraded_90,microwave oven,False
+gpt-5.4,tennis_racket,mooney,tennis racket,True
+gpt-5.4,tennis_racket,mooney_inv,spoon,False
+gpt-5.4,tennis_racket,degraded_25,tennis racket,True
+gpt-5.4,tennis_racket,degraded_50,tennis racket,True
+gpt-5.4,tennis_racket,degraded_75,hairbrush,False
+gpt-5.4,tennis_racket,degraded_90,tennis racket,True
+gpt-5.4,thimble,mooney,thimble,True
+gpt-5.4,thimble,mooney_inv,thimble,True
+gpt-5.4,thimble,degraded_25,thimble,True
+gpt-5.4,thimble,degraded_50,bucket,False
+gpt-5.4,thimble,degraded_75,cup,False
+gpt-5.4,thimble,degraded_90,cup,False
+gpt-5.4,thumb,mooney,bird silhouette,False
+gpt-5.4,thumb,mooney_inv,penguin,False
+gpt-5.4,thumb,degraded_25,finger,False
+gpt-5.4,thumb,degraded_50,seal,False
+gpt-5.4,thumb,degraded_75,banana,False
+gpt-5.4,thumb,degraded_90,snake,False
+gpt-5.4,tie,mooney,necktie,True
+gpt-5.4,tie,mooney_inv,key,False
+gpt-5.4,tie,degraded_25,necktie,True
+gpt-5.4,tie,degraded_50,necktie,True
+gpt-5.4,tie,degraded_75,necktie,True
+gpt-5.4,tie,degraded_90,necktie,True
+gpt-5.4,tiger,mooney,pig,False
+gpt-5.4,tiger,mooney_inv,tiger,True
+gpt-5.4,tiger,degraded_25,tiger,True
+gpt-5.4,tiger,degraded_50,tiger,True
+gpt-5.4,tiger,degraded_75,tiger,True
+gpt-5.4,tiger,degraded_90,tiger,True
+gpt-5.4,toaster,mooney,toaster,True
+gpt-5.4,toaster,mooney_inv,toaster,True
+gpt-5.4,toaster,degraded_25,toaster,True
+gpt-5.4,toaster,degraded_50,box,False
+gpt-5.4,toaster,degraded_75,toaster,True
+gpt-5.4,toaster,degraded_90,toaster,True
+gpt-5.4,toe,mooney,foot,False
+gpt-5.4,toe,mooney_inv,sperm cell,False
+gpt-5.4,toe,degraded_25,sperm cell,False
+gpt-5.4,toe,degraded_50,balloon,False
+gpt-5.4,toe,degraded_75,sneaker,False
+gpt-5.4,toe,degraded_90,sperm,False
+gpt-5.4,tomato,mooney,tomato,True
+gpt-5.4,tomato,mooney_inv,tomato,True
+gpt-5.4,tomato,degraded_25,tomato,True
+gpt-5.4,tomato,degraded_50,tomato,True
+gpt-5.4,tomato,degraded_75,tomato,True
+gpt-5.4,tomato,degraded_90,tomato,True
+gpt-5.4,toothbrush,mooney,toothbrush,True
+gpt-5.4,toothbrush,mooney_inv,toothbrush,True
+gpt-5.4,toothbrush,degraded_25,toothbrush,True
+gpt-5.4,toothbrush,degraded_50,toothbrush,True
+gpt-5.4,toothbrush,degraded_75,toothbrush,True
+gpt-5.4,toothbrush,degraded_90,toothbrush,True
+gpt-5.4,top,mooney,spinning top,True
+gpt-5.4,top,mooney_inv,acorn,False
+gpt-5.4,top,degraded_25,spinning top,True
+gpt-5.4,top,degraded_50,spinning top,True
+gpt-5.4,top,degraded_75,spinning top,True
+gpt-5.4,top,degraded_90,spinning top,True
+gpt-5.4,traffic_light,mooney,traffic light,True
+gpt-5.4,traffic_light,mooney_inv,traffic light,True
+gpt-5.4,traffic_light,degraded_25,traffic light,True
+gpt-5.4,traffic_light,degraded_50,traffic light,True
+gpt-5.4,traffic_light,degraded_75,traffic light,True
+gpt-5.4,traffic_light,degraded_90,traffic light,True
+gpt-5.4,train,mooney,train,True
+gpt-5.4,train,mooney_inv,bus,False
+gpt-5.4,train,degraded_25,train,True
+gpt-5.4,train,degraded_50,train,True
+gpt-5.4,train,degraded_75,bus,False
+gpt-5.4,train,degraded_90,train,True
+gpt-5.4,tree,mooney,tree,True
+gpt-5.4,tree,mooney_inv,tree,True
+gpt-5.4,tree,degraded_25,tree,True
+gpt-5.4,tree,degraded_50,tree,True
+gpt-5.4,tree,degraded_75,tree,True
+gpt-5.4,tree,degraded_90,tree,True
+gpt-5.4,truck,mooney,truck,True
+gpt-5.4,truck,mooney_inv,truck,True
+gpt-5.4,truck,degraded_25,truck,True
+gpt-5.4,truck,degraded_50,truck,True
+gpt-5.4,truck,degraded_75,truck,True
+gpt-5.4,truck,degraded_90,truck,True
+gpt-5.4,trumpet,mooney,trumpet,True
+gpt-5.4,trumpet,mooney_inv,trumpet,True
+gpt-5.4,trumpet,degraded_25,trumpet,True
+gpt-5.4,trumpet,degraded_50,trumpet,True
+gpt-5.4,trumpet,degraded_75,trumpet,True
+gpt-5.4,trumpet,degraded_90,trumpet,True
+gpt-5.4,turtle,mooney,turtle,True
+gpt-5.4,turtle,mooney_inv,turtle,True
+gpt-5.4,turtle,degraded_25,turtle,True
+gpt-5.4,turtle,degraded_50,turtle,True
+gpt-5.4,turtle,degraded_75,turtle,True
+gpt-5.4,turtle,degraded_90,turtle,True
+gpt-5.4,umbrella,mooney,umbrella,True
+gpt-5.4,umbrella,mooney_inv,umbrella,True
+gpt-5.4,umbrella,degraded_25,umbrella,True
+gpt-5.4,umbrella,degraded_50,umbrella,True
+gpt-5.4,umbrella,degraded_75,umbrella,True
+gpt-5.4,umbrella,degraded_90,umbrella,True
+gpt-5.4,vase,mooney,vase,True
+gpt-5.4,vase,mooney_inv,vase,True
+gpt-5.4,vase,degraded_25,vase,True
+gpt-5.4,vase,degraded_50,vase,True
+gpt-5.4,vase,degraded_75,vase,True
+gpt-5.4,vase,degraded_90,vase,True
+gpt-5.4,vest,mooney,vest,True
+gpt-5.4,vest,mooney_inv,vest,True
+gpt-5.4,vest,degraded_25,vest,True
+gpt-5.4,vest,degraded_50,vest,True
+gpt-5.4,vest,degraded_75,vest,True
+gpt-5.4,vest,degraded_90,vest,True
+gpt-5.4,violin,mooney,violin,True
+gpt-5.4,violin,mooney_inv,violin,True
+gpt-5.4,violin,degraded_25,cello,False
+gpt-5.4,violin,degraded_50,violin,True
+gpt-5.4,violin,degraded_75,violin,True
+gpt-5.4,violin,degraded_90,violin,True
+gpt-5.4,wagon,mooney,wagon,True
+gpt-5.4,wagon,mooney_inv,wagon,True
+gpt-5.4,wagon,degraded_25,wagon,True
+gpt-5.4,wagon,degraded_50,wagon,True
+gpt-5.4,wagon,degraded_75,wagon,True
+gpt-5.4,wagon,degraded_90,wagon,True
+gpt-5.4,watch,mooney,watch,True
+gpt-5.4,watch,mooney_inv,watch,True
+gpt-5.4,watch,degraded_25,wristwatch,True
+gpt-5.4,watch,degraded_50,wristwatch,True
+gpt-5.4,watch,degraded_75,watch,True
+gpt-5.4,watch,degraded_90,dog collar,False
+gpt-5.4,watering_can,mooney,watering can,True
+gpt-5.4,watering_can,mooney_inv,watering can,True
+gpt-5.4,watering_can,degraded_25,watering can,True
+gpt-5.4,watering_can,degraded_50,watering can,True
+gpt-5.4,watering_can,degraded_75,watering can,True
+gpt-5.4,watering_can,degraded_90,watering can,True
+gpt-5.4,watermelon,mooney,watermelon slice,True
+gpt-5.4,watermelon,mooney_inv,watermelon slice,True
+gpt-5.4,watermelon,degraded_25,watermelon slice,True
+gpt-5.4,watermelon,degraded_50,watermelon slice,True
+gpt-5.4,watermelon,degraded_75,watermelon slice,True
+gpt-5.4,watermelon,degraded_90,watermelon slice,True
+gpt-5.4,well,mooney,well,True
+gpt-5.4,well,mooney_inv,tram,False
+gpt-5.4,well,degraded_25,wishing well,True
+gpt-5.4,well,degraded_50,wishing well,True
+gpt-5.4,well,degraded_75,juice box,False
+gpt-5.4,well,degraded_90,bus,False
+gpt-5.4,wheel,mooney,wagon wheel,True
+gpt-5.4,wheel,mooney_inv,wagon wheel,True
+gpt-5.4,wheel,degraded_25,wagon wheel,True
+gpt-5.4,wheel,degraded_50,wagon wheel,True
+gpt-5.4,wheel,degraded_75,wagon wheel,True
+gpt-5.4,wheel,degraded_90,orange slice,False
+gpt-5.4,whistle,mooney,whistle,True
+gpt-5.4,whistle,mooney_inv,whistle,True
+gpt-5.4,whistle,degraded_25,whistle,True
+gpt-5.4,whistle,degraded_50,whistle,True
+gpt-5.4,whistle,degraded_75,whistle,True
+gpt-5.4,whistle,degraded_90,whistle,True
+gpt-5.4,windmill,mooney,windmill,True
+gpt-5.4,windmill,mooney_inv,windmill,True
+gpt-5.4,windmill,degraded_25,windmill,True
+gpt-5.4,windmill,degraded_50,windmill,True
+gpt-5.4,windmill,degraded_75,windmill,True
+gpt-5.4,windmill,degraded_90,windmill,True
+gpt-5.4,window,mooney,vending machine,False
+gpt-5.4,window,mooney_inv,vending machine,False
+gpt-5.4,window,degraded_25,window,True
+gpt-5.4,window,degraded_50,window,True
+gpt-5.4,window,degraded_75,window,True
+gpt-5.4,window,degraded_90,window,True
+gpt-5.4,wineglass,mooney,wine glass,True
+gpt-5.4,wineglass,mooney_inv,wine glass,True
+gpt-5.4,wineglass,degraded_25,wine glass,True
+gpt-5.4,wineglass,degraded_50,wine glass,True
+gpt-5.4,wineglass,degraded_75,wine glass,True
+gpt-5.4,wineglass,degraded_90,wine glass,True
+gpt-5.4,wrench,mooney,wrench,True
+gpt-5.4,wrench,mooney_inv,wrench,True
+gpt-5.4,wrench,degraded_25,wrench,True
+gpt-5.4,wrench,degraded_50,wrench,True
+gpt-5.4,wrench,degraded_75,wrench,True
+gpt-5.4,wrench,degraded_90,wrench,True
+gpt-5.4,zebra,mooney,zebra,True
+gpt-5.4,zebra,mooney_inv,zebra,True
+gpt-5.4,zebra,degraded_25,zebra,True
+gpt-5.4,zebra,degraded_50,zebra,True
+gpt-5.4,zebra,degraded_75,zebra,True
+gpt-5.4,zebra,degraded_90,zebra,True

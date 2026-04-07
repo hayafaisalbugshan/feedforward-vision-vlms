@@ -26,10 +26,10 @@ from PIL import Image, ImageFilter
 # Increased from 3.0 to 7.0 — higher blur destroys more local structure,
 # forcing reliance on global form (the whole point of Mooney images).
 # At 3.0 models scored 80%+; humans score ~34%, so local features were leaking through.
-MOONEY_BLUR_RADIUS = 7.0
-
+MOONEY_BLUR_RADIUS = 2.0  # Lower for line drawings — heavy blur destroys thin lines
 # Threshold (0-255): pixels below this become black, above become white
-MOONEY_THRESHOLD = 128
+# Lower threshold for line drawings so thin dark lines survive
+MOONEY_THRESHOLD = 200
 
 # Default degradation levels to generate (added 0.90 to find model failure ceiling)
 DEFAULT_LEVELS = [0.25, 0.50, 0.75, 0.90]
